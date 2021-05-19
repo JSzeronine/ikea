@@ -1,0 +1,191 @@
+
+
+{
+    "ko" : {
+        "contents" : {
+            "name": "result-level-1",
+            "visual": [
+                {
+                    "img_pc": "../img/sustainabilitytest/pc-result1-keyvisual-bg.png",
+                    "img_mb": "../img/sustainabilitytest/m-result1-keyvisual-bg.jpg"
+                }
+            ],
+
+            "summary": {
+                "type_desc": "지구를 파괴하는 빌런",
+                "type_title": "혹한과 폭염의 아수라",
+                "type_ref": "* 지구특공대 최고 레벨은 Level 8 입니다.",
+                "level": [
+                    {
+                        "level_img": "../img/sustainabilitytest/img-level-type1.png",
+                        "alt": "지구특공대 level 1"
+                    }
+                ],
+                "title": "당신의 습관으로 인해 지구는 너무 뜨거워지기도, 추워지기도 합니다!",
+                "text": [
+                    "아스팔트 위에서 계란 후라이를 해먹을 수 있는 마법의 근간이 바로 당신이랍니다. ",
+                    "지난 여름 40도 이상의 폭염과 홍수 기억하시나요? 이대로 가다가는 겨울에도 폭설과 맹추위가 지구를 덮칠지 모릅니다. 명심하세요! 당신의 작은 실천으로 바꾼 1도가 지구를 살린다는 사실을요. "
+                ]
+            },
+
+            "detail": [
+                {
+                    "title": "빌런이 된 계기",
+                    "text": "어렸을 때 한약을 잘못 먹어 더위도 많이 타고 추위도 많이 타게 됨"
+                },
+                {
+                    "title": "자주 하는 말",
+                    "text": "\"나 하나 환경보호한다고 뭐 달라져?\""
+                },
+                {
+                    "title": "빌런 탈출을 위한 일상 속 작은 노력",
+                    "text": "쿨 토시&내복으로 사계절 나는 패피 되기"
+                }
+            ],
+
+            "product": {
+                "title": "지구 특공대가 되기 위한 특수 무기",
+                "product_name": "KLUBBSPORRE 클룹스포레",
+                "product_name_sub": "인체공학적 베개, 여러 자세용, 41x70 cm",
+                "product_price": [
+                    {
+                        "symbol": "￦",
+                        "num": "49,900"
+                    }
+                ],
+                "product_desc": "사계절 모두 편안한 인체공학적 베개 한쪽에는 쿠션감이 우수한 폼을, 다른 한쪽에는 시원한 쿨링젤로 사계절 모두 안락한 인체공학적 베개입니다.",
+                "product_link": [
+                    {
+                        "url": "https://www.ikea.com/kr/ko/p/-80446097/",
+                        "title": "자세히 보기"
+                    }
+                ]
+            },
+
+            "buttons": [
+                {
+                    "btn_restart": "다시하기",
+                    "btn_share": "결과 공유하기"
+                }
+            ],
+
+            "banner": {
+                "title": "지구를 아끼기 위한<br>더 많은 이야기 보러가기",
+                "url": "https://sustainability.ikea.kr/"
+            },
+
+            "modal": {
+                "title": "결과를 공유해보세요.",
+                "list" : [
+                    "페이스북",
+                    "트위터",
+                    "카카오톡",
+                    "네이버블로그",
+                    "카카오스토리",
+                    "URL 복사"
+                ],
+                "btn_close": "닫기",
+                "msg": [
+                    {
+                        "copy_success": "URL 복사가 완료 되었습니다.",
+                        "copy_fail": "URL 복사에 실패했습니다. 다시 시도하세요."
+                    }
+                ]
+            }
+        }
+    },
+
+
+
+
+
+    "en" : {
+        "contents" : {
+            "name": "result-level-1",
+            "visual": [
+                {
+                    "img_pc": "../img/sustainabilitytest/en-pc-result1-keyvisual-bg.png",
+                    "img_mb": "../img/sustainabilitytest/en-m-result1-keyvisual-bg.jpg"
+                }
+            ],
+
+            "summary": {
+                "type_desc": "You are a Villain.",
+                "type_title": "Dr. “Cold Wave” Jekyll and <br class='pc-br'>Mr. “Heat Wave” Hyde",
+                "type_ref": "* Earth special forces’ highest level is Level 8.",
+                "level": [
+                    {
+                        "level_img": "../img/sustainabilitytest/en-img-level-type1.png",
+                        "alt": "Planetary Special Forces LEVEL 1"
+                    }
+                ],
+                "title": "Your daily habits can blow hot and cold on our planet.",
+                "text": [
+                    "You are the one who can cook an egg on the road with extreme hot weather. ",
+                    "Do you not recall the heatwave and typhoon disaster the middle of the summer exceeding 40 degrees in temperature? With this speed, snowstorms and cold waves could be the new norm in winter. Just remember this – your small sustainable action can stop global warming and save our planet. "
+                ]
+            },
+
+            "detail": [
+                {
+                    "title": "What Turned You into a Villain",
+                    "text": "One of the side effects of the home remedy to cure the flu made you sensitive to both hot and cold temperatures."
+                },
+                {
+                    "title": "A Small Step You Can Take to Become a Superhero",
+                    "text": "Be a cool and hot fashionista with cooling arm sleeves in summer and thermal underwear in winter."
+                }
+            ],
+
+            "product": {
+                "title": "The Weapon of Your Choice in the Planetary Special Forces",
+                "product_name": "KLUBBSPORRE",
+                "product_name_sub": "Ergonomic pillow, multi position, 41x70 cm",
+                "product_price": [
+                    {
+                        "symbol": "￦",
+                        "num": "49,900"
+                    }
+                ],
+                "product_desc": "This ergonomic pillow is made of memory foam topped with a gel layer that gives you a cool, soothing sleep surface.",
+                "product_link": [
+                    {
+                        "url": "https://www.ikea.com/kr/en/p/-80446097/",
+                        "title": "View more"
+                    }
+                ]
+            },
+
+            "buttons": [
+                {
+                    "btn_restart": "Retry",
+                    "btn_share": "Share"
+                }
+            ],
+
+            "banner": {
+                "title": "View more people + planet story",
+                "url": "https://sustainability.ikea.kr/"
+            },
+
+            "modal": {
+                "title": "Share your results.",
+                "list" : [
+                    "Facebook",
+                    "Twitter",
+                    "KaKao Talk",
+                    "Naver Blog",
+                    "KaKao Story",
+                    "URL Copy"
+                ],
+                "btn_close": "Close",
+                "msg": [
+                    {
+                        "copy_success": "URL copying is complete.",
+                        "copy_fail": "URL copying failed. Please try again."
+                    }
+                ]
+            }
+        }
+    }
+}

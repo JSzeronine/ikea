@@ -1,0 +1,211 @@
+{
+    "ko" : {
+        "contents" : {
+            "kv": {
+                "title" : "목재"
+            },
+
+            "info0" : {
+                "type" : "default",
+                "title": "책임감 있는 <br> 산림 관리를 위한 노력",
+                "description" : [
+                    "IKEA는 리테일 업계에서 목재를 가장 많이 사용하는 기업 중 하나입니다. 그렇기 때문에 더 현명하게 목재를 소비하고 엄격한 기준으로 목재를 공급받을 수 있는 방법을 끊임없이 연구하고 있습니다. ",
+                    "IKEA는 IWAY 산림 규정에 따라 제품에 대해 명확한 기준을 적용하고, 사회적 논란이 있는 숲이나 보존가치가 높은 숲에서 공급되거나, 불법 벌목된 목재는 사용을 금지하고 있어요."
+                ]
+            },
+
+            "info_year_0" : {
+                "type" : "year",
+                "txt_year" : "2020",
+                "txt_year_after" : "년까지",
+                "title": "지속 가능한 출처에서<br>공급받은 목재만 사용하기",
+                "description" : [
+                    "IKEA의 궁극적인 목표는 2020년까지 재활용 목재 또는 지속 가능한 출처에서 <a class='detail-info__txt-btn' href='javascript:;'>FSC 인증</a>을 받은 목재만을 사용해 제품을 생산하는 것입니다. ",
+                    "그리고 한발 더 나아가 생산과정에서 발생하는 목재 폐기물의 양을 최소화하기 위한 책임감 있는 원료 사용을 실천하고 있습니다."
+                ],
+                "video" : [
+                    {
+                        "video_pc" : "../img/sample-video2.mp4",
+                        "video_mb": "../img/sample-video2.mp4"
+                    }
+                ],
+                "popup": [
+                    {
+                        "img" : "../img/detail/img-icon-fsn.png",
+                        "title" : "FSC 인증이란?",
+                        "description" : "지속 가능한 산림 관리에 대한 국제 표준을 정하고 제3자 독립 기관을 통해 산림 경영과 산림 자원을 이용하는 제품 생산업체를 인증하는 독립 기관입니다."
+                    }
+                ]
+            },
+
+            "certification" : {
+                "list" : [
+                    {
+                        "title" : "FSC 인증 산림에서<br>공급받는 목재",
+                        "description" : "FSC는 지속 가능한 산림 관리에 대한 국제 표준을 정하고<br class='pc-br'> 제3자 독립 기관을 통해 삼림 경영과 산림 자원을 이용하는<br class='pc-br'>제품 생산업체를 인증하는 독립 기관입니다.<br><br>IKEA는 재활용 목재 및 FSC 인증 숲을 포함한 지속 가능한 출처에서<br class='pc-br'> 공급받은 목재의 사용을 2017년까지 77%로 늘렸고, <br class='pc-br'>2020년까지 100% 달성을 목표로 하고 있습니다.",
+                        "img": "../img/detail/img-fsc.png"
+                    },
+                    {
+                        "title" : "책임감 있는 산림 관리를<br>위해 WWF와 협력하는 IKEA",
+                        "description" : "IKEA는 WWF 및 관련 단체와 함께 불법 벌목을 근절하고<br class='pc-br'> 책임감 있는 목재 무역을 확대하기 위해 노력하고 있습니다.<br><br>IKEA와 WWF는 2002년 7개국의 5개 숲 프로젝트를 시작으로<br class='pc-br'> 현재 14개 국가에서 다양한 프로젝트를 진행하며 사람과<br class='pc-br'> 환경에 유익한 믿을 수 있는 숲을 지원하고 있습니다.",
+                        "img": "../img/detail/img-wwf.png"
+                    }
+                ]
+            },
+
+            "reply_top_image" : {
+                "title" : "“IKEA는 지속 가능한 방법으로<br> 산림 관리하는 길을 적극적으로 알리고 있어요.<br><br>더 많은 사람들의 관심을 불러 모아 산림벌채 및 불법 벌목을 근절하기 위한 노력의 일환입니다.”",
+                "description" : "Mikhail Tarasov, <br>IKEA 글로벌 산림 관리 매니저"
+            },
+
+            "product_0" : {
+                "type" : "default",
+                "description": "",
+                "list" : [
+                    {
+                        "link" : "https://www.ikea.com/kr/ko/p/platsa-wardrobe-white-fonnes-white-s49241946/",
+                        "img" : "../img/detail/wood/wood-list-01.jpg",
+                        "title" : "PLATSA 플랏사",
+                        "keyword" : "옷장, 화이트/폰네스 화이트, <br>240x57x231 cm",
+                        "price" : "587,500",
+                        "number" : "",
+                        "description" : "PLATSA 플랏사 수납장은 튼튼하며 <br>우수한 품질을 자랑합니다. 스마트한 <br>디자인과 천연자원을 혼합하여 무게를 <br>획기적으로 줄여 운송비용을 낮추고<br>운반을 간소화했습니다."
+                    },
+                    {
+                        "link" : "https://www.ikea.com/kr/ko/p/ekorre-rocking-moose-red-rubberwood-30167847/",
+                        "img" : "../img/detail/wood/wood-list-02.jpg",
+                        "title" : "EKORRE 에코레",
+                        "keyword" : "흔들무스, 레드, 고무나무",
+                        "price" : "49,900",
+                        "number" : "",
+                        "description" : "EKORRE 에코레 흔들무스는 책임감 <br>있게 관리된 아시아의 산림에서 채취한 <br>고무나무로 제작되었습니다. 나무를 <br>장작으로 소모하지 않고 가구를 만드는 <br>것이 IKEA가 지구의 자원을 소중히 <br>여기는 방법 중 하나입니다."
+                    },
+                    {
+                        "link" : "https://www.ikea.com/kr/ko/p/havsta-glass-door-cabinet-dark-brown-10391060/",
+                        "img" : "../img/detail/wood/wood-list-03.jpg",
+                        "title" : "HAVSTA 하브스타",
+                        "keyword" : "유리도어수납장, 다크브라운, 81x35x123 cm",
+                        "price" : "260,000",
+                        "number" : "",
+                        "description" : "HAVSTA  하브스타 시리즈는 지속 <br>가능한 방법으로 벌목한 소나무 <br>원목으로 제작되었습니다. 브러시와 <br>매트한 마감으로 부드럽고 독립적으로 쓰기에도 적합하며 시리즈 제품을 <br>유닛해서 쓰기에도 좋습니다."
+                    }
+                ]
+            },
+
+            "info1" : {
+                "type" : "default",
+                "title": "씨 뿌리기 프로젝트 : <br>생태계 복원 20주년",
+                "description" : [
+                    "1983년에 일어난 산불로 보르네오섬 북동부에 자리한 사바 열대 우림의 18,500헥타르가 파괴되었습니다. 그 후 IKEA에서 시작한 열대 우림 복원 프로젝트인 씨 뿌리기(Sow A Seed) 프로젝트가 20주년을 맞이했습니다. ",
+                    "그 결과, 지금까지 축구장 26,000개 크기에 달하는 12,500헥타르의 산림이 복원되어 오랑우탄과 새끼 코끼리가 잃어버렸던 집을 다시 찾게 되었습니다. ",
+                    "이 모든 것은 더 나은 환경을 만들고자 하는 작은 바램으로 시작되었습니다."
+                ]
+            }
+        }
+    },
+
+    "en" : {
+        "contents" : {
+            "kv": {
+                "title" : "Wood"
+            },
+
+            "info0" : {
+                "type" : "default",
+                "title": "IKEA’s responsibility and<br class='pc-br'> efforts for forests",
+                "description" : [
+                    "IKEA is one of the largest consumers of wood among retailers. Being a large business comes with large responsibilities. IKEA strives for finding ways to treat forests wisely, responsibly and sustainably. ",
+                    "Today, all our wood is sourced in compliance with the IWAY Forestry Standard, which bans wood from sources involved in forest-related conflicts or illegal harvests. "
+                ]
+            },
+
+            "info_year_0" : {
+                "type" : "year",
+                "txt_year" : "2020",
+                "txt_year_after" : "By",
+                "title": "All the wood IKEA uses will<br class='pc-br'> come from more sustainable sources",
+                "description" : [
+                    "IKEA’s ambition is that by 2020, 100% of our wood will be <a class='detail-info__txt-btn' href='javascript:;'>FSC (Forestry Stewardship Council) certified</a> or from recycled sources. ",
+                    "In addition, IKEA responsibly treats materials in ways that allow<br class='pc-br'> us to minimize wood waste. "
+                ],
+                "video" : [
+                    {
+                        "video_pc" : "../img/sample-video2.mp4",
+                        "video_mb": "../img/sample-video2.mp4"
+                    }
+                ],
+                "popup": [
+                    {
+                        "img" : "../img/detail/img-icon-fsn.png",
+                        "title" : "What does it mean to be <br>FSC Certified?",
+                        "description" : "The FSC is a nonprofit organization and its standard sets rules which outline how to achieve responsible forest management. FSC makes sure harvested trees are replaced, it helps to protect sensitive animal and plant life, stimulates economic development, and protects the rights of the people who work and live in the forests. "
+                    }
+                ]
+            },
+
+            "certification" : {
+                "list" : [
+                    {
+                        "title" : "FSC certified<br> wood",
+                        "description" : "The FSC is a nonprofit organization and its standard<br class='pc-br'> sets rules which outline how to achieve responsible<br class='pc-br'> forest management. FSC makes sure harvested trees<br class='pc-br'> are replaced, it helps to protect sensitive animal and<br class='pc-br'> plant life, stimulates economic development, and<br class='pc-br'> protects the rights of the people who work and live in<br class='pc-br'> the forests.<br><br>At the end of 2017, approximately 77% of the wood<br class='pc-br'> we use are from more sustainable sources including<br class='pc-br'> recycled and FSC certified wood, and our goal is to<br class='pc-br'> reach 100% by 2020.",
+                        "img": "../img/detail/img-fsc.png"
+                    },
+                    {
+                        "title" : "IKEA joining forces with<br class='pc-br'> WWF for the responsible<br class='pc-br'> forest management",
+                        "description" : "IKEA works with global partners including WWF to<br class='pc-br'> combat illegal logging and promote responsible and<br class='pc-br'> transparent timber trade.<br><br>IKEA and WWF began five forest projects in seven<br class='pc-br'> countries in 2002, today, we collaborate in<br class='pc-br'> 15 countries on a variety of projects. The aim is to<br class='pc-br'> support credible forest certification that benefits<br class='pc-br'> both people and the environment.",
+                        "img": "../img/detail/img-wwf.png"
+                    }
+                ]
+            },
+
+            "reply_top_image" : {
+                "title" : "“IKEA is actively promoting responsible forestry methods.<br><br> We do this to influence the industry and also to contribute to the important work of<br class='pc-br'> ending deforestation.”",
+                "description" : "Mikhail Tarasov, <br>IKEA Global Forestry Manager"
+            },
+
+            "product_0" : {
+                "type" : "default",
+                "description": "",
+                "list" : [
+                    {
+                        "link" : "https://www.ikea.com/kr/en/p/platsa-wardrobe-white-fonnes-white-s49241946/",
+                        "img" : "../img/detail/wood/wood-list-01.jpg",
+                        "title" : "PLATSA",
+                        "keyword" : "Wardrobe, white/Fonnes white <br>240x57x231 cm",
+                        "price" : "587,500",
+                        "number" : "",
+                        "description" : "PLATSA is a solid and high-quality wardrobe. Its smart design and<br class='pc-br'> lightness make transportation<br class='pc-br'> cheaper and easier."
+                    },
+                    {
+                        "link" : "https://www.ikea.com/kr/en/p/ekorre-rocking-moose-red-rubberwood-30167847/",
+                        "img" : "../img/detail/wood/wood-list-02.jpg",
+                        "title" : "EKORRE",
+                        "keyword" : "Rocking-moose, red/rubberwood",
+                        "price" : "49,900",
+                        "number" : "",
+                        "description" : "EKORRE is made of rubber wood<br class='pc-br'> from responsibly managed forests in Asia. Instead of letting the wood become firewood, we use it for furniture – and take better care of the planet's resources by doing so."
+                    },
+                    {
+                        "link" : "https://www.ikea.com/kr/en/p/havsta-glass-door-cabinet-dark-brown-10391060/",
+                        "img" : "../img/detail/wood/wood-list-03.jpg",
+                        "title" : "HAVSTA",
+                        "keyword" : "Glass-door cabinet, dark brown 81x35x123 cm",
+                        "price" : "260,000",
+                        "number" : "",
+                        "description" : "HAVSTA is made from sustainably-sourced solid pine. Its brushed, matte finish gives a smooth, natural texture. You can use this stackable unit in combination with other units, or convert it into a standalone."
+                    }
+                ]
+            },
+
+            "info1" : {
+                "type" : "default",
+                "title": "The Sow-a-Seed Project: <br class='pc-br'> the 20th anniversary of<br class='pc-br'> rehabilitating ecosystem",
+                "description" : [
+                    "In 1998, 18,500 hectares of lowland rainforest was devastated by logging and forest fires in the state of Sabah in Malaysian Borneo. To rehabilitate it, the IKEA group initiated the Sow a Seed Foundation, which now celebrates the 20th anniversary. ",
+                    "The project has helped rehabilitate 12,500 hectares of rainforest (the size of 26,000 football pitches) and find home for wild animals including orangutans and elephants. ",
+                    "It all started with a little wish to make our planet better. "
+                ]
+            }
+        }
+    }
+}

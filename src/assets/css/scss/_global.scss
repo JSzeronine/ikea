@@ -1,0 +1,69 @@
+
+// font
+$font-weight-bold : 700;
+
+$font-family-bold: "NotoIKEAKorean-Bold";
+$font-family-regular : "NotoIKEAKorean-Regular";
+
+
+
+
+
+
+
+
+$font-size-base:              1rem !default; // 16px;
+
+
+// pc
+$font-size-2xs          :($font-size-base * 0.875);      // 14px
+$font-size-xs           :($font-size-base * 1.125);      // 18px
+$font-size-s            :($font-size-base * 1.375);      // 22px *( 20 도 이걸로 쓸것 )
+$font-size-me           :($font-size-base * 1.75);       // 28px *( 30 도 이걸로 쓸것 )
+$font-size-lg           :($font-size-base * 2.25);       // 36px
+$font-size-xl           :($font-size-base * 2.5);        // 40px
+$font-size-2xl          :($font-size-base * 2.75);       // 44px
+$font-size-3xl          :($font-size-base * 4);          // 64px
+
+
+// mobile only size( 안씀 ).
+$font-size-m-s: ($font-size-base * 0.875); //14px
+$font-size-m-me: ($font-size-base * 1); //16px
+$font-size-m-lg: ($font-size-base * 1.25); //20px
+$font-size-m-xl: ($font-size-base * 1.5); //24px
+$font-size-m-2xl: ($font-size-base * 1.875); //30px
+$font-size-m-3xl: ($font-size-base * 2.5); //40px
+
+
+// depth
+$z-index-header:101;
+$z-index-footer:100;
+
+$z-index-kv : 50;
+
+//color
+$color-set-green:#009945;
+
+
+$stage-min-width : 1280px;
+$stage-contents-width : 1200px;
+
+
+/*
+    * px 값을 360 기준으로 vw 값으로 으로 변환하는 함수
+
+    : 사용 방법
+    margin-top : 10px ---> margin-top : pxtovw360( 10 )
+    ( 10 / 360 ) * 100vw = 1.3889vw;
+*/
+@function pxtovw414( $value, $w : 414 ){
+    @return ( $value / $w ) * 100vw;
+}
+
+@function pxtopercent414( $value, $w : 414  ){
+    @return ( $value / $w ) * 100%;
+}
+
+@function pxtovh414( $value, $w : 896 ){
+    @return ( $value / $w ) * 100vh;
+}

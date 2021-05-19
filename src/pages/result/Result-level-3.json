@@ -1,0 +1,191 @@
+
+
+{
+    "ko" : {
+        "contents" : {
+            "name": "result-level-3",
+            "visual": [
+                {
+                    "img_pc": "../img/sustainabilitytest/pc-result3-keyvisual-bg.png",
+                    "img_mb": "../img/sustainabilitytest/m-result3-keyvisual-bg.jpg"
+                }
+            ],
+
+            "summary": {
+                "type_desc": "지구를 파괴하는 빌런",
+                "type_title": "바다거북의 저승사자",
+                "type_ref": "* 지구특공대 최고 레벨은 Level 8 입니다.",
+                "level": [
+                    {
+                        "level_img": "../img/sustainabilitytest/img-level-type3.png",
+                        "alt": "지구특공대 level 3"
+                    }
+                ],
+                "title": "한겨울에도 얼죽아인 당신, 습관처럼 아이스 아메리카노를 하루에 5잔씩 드링킹!",
+                "text": [
+                    "방금 당신이 쓴 빨대는 분해되는 데 500년이 걸립니다. ",
+                    "플라스틱 빌런인 당신 때문에 전 세계 바다거북과 바다코끼리들의 수명이 줄어들고 있습니다. 바다 생물들에게 당신은 죽음을 부르는 저승사자입니다. 나 정도면 착하게 사는 줄 알았다고요? 이제 검은 도포를 벗고, 생활습관을 돌아볼 시점입니다. "
+                ]
+            },
+
+            "detail": [
+                {
+                    "title": "빌런이 된 계기",
+                    "text": "내추럴 본 얼죽아, 일회용 컵과 빨대에 익숙할 대로 익숙해짐"
+                },
+                {
+                    "title": "자주 하는 말",
+                    "text": "(카페에서) \"테이크아웃이요.\" (슈퍼에서) \"비닐봉지에 담아주세요\""
+                },
+                {
+                    "title": "빌런 탈출을 위한 일상 속 작은 노력",
+                    "text": "노빨대 예스텀블러 전도사 되기"
+                }
+            ],
+
+            "product": {
+                "title": "지구 특공대가 되기 위한 특수 무기",
+                "product_name": "UPPLADDA 우플라다",
+                "product_name_sub": "차보틀+빨대, 0.7 l",
+                "product_price": [
+                    {
+                        "symbol": "￦",
+                        "num": "7,900"
+                    }
+                ],
+                "product_desc": "예스텀블러들의 지구를 위한 잇템! 환경호르몬인BPA(비스페놀)가 함유되지 않은 튼튼하고 안전한 텀블러입니다. 비타민 또는 신선한 과일을 담을 수 있는 건조식품칸과 빨대가 포함되어 있어요. 나와 지구의 건강까지 생각한 텀블러를 사용해 보세요!",
+                "product_link": [
+                    {
+                        "url": "https://www.ikea.com/kr/ko/p/-10415344/",
+                        "title": "자세히 보기"
+                    }
+                ]
+            },
+
+            "buttons": [
+                {
+                    "btn_restart": "다시하기",
+                    "btn_share": "결과 공유하기"
+                }
+            ],
+
+            "banner": {
+                "title": "지구를 아끼기 위한<br>더 많은 이야기 보러가기",
+                "url": "https://sustainability.ikea.kr/"
+            },
+
+            "modal": {
+                "title": "결과를 공유해보세요.",
+                "list" : [
+                    "페이스북",
+                    "트위터",
+                    "카카오톡",
+                    "네이버블로그",
+                    "카카오스토리",
+                    "URL 복사"
+                ],
+                "btn_close": "닫기",
+                "msg": [
+                    {
+                        "copy_success": "URL 복사가 완료 되었습니다.",
+                        "copy_fail": "URL 복사에 실패했습니다. 다시 시도하세요."
+                    }
+                ]
+            }
+        }
+    },
+
+
+
+
+
+    "en" : {
+        "contents" : {
+            "name": "result-level-3",
+            "visual": [
+                {
+                    "img_pc": "../img/sustainabilitytest/en-pc-result3-keyvisual-bg.png",
+                    "img_mb": "../img/sustainabilitytest/en-m-result3-keyvisual-bg.jpg"
+                }
+            ],
+
+            "summary": {
+                "type_desc": "You are a Villain.",
+                "type_title": "Angel of Death for Sea Turtles",
+                "type_ref": "* Earth special forces’ highest level is Level 8.",
+                "level": [
+                    {
+                        "level_img": "../img/sustainabilitytest/en-img-level-type3.png",
+                        "alt": "Planetary Special Forces LEVEL 3"
+                    }
+                ],
+                "title": "Big fan of coffee-to-go in plastic cup?",
+                "text": [
+                    "Then, did you know that the plastic straw takes 500 years to decompose? ",
+                    "Plastic lovers like you are cutting down the lives of sea turtles and sea lions around the world. You can be the angel of death for sea creatures. You may have thought you were doing all the right things, but think again. It is not too late to become a guardian angel for our sea creatures. "
+                ]
+            },
+
+            "detail": [
+                {
+                    "title": "What Turned You into a Villain",
+                    "text": "Born and raised with efficient to-go services."
+                },
+                {
+                    "title": "A Small Step You Can Take to Become a Superhero",
+                    "text": "Become a NO STRAW AND YES TUMBLER MAN"
+                }
+            ],
+
+            "product": {
+                "title": "The Weapon of Your Choice in the Planetary Special Forces",
+                "product_name": "UPPLADDA",
+                "product_name_sub": "Infusion bottle with straw, 0.7 l",
+                "product_price": [
+                    {
+                        "symbol": "￦",
+                        "num": "7,900"
+                    }
+                ],
+                "product_desc": "It's almost a miracle that water can taste so good! Fill the bottle's infusion container with your favorite fruits to enjoy vitamins and refreshing liquid – and feel healthy and rejuvenated all day. It’s BPA (Bisphenol A) free as well. Why don’t you try this which is good me and good for the Earth.",
+                "product_link": [
+                    {
+                        "url": "https://www.ikea.com/kr/en/p/-10415344/",
+                        "title": "자세히 보기"
+                    }
+                ]
+            },
+
+            "buttons": [
+                {
+                    "btn_restart": "Retry",
+                    "btn_share": "Share"
+                }
+            ],
+
+            "banner": {
+                "title": "View more people + planet story",
+                "url": "https://sustainability.ikea.kr/"
+            },
+
+            "modal": {
+                "title": "Share your results.",
+                "list" : [
+                    "Facebook",
+                    "Twitter",
+                    "KaKao Talk",
+                    "Naver Blog",
+                    "KaKao Story",
+                    "URL Copy"
+                ],
+                "btn_close": "Close",
+                "msg": [
+                    {
+                        "copy_success": "URL copying is complete.",
+                        "copy_fail": "URL copying failed. Please try again."
+                    }
+                ]
+            }
+        }
+    }
+}

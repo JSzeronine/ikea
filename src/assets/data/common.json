@@ -1,0 +1,122 @@
+
+{
+    "ko" : {
+        "common" : {
+            "header" : {
+                "link_home" : "./teaser/",
+                "link_lab" : "./lab",
+                "banner": [
+                    {"text": "IKEA Lab에서 열리는<br>지속 가능한 콘서트", "link": "./lab/#concert"},
+                    {"text": "지구를 아끼는<br>틱톡 챌린지 참여하기", "link": "./lab/#event"}
+                ]
+            },
+
+            "footer" : {
+                "share" : [
+                    {
+                        "link" : "https://www.facebook.com/IKEA.kr/",
+                        "img_icon" : "./img/common/icon-facebook.png"
+                    },
+                    {
+                        "link" : "https://www.instagram.com/ikeakr/",
+                        "img_icon" : "./img/common/icon-instar.png"
+                    },
+                    {
+                        "link" : "https://www.youtube.com/channel/UCvt32qJUh606U-W_hr-EF7A",
+                        "img_icon" : "./img/common/icon-youtube.png"
+                    }
+                ],
+
+                "languages" : [
+                    {
+                        "country" : "한국어",
+                        "link" : "ko/"
+                    },
+                    {
+                        "country" : "영어",
+                        "link" : "en/"
+                    }
+                ],
+
+                "address" : {
+                    "system" : "© Inter IKEA Systems B.V 1999-2020",
+
+                    "responsible" : "Responsible disclosure",
+                    "link_responsible" : "https://www.ikea.com/kr/ko/customer-service/responsible-disclosure/",
+
+                    "company" : "IKEA 코리아",
+
+                    "infos" : [
+                        "주소 : (우) 14352 경기도 광명시 일직로 17 IKEA광명점",
+                        "사업자 등록번호 : 106-86-82871 <a href='http://www.ftc.go.kr/bizCommPop.do?wrkr_no=1068682871'>사업자정보확인</a>",
+                        "대표자 : 프레드릭 요한손",
+                        "통신판매업 신고 : 2018-경기광명-0209"
+                    ],
+
+                    "tel" : "1670-4532"
+                }
+            }
+        }
+    },
+
+
+    "en" : {
+
+        "common": {
+            "header": {
+                "link_home" : "./teaser/",
+                "link_lab" : "./lab/",
+                "banner": [
+                    {"text": "Sustainable talk<br>concert at IKEA Lab", "link": "./lab/#concert"},
+                    {"text": "Join TikTok<br>challenge now", "link": "./lab/#event"}
+                ]
+            },
+
+            "footer": {
+                "share" : [
+                    {
+                        "link" : "https://www.facebook.com/IKEA.kr/",
+                        "img_icon" : "./img/common/icon-facebook.png"
+                    },
+                    {
+                        "link" : "https://www.instagram.com/ikeakr/",
+                        "img_icon" : "./img/common/icon-instar.png"
+                    },
+                    {
+                        "link" : "https://www.youtube.com/channel/UCvt32qJUh606U-W_hr-EF7A",
+                        "img_icon" : "./img/common/icon-youtube.png"
+                    }
+                ],
+
+                "languages": [
+                    {
+                        "country": "ENGLISH",
+                        "link": "en/"
+                    },
+                    {
+                        "country": "KOREAN",
+                        "link": "ko/"
+                    }
+                ],
+
+                "address" : {
+                    "system" : "© Inter IKEA Systems B.V 1999-2020",
+
+                    "responsible" : "Responsible disclosure",
+                    "link_responsible" : "https://www.ikea.com/kr/ko/customer-service/responsible-disclosure/",
+
+                    "company" : "IKEA KOREA",
+
+                    "infos" : [
+                        "Address : 17 ILJIK-RO, GWANGMYEONG-SI, GYEONGGI-DO 14352",
+                        "Company Registration Number : 106-86-82871 <a href='http://www.ftc.go.kr/bizCommPop.do?wrkr_no=1068682871'>BUSINESS INFO ></a>",
+                        "Country Retail Manager : Fredrik Johansson",
+                        "Telecommunication Services Registration Number. : 2018-경기광명-0209"
+                    ],
+
+                    "tel" : "1670-4532"
+                }
+            }
+        }
+    }
+}

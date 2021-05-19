@@ -1,0 +1,228 @@
+{
+    "ko" : {
+        "contents" : {
+            "kv": {
+                "title" : "울"
+            },
+
+            "info0" : {
+                "type" : "default",
+                "title": "천연 소재에 <br>대한 믿음",
+                "description" : [
+                    "IKEA는 사람과 동물, 지구에 좋은 영향을 미치고자 책임감 있는 출처에서 공급받은 울만으로 제품을 생산하려는 목표를 세워 실천해오고 있습니다. ",
+                    "책임감 있는 <a class='detail-info__txt-btn' href='javascript:;'>울 인증 기준(RWS)</a> 가이드라인 준수를 통해 양들이 풀을 먹고 쉬는 대지를 책임감 있게 관리하고 존중하여, 돌본 양에서 채취한 울을 사용함으로써 이를 실천하고 있습니다."
+                ],
+                "popup": [
+                    {
+                        "img" : "../img/detail/img-icon-rws.png",
+                        "title" : "RWS 인증이란?",
+                        "description" : "RWS는 동물 복지를 실현하기 위해 양의 자유롭고 안전한 사육 환경을 보장합니다. 또한 방목지의 토양과 생물을 보호하기 위한 방목지 관리 방법을 보장하는 기관입니다."
+                    }
+                ]
+            },
+
+            "info_year_0" : {
+                "type" : "year",
+                "txt_year" : "2025",
+                "txt_year_after" : "년까지",
+                "title": "책임감 있는 출처의<br>울만 사용하기",
+                "description" : [
+                    "IKEA는 2025년까지 100% 책임감 있는 출처에서 공급받은 울만을 사용해 제품을 생산하겠다는 목표를 세웠습니다. ",
+                    "책임감 있는 방식으로 소싱한 울을 사용하기 위해 공급받는 울의 원산지를 파악하여, 울을 제공하는 양 떼의 복지에도 긍정적인 영향을 주고 있습니다."
+                ],
+                "video" : [
+                    {
+                        "video_pc" : "../img/sample-video2.mp4",
+                        "video_mb": "../img/sample-video2.mp4"
+                    }
+                ]
+            },
+
+            "reason" : {
+                "title" : "울을<br>선택한 이유",
+                "list" : [
+                    "자연 분해되며 재생 및 재활용 가능",
+                    "강하고 내구성이 뛰어난 천연 소재",
+                    "세월이 흘러도 아름다움",
+                    "보온성과 통기성이 우수한 소재",
+                    "쉽게 염색이 가능해 다채로운 디자인 가능"
+                ],
+
+                "video_pc" : "../img/detail/wool/wool-pc-select-video.mp4",
+                "video_mb" : "../img/detail/wool/wool-m-select-video.mp4"
+            },
+
+            "reply" : {
+                "title" : "“울은 양털에서 자연적으로 <br>만들어지는 데다 계속해서 <br>자라나기 때문에 가장 지속 가능한 <br>소재라 할 수 있어요.“",
+                "description" : "Paul Smith, <br>IKEA가 RWS 울을 처음 공급 받기 시작한<br>뉴질랜드의 농장 매니저",
+                "material" : {
+                    "description" : ""
+                }
+            },
+
+            "product_0" : {
+                "type" : "default",
+                "description": "",
+                "list" : [
+                    {
+                        "link" : "https://www.ikea.com/kr/ko/p/tranget-rug-flatwoven-handmade-assorted-blue-shades-30438537/",
+                        "img" : "../img/detail/wool/wool-list-01.jpg",
+                        "title" : "TRANGET 트랑에트",
+                        "keyword" : "평직러그, 핸드메이드 블루셰이드, <br>170x240 cm",
+                        "price" : "299,000",
+                        "number" : "",
+                        "description" : "TRANGET 트랑에트 러그는 수공예 장인이 직접 제작한 울 100% 제품으로, 모든 제품이 고유한 매력을 지니고 있습니다. <br><br>재생과 재활용이 가능한 울은 보다 지속 가능한 소재로의 전환을 향한 IKEA의 노력에 아주 중요한 부분을 차지합니다."
+                    }
+                ]
+            },
+
+            "info1" : {
+                "type" : "default",
+                "title": "울 산업 변화를 위한 <br>IKEA의 노력",
+                "description" : [
+                    "공급받는 울은 좋은 근로 환경과 공정한 임금을 보장하는 인도의 직조센터에서 생산됩니다."
+                ]
+            },
+
+            "company" : {
+                "list" : [
+                    {
+                        "title" : "48",
+                        "description" : "인도 내 IKEA 파트너<br>업체 수",
+                        "img_icon_pc" : "../img/detail/wool/wool-pc-effort-icon-01.png",
+                        "img_icon_mb" : "../img/detail/wool/wool-m-effort-icon-01.png"
+                    },
+                    {
+                        "title" : "45,000+",
+                        "description" : "IKEA가 인도에서 채용한<br>직원의 수",
+                        "img_icon_pc" : "../img/detail/wool/wool-pc-effort-icon-02.png",
+                        "img_icon_mb" : "../img/detail/wool/wool-m-effort-icon-02.png"
+                    },
+                    {
+                        "title" : "40,000+",
+                        "description" : "파트너 체결된 업체<br>총 인력 수",
+                        "img_icon_pc" : "../img/detail/wool/wool-pc-effort-icon-03.png",
+                        "img_icon_mb" : "../img/detail/wool/wool-m-effort-icon-03.png"
+                    }
+                ]
+            },
+
+            "reply_bottom_image" : {
+                "title" : "“우리와 파트너십을 맺은 <br>인도의 업체를 방문할 때마다 <br>많은 영감을 얻어요.<br><br>지속 가능성과 품질은 물론 <br>사회에 긍정적 영향을 미치기 위해 얼마나 많은 노력을 기울이는지 눈으로 직접 볼 수 있으니까요.”",
+                "description" : "Torbjörn Lööf,<br>Inter IKEA 그룹 CEO"
+            }
+        }
+    },
+
+    "en" : {
+        "contents" : {
+            "kv": {
+                "title" : "Wool"
+            },
+
+            "info0" : {
+                "type" : "default",
+                "title": "Trust for <br>natural materials",
+                "description" : [
+                    "IKEA wants to have a positive impact on people, animals and the planet, that’s why we’re on a <br class='pc-br'> journey to transform all the wool we use in our products to 100% Responsibly Sourced Wool. <br class='pc-br'>",
+                    "We will do this by sourcing wool which follows the <a class='detail-info__txt-btn' href='javascript:;'>‘Responsible Wool Standard’ (RWS)</a> guideline, meaning that the wool only comes from sheep that are treated with respect, and the land where<br class='pc-br'> they eat and rest is managed responsibly. "
+                ],
+                "popup": [
+                    {
+                        "img" : "../img/detail/img-icon-rws.png",
+                        "title" : "What does it mean to be <br>RWS Certified?",
+                        "description" : "RWS Certified is a program that realizes animal welfare by ensuring that the sheep are treated with respect and provided sufficient space and safety. It ensures that the land on which they are handled is managed responsibly and the grazing methods that the farmers implement are sustainable. "
+                    }
+                ]
+            },
+
+            "info_year_0" : {
+                "type" : "year",
+                "txt_year" : "2025",
+                "txt_year_after" : "By",
+                "title": "IKEA will only use<br class='pc-br'> Responsibly Sourced Wool",
+                "description" : [
+                    "IKEA is committed to transforming all our wool to 100% Responsibly Sourced Wool by 2025.<br class='pc-br'> ",
+                    "To ensure that the wool we use is sourced in a responsible way, we need to work to secure full traceability of the wool used in our supply chain. That means we will know where all our wool<br class='pc-br'> comes from, and we can support positive animal welfare conditions for the sheep. "
+                ],
+                "video" : [
+                    {
+                        "video_pc" : "../img/sample-video2.mp4",
+                        "video_mb": "../img/sample-video2.mp4"
+                    }
+                ]
+            },
+
+            "reason" : {
+                "title" : "Reasons to <br class='pc-br'> choose wool",
+                "list" : [
+                    "Wool is renewable, biodegradable and recyclable",
+                    "Wool is a natural, durable and strong material",
+                    "Wool ages beautifully and is more resistant to stains",
+                    "Wool is highly thermal and breathable",
+                    "Wool dyes easily, so we can create many beautiful and varied design styles for you to choose from"
+                ],
+
+                "video_pc" : "../img/detail/wool/en-wool-pc-select-video.mp4",
+                "video_mb" : "../img/detail/wool/en-wool-m-select-video.mp4"
+            },
+
+            "reply" : {
+                "title" : "“Wool is an awesome product because the sheep produce it naturally, and it’s the ultimate sustainability because they just keep growing it.”",
+                "description" : "Paul Smith, <br>Farm Manager in New Zealand, <br>where IKEA has begun sourcing RWS wool"
+            },
+
+            "product_0" : {
+                "type" : "default",
+                "description": "",
+                "list" : [
+                    {
+                        "link" : "https://www.ikea.com/kr/en/p/tranget-rug-flatwoven-handmade-assorted-blue-shades-30438537/",
+                        "img" : "../img/detail/wool/wool-list-01.jpg",
+                        "title" : "TRANGET",
+                        "keyword" : "Rug, flatwoven, handmade assorted <br>blue shades, 170x240 cm",
+                        "price" : "299,000",
+                        "number" : "",
+                        "description" : "TRANGET rug is made from 100%<br class='pc-br'> wool and hand-woven by skilled<br class='pc-br'> artisans, which means each one is unique. <br><br>Being renewable and recyclable,<br class='pc-br'> wool plays an important role on our<br class='pc-br'> shift towards more sustainable materials."
+                    }
+                ]
+            },
+
+            "info1" : {
+                "type" : "default",
+                "title": "IKEA’s dedication to <br>transforming wool industry",
+                "description" : [
+                    "Supplied wool comes from India in organized weaving centers with good working conditions and fair wages."
+                ]
+            },
+
+            "company" : {
+                "list" : [
+                    {
+                        "title" : "48",
+                        "description" : "The number of IKEA’s <br class='pc-br'> business partners in India",
+                        "img_icon_pc" : "../img/detail/wool/wool-pc-effort-icon-01.png",
+                        "img_icon_mb" : "../img/detail/wool/wool-m-effort-icon-01.png"
+                    },
+                    {
+                        "title" : "45,000+",
+                        "description" : "The number of direct co-workers<br class='pc-br'> IKEA employs in India",
+                        "img_icon_pc" : "../img/detail/wool/wool-pc-effort-icon-02.png",
+                        "img_icon_mb" : "../img/detail/wool/wool-m-effort-icon-02.png"
+                    },
+                    {
+                        "title" : "40,000+",
+                        "description" : "The number of co-workers in<br class='pc-br'> IKEA’s extended supply chain",
+                        "img_icon_pc" : "../img/detail/wool/wool-pc-effort-icon-03.png",
+                        "img_icon_mb" : "../img/detail/wool/wool-m-effort-icon-03.png"
+                    }
+                ]
+            },
+
+            "reply_bottom_image" : {
+                "title" : "“ Every time I visit<br class='pc-br'> our partners in India,<br class='pc-br'> I get very inspired. <br><br>I see how much focus<br class='pc-br'> we put on sustainability,<br class='pc-br'> on the quality, and also<br class='pc-br'> the social aspect.”",
+                "description" : "Torbjörn Lööf,<br>Inter IKEA Group CEO"
+            }
+        }
+    }
+}

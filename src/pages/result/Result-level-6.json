@@ -1,0 +1,191 @@
+
+
+{
+    "ko" : {
+        "contents" : {
+            "name": "result-level-6",
+            "visual": [
+                {
+                    "img_pc": "../img/sustainabilitytest/pc-result6-keyvisual-bg.png",
+                    "img_mb": "../img/sustainabilitytest/m-result6-keyvisual-bg.jpg"
+                }
+            ],
+
+            "summary": {
+                "type_desc": "지구를 파괴하는 빌런",
+                "type_title": "입 짧은 기미상궁",
+                "type_ref": "* 지구특공대 최고 레벨은 Level 8 입니다.",
+                "level": [
+                    {
+                        "level_img": "../img/sustainabilitytest/img-level-type6.png",
+                        "alt": "지구특공대 level 6"
+                    }
+                ],
+                "title": "오늘 식사는 맛있게 하셨나요?",
+                "text": [
+                    "평상시 다른 습관은 모두 친환경적인 당신이 약해지고 마는 곳은 딱 하나, 밥상 앞입니다. ",
+                    "입이 짧아 모든 음식을 기미 상궁 st.로 맛만 보고 있어요. 전체 음식물의 1/7이 버려지고 그로 인해 연간 20조 원이 낭비되고 있다는 사실 아셨나요? 식욕을 조금만 키워보세요. 남기지 않고 다 드신다면, 지구 환경을 지키는 히어로로 활약하실 수 있습니다. "
+                ]
+            },
+
+            "detail": [
+                {
+                    "title": "빌런이 된 계기",
+                    "text": "매일 9첩 반상의 집 밥을 먹던 어린 시절을 보낸 탓에 반찬은 원래 남기는 것이라 생각하게 됨"
+                },
+                {
+                    "title": "자주 하는 말",
+                    "text": "(먹은지 5분만에) \"아~ 배불러~\""
+                },
+                {
+                    "title": "빌런 탈출을 위한 일상 속 작은 노력",
+                    "text": "외식 / 배달음식 필요 없는 집 밥 O선생 되기"
+                }
+            ],
+
+            "product": {
+                "title": "지구 특공대가 되기 위한 특수 무기",
+                "product_name": "IKEA 365+",
+                "product_name_sub": "식품보관용기+뚜껑, 사각 유리/대나무, 1.2 l",
+                "product_price": [
+                    {
+                        "symbol": "￦",
+                        "num": "5,900"
+                    }
+                ],
+                "product_desc": "맛있게 먹은 음식이 남았나요? 전자렌지에도 사용 가능한 음식 보관 용기에 담아 보세요. 다음에 먹을 수 있도록 신선한 맛과 향을 간직해요.",
+                "product_link": [
+                    {
+                        "url": "https://www.ikea.com/kr/ko/p/-s09269112/",
+                        "title": "자세히 보기"
+                    }
+                ]
+            },
+
+            "buttons": [
+                {
+                    "btn_restart": "다시하기",
+                    "btn_share": "결과 공유하기"
+                }
+            ],
+
+            "banner": {
+                "title": "지구를 아끼기 위한<br>더 많은 이야기 보러가기",
+                "url": "https://sustainability.ikea.kr/"
+            },
+
+            "modal": {
+                "title": "결과를 공유해보세요.",
+                "list" : [
+                    "페이스북",
+                    "트위터",
+                    "카카오톡",
+                    "네이버블로그",
+                    "카카오스토리",
+                    "URL 복사"
+                ],
+                "btn_close": "닫기",
+                "msg": [
+                    {
+                        "copy_success": "URL 복사가 완료 되었습니다.",
+                        "copy_fail": "URL 복사에 실패했습니다. 다시 시도하세요."
+                    }
+                ]
+            }
+        }
+    },
+
+
+
+
+
+    "en" : {
+        "contents" : {
+            "name": "result-level-6",
+            "visual": [
+                {
+                    "img_pc": "../img/sustainabilitytest/en-pc-result6-keyvisual-bg.png",
+                    "img_mb": "../img/sustainabilitytest/en-m-result6-keyvisual-bg.jpg"
+                }
+            ],
+
+            "summary": {
+                "type_desc": "You are a Villain.",
+                "type_title": "Small Appetite ‘Kimi Sang Gung’",
+                "type_ref": "* Earth special forces’ highest level is Level 8.",
+                "level": [
+                    {
+                        "level_img": "../img/sustainabilitytest/en-img-level-type6.png",
+                        "alt": "Planetary Special Forces LEVEL 6"
+                    }
+                ],
+                "title": "Did you finish your meals today?",
+                "text": [
+                    "You are environmentally conscious in all but not with food. ",
+                    "Your small appetite is driving you to take just a couple bites of your food only. Did you know that one-seventh of all food is wasted every year, sending 20 trillion won down the drain? Try to finish the food on your plate today, you can become a superhero and save our planet. "
+                ]
+            },
+
+            "detail": [
+                {
+                    "title": "What Turned You into a Villain",
+                    "text": "Having been served five-course meals every day in your childhood, not finishing the food on your plate became a fact of your life."
+                },
+                {
+                    "title": "One Small Step You Can Take to Become a Superhero",
+                    "text": "Be a master chef at home and kiss goodbye to diner/delivery food of huge portions."
+                }
+            ],
+
+            "product": {
+                "title": "The Weapon of Your Choice in the Planetary Special Forces",
+                "product_name": "IKEA 365+",
+                "product_name_sub": "Food container with lid, square glass/bamboo1.2 l",
+                "product_price": [
+                    {
+                        "symbol": "￦",
+                        "num": "5,900"
+                    }
+                ],
+                "product_desc": "Perfect for carrying food or storing leftovers. Made of oven-safe glass and can go straight from oven to table.",
+                "product_link": [
+                    {
+                        "url": "https://www.ikea.com/kr/en/p/-s09269112/",
+                        "title": "View more"
+                    }
+                ]
+            },
+
+            "buttons": [
+                {
+                    "btn_restart": "Retry",
+                    "btn_share": "Share"
+                }
+            ],
+
+            "banner": {
+                "title": "View more people + planet story",
+                "url": "https://sustainability.ikea.kr/"
+            },
+
+            "modal": {
+                "title": "Share your results.",
+                "list" : [
+                    "Facebook",
+                    "Twitter",
+                    "KaKao Talk",
+                    "Naver Blog",
+                    "KaKao Story",
+                    "URL Copy"
+                ],
+                "btn_close": "Close",
+                "msg": [
+                    {
+                        "copy_success": "URL copying is complete.",
+                        "copy_fail": "URL copying failed. Please try again."
+                    }
+                ]
+            }
+        }
+    }
+}

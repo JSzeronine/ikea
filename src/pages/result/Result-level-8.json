@@ -1,0 +1,191 @@
+
+
+{
+    "ko" : {
+        "contents" : {
+            "name": "result-level-8",
+            "visual": [
+                {
+                    "img_pc": "../img/sustainabilitytest/pc-result8-keyvisual-bg.png",
+                    "img_mb": "../img/sustainabilitytest/m-result8-keyvisual-bg.jpg"
+                }
+            ],
+
+            "summary": {
+                "type_desc": "지구를 지키는 히어로",
+                "type_title": "탄소발자국 문워커",
+                "type_ref": "* 지구특공대 최고 레벨은 Level 8 입니다.",
+                "level": [
+                    {
+                        "level_img": "../img/sustainabilitytest/img-level-type8.png",
+                        "alt": "지구특공대 level 8"
+                    }
+                ],
+                "title": "완벽! 당신이야말로 지구를 지키는 진정한 히어로!",
+                "text": [
+                    "당신은 이산화탄소를 내뿜는 지구 파괴 빌런들 뒤를 바짝 추격하며 탄소발자국을 지우고 있습니다! ",
+                    "엘리베이터 따위 거들떠보지 않고 계단을 이용하는 패기! 안 쓰는 콘센트는 반드시 뽑아두는 부지런함을 갖춘 당신 덕분에 지구가 조금씩 회복되고 있답니다. 탄소발자국을 지우며 지구의 호흡을 돕는 당신을 월드 클래스 문워커로 임명합니다. "
+                ]
+            },
+
+            "detail": [
+                {
+                    "title": "히어로가 된 계기",
+                    "text": "최애 계절이 가을인데 봄여어어어어어름갈겨우우우우우울이 돼버려 사계절을 지키기로 결심"
+                },
+                {
+                    "title": "자주 하는 말",
+                    "text": "\"쓰레기는 제가 반드시 주울 것입니다. 그것이 약속이니까\""
+                },
+                {
+                    "title": "히어로의 일상 습관",
+                    "text": "샤워시간 1분 줄이기 / 컴퓨터 절전 모드 사용하기"
+                }
+            ],
+
+            "product": {
+                "title": "지구 특공대가 되기 위한 특수 무기",
+                "product_name": "ALLEMANSRÄTTEN 알레만스레텐",
+                "product_name_sub": "냉동베지볼, 채소 100%",
+                "product_price": [
+                    {
+                        "symbol": "￦",
+                        "num": "9,900"
+                    }
+                ],
+                "product_desc": "탄소발자국을 줄일 수 있는 또 다른 방법! 고기는 생산 과정에서 온실가스를 배출하여 기후 변화를 유발해요. 사람과 지구를 위해 100% 채소로 지속 가능한 먹거리를 만들면 탄소 발자국을 낮출 수 있어요!",
+                "product_link": [
+                    {
+                        "url": "https://www.ikea.com/kr/ko/p/-40346434/",
+                        "title": "자세히 보기"
+                    }
+                ]
+            },
+
+            "buttons": [
+                {
+                    "btn_restart": "다시하기",
+                    "btn_share": "결과 공유하기"
+                }
+            ],
+
+            "banner": {
+                "title": "지구를 아끼기 위한<br>더 많은 이야기 보러가기",
+                "url": "https://sustainability.ikea.kr/"
+            },
+
+            "modal": {
+                "title": "결과를 공유해보세요.",
+                "list" : [
+                    "페이스북",
+                    "트위터",
+                    "카카오톡",
+                    "네이버블로그",
+                    "카카오스토리",
+                    "URL 복사"
+                ],
+                "btn_close": "닫기",
+                "msg": [
+                    {
+                        "copy_success": "URL 복사가 완료 되었습니다.",
+                        "copy_fail": "URL 복사에 실패했습니다. 다시 시도하세요."
+                    }
+                ]
+            }
+        }
+    },
+
+
+
+
+
+    "en" : {
+        "contents" : {
+            "name": "result-level-8",
+            "visual": [
+                {
+                    "img_pc": "../img/sustainabilitytest/en-pc-result8-keyvisual-bg.png",
+                    "img_mb": "../img/sustainabilitytest/en-m-result8-keyvisual-bg.jpg"
+                }
+            ],
+
+            "summary": {
+                "type_desc": "You are a Superhero",
+                "type_title": "Carbon Footprint Removing <br class='pc-br'>Moonwalker",
+                "type_ref": "* Earth special forces’ highest level is Level 8.",
+                "level": [
+                    {
+                        "level_img": "../img/sustainabilitytest/en-img-level-type8.png",
+                        "alt": "Planetary Special Forces LEVEL 8"
+                    }
+                ],
+                "title": "Perfect! You are the true superhero guarding our planet by going after the villains destroying our planet and removing their carbon footprint.",
+                "text": [
+                    "Your valuable attitudes such using stairs instead of elevator have been helpful for the earth to restore. ",
+                    "You are a true world class moonwalker that will be knighted as one with carbon footprint-removing super power. "
+                ]
+            },
+
+            "detail": [
+                {
+                    "title": "How You Became a Superhero",
+                    "text": "No more autumn dur to extreme weather gets a boost from climate change."
+                },
+                {
+                    "title": "Your Daily Habits",
+                    "text": "Cutting your shower time by one minute. Putting your computer into sleep mode."
+                }
+            ],
+
+            "product": {
+                "title": "The Weapon of Your Choice in the Planetary Special Forces",
+                "product_name": "ALLEMANSRÄTTEN",
+                "product_name_sub": "Vegetable balls, frozen, 100% vegetables",
+                "product_price": [
+                    {
+                        "symbol": "￦",
+                        "num": "9,900"
+                    }
+                ],
+                "product_desc": "Another way to reduce your carbon footprint! Meat causes climate change by emitting greenhouse gases during production. Making sustainable food with 100% vegetables for people and the planet can lower your carbon footprint!",
+                "product_link": [
+                    {
+                        "url": "https://www.ikea.com/kr/en/p/-40346434/",
+                        "title": "View more"
+                    }
+                ]
+            },
+
+            "buttons": [
+                {
+                    "btn_restart": "Retry",
+                    "btn_share": "Share"
+                }
+            ],
+
+            "banner": {
+                "title": "View more people + planet story",
+                "url": "https://sustainability.ikea.kr/"
+            },
+
+            "modal": {
+                "title": "Share your results.",
+                "list" : [
+                    "Facebook",
+                    "Twitter",
+                    "KaKao Talk",
+                    "Naver Blog",
+                    "KaKao Story",
+                    "URL Copy"
+                ],
+                "btn_close": "Close",
+                "msg": [
+                    {
+                        "copy_success": "URL copying is complete.",
+                        "copy_fail": "URL copying failed. Please try again."
+                    }
+                ]
+            }
+        }
+    }
+}

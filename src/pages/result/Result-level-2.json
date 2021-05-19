@@ -1,0 +1,191 @@
+
+
+{
+    "ko" : {
+        "contents" : {
+            "name": "result-level-2",
+            "visual": [
+                {
+                    "img_pc": "../img/sustainabilitytest/pc-result2-keyvisual-bg.png",
+                    "img_mb": "../img/sustainabilitytest/m-result2-keyvisual-bg.jpg"
+                }
+            ],
+
+            "summary": {
+                "type_desc": "지구를 파괴하는 빌런",
+                "type_title": "미세먼지 공장장",
+                "type_ref": "* 지구특공대 최고 레벨은 Level 8 입니다.",
+                "level": [
+                    {
+                        "level_img": "../img/sustainabilitytest/img-level-type2.png",
+                        "alt": "지구특공대 level 2"
+                    }
+                ],
+                "title": "콜록콜록...당신이 바로 미세먼지를 만드는 빌런!",
+                "text": [
+                    "당신의 이기적인 행동들이 대기를 오염시키고 있다는 사실 알고 계셨나요? ",
+                    "아침마다 미세먼지 농도 체크하고 마스크를 찾았는데 내가 빌런이라니! 내가 빌런이라니! 억울함이 든다면 지금도 늦지 않았습니다. ‘최악 나가지 마시오' 화면의 시커먼 방독면 아이콘을 무찌르기 위한 실천들을 해보세요. "
+                ]
+            },
+
+            "detail": [
+                {
+                    "title": "빌런이 된 계기",
+                    "text": "내가 이러려고 돈 벌지! 하는 서러움을 부스터로 택시를 타다 보니 걸을 수 없는 몸이 됨"
+                },
+                {
+                    "title": "자주 하는 말",
+                    "text": "\"걷지 말고 택시 타자. 내가 낼게!\""
+                },
+                {
+                    "title": "빌런 탈출을 위한 일상 속 작은 노력",
+                    "text": "B.M.W(버스 Bus. 지하철 Metro. 걷기 Walking) 애용하기"
+                }
+            ],
+
+            "product": {
+                "title": "지구 특공대가 되기 위한 특수 무기",
+                "product_name": "BESKYDDA 베쉬다",
+                "product_name_sub": "반사클립 2입",
+                "product_price": [
+                    {
+                        "symbol": "￦",
+                        "num": "2,900"
+                    }
+                ],
+                "product_desc": "어둠 속에서도 안전하게 걷기! 어두운 밤이나 안개가 낀 날에도 야외에서 눈에 잘 띌 수 있는 안전을 위한 제품입니다. 옷이나 가방에도 탈부착이 쉬워요!",
+                "product_link": [
+                    {
+                        "url": "https://www.ikea.com/kr/ko/p/-00315769/",
+                        "title": "자세히 보기"
+                    }
+                ]
+            },
+
+            "buttons": [
+                {
+                    "btn_restart": "다시하기",
+                    "btn_share": "결과 공유하기"
+                }
+            ],
+
+            "banner": {
+                "title": "지구를 아끼기 위한<br>더 많은 이야기 보러가기",
+                "url": "https://sustainability.ikea.kr/"
+            },
+
+            "modal": {
+                "title": "결과를 공유해보세요.",
+                "list" : [
+                    "페이스북",
+                    "트위터",
+                    "카카오톡",
+                    "네이버블로그",
+                    "카카오스토리",
+                    "URL 복사"
+                ],
+                "btn_close": "닫기",
+                "msg": [
+                    {
+                        "copy_success": "URL 복사가 완료 되었습니다.",
+                        "copy_fail": "URL 복사에 실패했습니다. 다시 시도하세요."
+                    }
+                ]
+            }
+        }
+    },
+
+
+
+
+
+    "en" : {
+        "contents" : {
+            "name": "result-level-2",
+            "visual": [
+                {
+                    "img_pc": "../img/sustainabilitytest/en-pc-result2-keyvisual-bg.png",
+                    "img_mb": "../img/sustainabilitytest/en-m-result2-keyvisual-bg.jpg"
+                }
+            ],
+
+            "summary": {
+                "type_desc": "You are a Villain.",
+                "type_title": "Fine Dust Manufacturer",
+                "type_ref": "* Earth special forces’ highest level is Level 8.",
+                "level": [
+                    {
+                        "level_img": "../img/sustainabilitytest/en-img-level-type2.png",
+                        "alt": "Planetary Special Forces LEVEL 2"
+                    }
+                ],
+                "title": "*Coughs* You’re that villain who’s been spreading fine dust all over the country.",
+                "text": [
+                    "Did you know that you’ve been polluting the air with your selfish behavior? ",
+                    "You may think “What? Me an air polluter? But I make sure to check the fine dust levels every day and wear a mask out on bad days!”. It’s not too late yet. Take a sustainable action today to become a hero. "
+                ]
+            },
+
+            "detail": [
+                {
+                    "title": "What Turned You into a Villain",
+                    "text": "Walking to work has been out of the picture for quite some time since you take a cab to compensate for the frustrations you feel at work."
+                },
+                {
+                    "title": "A Small Step You Can Take to Become a Superhero",
+                    "text": "Be a BMW person: Proactively strive to take bus, subway and walk!"
+                }
+            ],
+
+            "product": {
+                "title": "The Weapon of Your Choice in the Planetary Special Forces",
+                "product_name": "BESKYDDA",
+                "product_name_sub": "Reflective clip, set of 2",
+                "product_price": [
+                    {
+                        "symbol": "￦",
+                        "num": "2,900"
+                    }
+                ],
+                "product_desc": "Easy to attach to your clothes or bag for increased visibility in traffic, especially when it’s dark or foggy outside.",
+                "product_link": [
+                    {
+                        "url": "https://www.ikea.com/kr/en/p/-00315769/",
+                        "title": "View more"
+                    }
+                ]
+            },
+
+            "buttons": [
+                {
+                    "btn_restart": "Retry",
+                    "btn_share": "Share"
+                }
+            ],
+
+            "banner": {
+                "title": "View more people + planet story",
+                "url": "https://sustainability.ikea.kr/"
+            },
+
+            "modal": {
+                "title": "Share your results.",
+                "list" : [
+                    "Facebook",
+                    "Twitter",
+                    "KaKao Talk",
+                    "Naver Blog",
+                    "KaKao Story",
+                    "URL Copy"
+                ],
+                "btn_close": "Close",
+                "msg": [
+                    {
+                        "copy_success": "URL copying is complete.",
+                        "copy_fail": "URL copying failed. Please try again."
+                    }
+                ]
+            }
+        }
+    }
+}

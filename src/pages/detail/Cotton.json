@@ -1,0 +1,180 @@
+{
+    "ko" : {
+        "contents" : {
+            "kv": {
+                "title" : "목화"
+            },
+
+            "info0" : {
+                "type" : "default",
+                "title": "지속 가능한<br>면을 위한 약속",
+                "description" : [
+                    "목화는 IKEA에서 가장 중요한 소재 중 하나입니다. 소파부터 쿠션, 침대 시트, 매트리스까지 다양한 IKEA 제품에 면이 사용됩니다. ",
+                    "IKEA는 기존 목화 재배 방식이 환경과 농가에 해로운 영향을 미친다는 점에 대해 항상 고민해왔습니다. ",
+                    "그래서 IKEA는 고객과 지구를 위해 책임감 있는 방식으로 재배된 목화만을 사용하기로 결심했습니다. "
+                ]
+            },
+
+            "info_year_0" : {
+                "type" : "year",
+                "txt_year" : "2015",
+                "txt_year_after" : "년부터",
+                "title": "지속 가능한 공급처의<br>목화만 사용하기",
+                "description" : [
+                    "IKEA는 2015년 9월 1일부터 제품에 사용하는 모든 면을 지속 가능한 공급처에서 제공받고 있습니다. ",
+                    "이는 곧 목화 재배 과정에서 물과 화학비료, 농약을 적게 사용해 재배한 목화로 만든 면을 사용한다는 의미입니다. "
+                ],
+                "video" : [
+                    {
+                        "video_pc" : "../img/sample-video2.mp4",
+                        "video_mb": "../img/sample-video2.mp4"
+                    }
+                ]
+            },
+
+            "product_0" : {
+                "type" : "default",
+                "description": "PLA(폴리 유산) 플라스틱 제품은 다른 플라스틱 제품과<br class='pc-br'>마찬가지로 내구성이 뛰어나고 안전하면서도<br class='pc-br'>환경에 미치는 영향은 훨씬 적습니다.<br class='pc-br'><br>엄격한 안전 기준을 따르는 어린이 제품은 물론<br class='pc-br'>음식물을 담는 제품을 비롯한 여러 제품에 사용할 수 있습니다.",
+                "list" : [
+                    {
+                        "link" : "https://www.ikea.com/kr/ko/p/leikny-cushion-cover-black-multicolour-30416743/",
+                        "img" : "../img/detail/cotton/cotton-list-01.jpg",
+                        "title" : "LEIKNY 레이크뉘",
+                        "keyword" : "쿠션커버, 블랙/ 멀티컬러, 50x50 cm",
+                        "price" : "5,900",
+                        "number" : "",
+                        "description" : "IKEA는 낮은 가격과 우수한 품질, 실용적인 기능, 아름다운 디자인, 지속 가능성 중 그 어느 요소도 타협하지 않습니다. IKEA의 면 제품을 선택하는 것은 더 나은 지구를 위한 선택이기도 합니다.<br><br>IKEA LEIKNY 레이크뉘 쿠션 커버는 지속 가능한 면 100%로 제작한 쿠션 커버로 부드러우면서 관리가 간편합니다."
+                    }
+                ]
+            },
+
+            "reply_percent" : {
+                "title" : "면 산업의<br>변화를 위한 노력",
+                "description" : "약 10년 전, IKEA는 산업과 사람, 지구에 유익한 방식으로 목화 재배방식을 변화시키기 위해 WWF 및 다양한 단체와 협력해 Better Cotton 프로젝트(BCI)를 시작했습니다.<br><br>현재 IKEA는 보다 지속 가능한 공급처에서 제공받은 면 100%로 제작한 제품을 판매하는 세계 유일의 리테일 기업입니다.<br><br>하지만 IKEA는 이에 만족하지 않습니다. 우리의 사업을 넘어, 사회 전반에 지속 가능한 목화를 널리 알리고자 합니다.<br><br>다양한 협력업체와 함께 IKEA는 지속 가능한 방식으로 재배한 목화가 업계의 주요 소재가 되어 많은 사람들이 보다 쉽고, 저렴하게 좋은 면을 접할 수 있도록 하는 목표를 향해 나아가고 있습니다.",
+                "percent" : {
+                    "value" : 100,
+                    "title" : "면"
+                }
+            },
+
+            "reply_bottom_image" : {
+                "title" : "",
+                "description" : ""
+            },
+
+            "info1" : {
+                "type" : "default",
+                "title": "물 절약을 실천하는<br>목화 재배",
+                "description" : [
+                    "전통적인 목화 재배 농법은 그 과정에서 많은 양의 화학약품과 물을 소비합니다. 이 방법은 환경뿐 아니라 농부들의 건강까지 크게 위협했습니다. ",
+                    "IKEA는 물과 화학비료의 사용을 줄여 재배한 목화를 사용함으로써 토양 침식과 물 부족으로 고통받는 지역을 돕고 있습니다. "
+                ]
+            },
+
+            "info2" : {
+                "type" : "default",
+                "title": "물 캠페인 실천",
+                "description" : [
+                    "목화는 물을 가장 많이 사용하는 농작물 중 하나입니다. IKEA는 소중한 물을 보호하기 위해 더 많은 지역사회에 수자원 관리 방법을 적극적으로 알리며 보다 효율적으로 물을 사용할 수 있도록 지원하고 있습니다. ",
+                    "IKEA의 물 캠페인 실천은 목화에 초점을 맞춰 농부들에게 더 나은 수자원 관리법을 교육하고, 지역 사회 기반의 수자원 협회를 설립하도록 지원하고 있습니다. ",
+                    "이를 통해 농부들은 재배 과정에서 점점 물 사용량을 줄일 수 있게 되었고, 절약한 물은 다른 용도로 사용할 수 있게 되었습니다. "
+                ],
+                "video" : [
+                    {
+                        "video_pc" : "../img/detail/cotton/cotton-pc-campaign-video.mp4",
+                        "video_mb": "../img/detail/cotton/cotton-m-campaign-video.mp4"
+                    }
+                ]
+            }
+        }
+    },
+
+    "en" : {
+        "contents" : {
+            "kv": {
+                "title" : "Cotton"
+            },
+
+            "info0" : {
+                "type" : "default",
+                "title": "Committed to <br>a sustainable cotton",
+                "description" : [
+                    "Cotton is one of IKEA’s most important raw materials. You’ll find it in many products, from sofas and cushions to bed sheets and mattresses. ",
+                    "Although we love working with cotton, we are uncomfortable with the fact that growing cotton in the conventional way is often harmful to the environment and the people involved. ",
+                    "We have made a commitment to only use cotton grown in a responsible way in our products, for the benefit of our customers and the planet. "
+                ]
+            },
+
+            "info_year_0" : {
+                "type" : "year",
+                "txt_year" : "2015",
+                "txt_year_after" : "Since",
+                "title": "All the cotton in <br>IKEA products <br>comes from more <br>sustainable sources.",
+                "description" : [
+                    "Since September 1st 2015, all the cotton we use for IKEA products comes from more sustainable sources. ",
+                    "This means that the cotton is either recycled, or grown with less water, chemical fertilizer, and pesticide. "
+                ],
+                "video" : [
+                    {
+                        "video_pc" : "../img/sample-video2.mp4",
+                        "video_mb": "../img/sample-video2.mp4"
+                    }
+                ]
+            },
+
+            "product_0" : {
+                "type" : "default",
+                "list" : [
+                    {
+                        "link" : "https://www.ikea.com/kr/en/p/leikny-cushion-cover-black-multicolour-30416743/",
+                        "img" : "../img/detail/cotton/cotton-list-01.jpg",
+                        "title" : "LEIKNY",
+                        "keyword" : "Cushion cover, black/multicolour, 50x50 cm",
+                        "price" : "5,900",
+                        "number" : "",
+                        "description" : "IKEA believes that we shouldn’t compromise on either price, quality, function, design, or sustainability when decorating your home. <br><br>That’s why any cotton choice you make at IKEA is a better one. LEIKNY, a soft cushion cover, for example is made from 100% more sustainable cotton. "
+                    }
+                ]
+            },
+
+            "reply_percent" : {
+                "title" : "Leading a constant change <br>for the cotton industry",
+                "description" : "Over a decade ago, IKEA, WWF and other partners, established the Better Cotton Initiative (BCI),<br class='pc-br'> an organization aiming to make global cotton production better for the industry, people and our planet. <br><br>Currently, we’re the only global retailer in the world selling products made from 100% cotton from more sustainable sources.<br><br>But we are not satisfied. Our mission is to spread the word on sustainable cottons to the entire cotton industry and go beyond our business. <br><br>Together with our partners, we’re on a journey to make cotton from more sustainable sources <br class='pc-br'> a mainstream practice – affordable and accessible to all.",
+                "percent" : {
+                    "value" : 100,
+                    "title" : "Cotton"
+                }
+            },
+
+            "reply_bottom_image" : {
+                "title" : "",
+                "description" : ""
+            },
+
+            "info1" : {
+                "type" : "default",
+                "title": "Growing cotton <br>responsibly with a <br>focus on water",
+                "description" : [
+                    "When grown conventionally, cotton farming uses large amounts of chemicals and water. This practice often leads to significant health risks to farmers, while damaging the environment. ",
+                    "At IKEA, we don’t want to be part of the problem – we want to be part of the solution. That’s why we are 100% committed to sustainable cotton. It means that our cotton is grown with less water and chemicals, helping areas that are subject to erosion and water scarcity. "
+                ]
+            },
+
+            "info2" : {
+                "type" : "default",
+                "title": "Becoming <br>water positive",
+                "description" : [
+                    "Cotton is one of the most high-impact crops when it comes to water. At IKEA, we are committed to being water positive, using it as efficiently as possible, promoting water stewardship throughout and beyond our own sphere of operations and on into the wider world. ",
+                    "IKEA’s work to become water positive focuses on cotton, providing farmers with training on better water management practices, and establishing community - based Water User Associations. ",
+                    "This means farmers grow with less water, so more water can be diverted to other uses. "
+                ],
+                "video" : [
+                    {
+                        "video_pc" : "../img/detail/cotton/cotton-pc-campaign-video.mp4",
+                        "video_mb": "../img/detail/cotton/cotton-m-campaign-video.mp4"
+                    }
+                ]
+            }
+        }
+    }
+}

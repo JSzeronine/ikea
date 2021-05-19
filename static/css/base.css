@@ -1,0 +1,335 @@
+
+@font-face{
+    font-family: 'NotoIKEAKorean-Bold';
+    src:url('../fonts/NotoIKEAKorean-Bold.woff') format('woff'),
+    url('../fonts/NotoIKEAKorean-Bold.ttf') format('truetype');
+    src:local(※), url('../fonts/NotoIKEAKorean-Bold.woff') format('woff');
+    font-display: swap;
+}
+
+@font-face{
+    font-family: 'NotoIKEAKorean-Regular';
+    src:url('../fonts/NotoIKEAKorean-Regular.woff') format('woff'),
+    url('../fonts/NotoIKEAKorean-Regular.ttf') format('truetype');
+    src:local(※), url('../fonts/NotoIKEAKorean-Regular.woff') format('woff');
+    font-display: swap;
+}
+
+
+/*  popup scroll */
+html.not-scroll { overflow: hidden; }
+html.init-scroll{
+    position: fixed;
+    width: 100%;
+    height: 100vh;
+    overflow-y: scroll;
+}
+
+html.init-scroll-y{
+    overflow-y: scroll;
+}
+
+
+
+/*@font-face {*/
+/*    font-family: 'noto_ikea_koreanregular';*/
+/*    src: url('../fonts/notoikeakorean_latin-regular-webfont.eot');*/
+/*    src: url('../fonts/notoikeakorean_latin-regular-webfont.eot?#iefix') format('embedded-opentype'),*/
+/*    url('../fonts/notoikeakorean_latin-regular-webfont.woff2') format('woff2'),*/
+/*    url('../fonts/notoikeakorean_latin-regular-webfont.woff') format('woff'),*/
+/*    url('../fonts/notoikeakorean_latin-regular.ttf') format('truetype'),*/
+/*    url('../fonts/notoikeakorean_latin-regular-webfont.svg#noto_ikea_koreanregular') format('svg');*/
+/*    font-weight: normal;*/
+/*    font-style: normal;*/
+/*}*/
+
+/*  한국어 */
+:lang(ko) {
+    /*fonts-family: 'Noto Sans KR', sans-serif;*/
+}
+/* 일본어 */
+:lang(ja) {
+    /*fonts-family: 'Noto Sans JP', sans-serif;*/
+}
+/* 중국어 (간체) */
+:lang(zh-Hans) {
+    /*fonts-family: 'Noto Sans SC', sans-serif;*/
+}
+
+
+/* http://meyerweb.com/eric/tools/css/reset/
+   v2.0 | 20110126
+   License: none (public domain)
+*/
+
+html, body, div, span, applet, object, iframe,
+h1, h2, h3, h4, h5, h6, p, blockquote, pre,
+a, abbr, acronym, address, big, cite, code,
+del, dfn, em, img, ins, kbd, q, s, samp,
+small, strike, strong, sub, sup, tt, var,
+b, u, i, center,
+dl, dt, dd, ol, ul, li,
+fieldset, form, label, legend,
+table, caption, tbody, tfoot, thead, tr, th, td,
+article, aside, canvas, details, embed,
+figure, figcaption, footer, header, hgroup,
+menu, nav, output, ruby, section, summary,
+time, mark, audio, video {
+    margin: 0;
+    padding: 0;
+    border: 0;
+    /*fonts-size: 100%;*/
+    /*fonts: inherit;*/
+    vertical-align: baseline;
+    font-weight: normal;
+    word-break: keep-all;
+}
+/* HTML5 display-role reset for older browsers */
+article, aside, details, figcaption, figure,
+footer, header, hgroup, menu, nav, section {
+    display: block;
+}
+body {
+    line-height: 1;
+}
+ol, ul {
+    list-style: none;
+}
+blockquote, q {
+    quotes: none;
+}
+blockquote:before, blockquote:after,
+q:before, q:after {
+    content: '';
+    content: none;
+}
+table {
+    border-collapse: collapse;
+    border-spacing: 0;
+}
+
+html,
+body {
+    /*font-family: 'noto_ikea_koreanbold', 'HelveticaNeue-Roman','애플 SD 산돌고딕 Neo','Apple SD Gothic Neo','Noto Sans KR','맑은고딕','Nanum Gothic',sans-serif;*/
+    font-family: "NotoIKEAKorean-Regular";
+    background-color: #fff;
+    color: #000;
+}
+
+a, a:visited, a:link, a:hover {
+    text-decoration: none;
+    color: inherit;
+}
+
+.blind {
+    position: absolute !important;
+    left: -9999px !important;
+    top: -9999px !important;
+    text-indent: -9999px !important;
+    font-size: 0 !important;
+    opacity: 0;
+    overflow: hidden !important;
+}
+
+ul, ol{
+    display: block;
+    list-style-type: none;
+    -webkit-margin-before: 0;
+    -webkit-margin-after: 0;
+    -webkit-margin-start: 0;
+    -webkit-margin-end: 0;
+    -webkit-padding-start: 0;
+}
+
+
+button{
+    border: none;
+    margin: 0;
+    padding: 0;
+    width: auto;
+    overflow: visible;
+
+    background: transparent;
+
+    /* inherit fonts & color from ancestor */
+    color: inherit;
+    font: inherit;
+
+    /* Normalize `line-height`. Cannot be changed from `normal` in Firefox 4+. */
+    line-height: normal;
+
+    /* Corrects fonts smoothing for webkit */
+    -webkit-font-smoothing: inherit;
+    -moz-osx-font-smoothing: inherit;
+
+    /* Corrects inability to style clickable `input` types in iOS */
+    -webkit-appearance: none;
+}
+
+button::-moz-focus-inner {
+     border: 0;
+     padding: 0;
+}
+
+.clearfix {
+    overflow: auto;
+    zoom: 1;
+}
+
+.clearfix::after {
+    content: "";
+    clear: both;
+    display: table;
+}
+
+::selection {
+    color: #f4d94b;
+    background: #0b46b2; /* WebKit/Blink Browsers */
+}
+::-moz-selection {
+    color: #f4d94b;
+    background: #0b46b2; /* WebKit/Blink Browsers */
+}
+
+.hide{
+    display: none !important;
+}
+
+.non-pointer {
+    pointer-events: none!important;
+}
+
+.img-pc {
+    display: block;
+}
+
+.img-mb {
+    display: none;
+}
+.pc-br {
+    display: block;
+}
+
+.mobile .img-pc{ display: none; }
+.mobile .img-mb{ display: block; }
+.mobile .pc-br{ display: none; }
+
+.mobile .block-mb{ display: block; }
+
+
+/* 스와이퍼 scrollbar custom ( zeronine )*/
+.detail-product .swiper-container-horizontal > .swiper-scrollbar,
+.teaser-concert .swiper-container-horizontal > .swiper-scrollbar,
+.gift-container .swiper-container-horizontal > .swiper-scrollbar,
+.lab-space .swiper-container-horizontal > .swiper-scrollbar{
+    width: 80.9% !important;
+    left: 50% !important;
+    transform: translate3d( -50%, 0, 0 );
+    border-radius: 0 !important;
+    height: 3px !important;
+}
+
+.swiper-container{
+    overflow: initial !important;
+}
+
+.desktop .detail-product .swiper-container-horizontal > .swiper-scrollbar,
+.desktop .teaser-concert .swiper-container-horizontal > .swiper-scrollbar,
+.desktop .gift-container .swiper-container-horizontal > .swiper-scrollbar,
+.desktop .lab-space .swiper-container-horizontal > .swiper-scrollbar{
+    width: 100% !important;
+}
+
+.detail-product .swiper-scrollbar-drag,
+.teaser-concert .swiper-scrollbar-drag,
+.gift-container .swiper-scrollbar-drag,
+.lab-space .swiper-scrollbar-drag{
+    background: rgba( 0, 0, 0, 1 ) !important;
+    border-radius: 0 !important;
+}
+/* // 스와이퍼 scrollbar custom ( zeronine )*/
+
+
+
+
+.loaded .loading {
+    display: none;
+}
+
+.loading {
+    position: fixed;
+    width: 100%; height: 100vh;
+    top: 0; z-index: 999;
+    background-color: #ffffff;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.loading .circle {
+    position: absolute;
+    width: 50px; height: 50px;
+    border-radius: 50%;
+    background-color: #009945;
+
+    animation-duration: 1s;
+    animation-name: loading-logo;
+    animation-iteration-count: infinite;
+    animation-direction: alternate-reverse;
+    opacity: 0.5;
+
+}
+
+
+
+/* comp-detail-info.vue 에서 사용하는 버튼 */
+.detail-info .detail-info__txt-btn{
+    color: #009D39 !important;
+    font-family: "NotoIKEAKorean-Bold";
+    text-decoration: underline;
+}
+
+
+.effort-wrap .effort-wrap__btn{
+    color: #009D39 !important;
+    font-family: "NotoIKEAKorean-Bold";
+}
+
+@keyframes loading-logo {
+0% {  opacity: 0.5;  }
+100% {  opacity: 1;  }
+}
+
+
+
+
+/* 특정 간격 */
+.section-margin_xs{ margin: 70px 0 !important; }
+.section-margin_s{ margin: 120px 0 !important; }
+.section-margin_me{ margin: 160px 0 !important; }
+
+.mobile .section-margin_xs{ margin: 14.4928vw 0 !important; } /* 60 */
+.mobile .section-margin_s{ margin: 19.32367vw 0 !important; } /* 80 */
+.mobile .section-margin_me{ margin: 28.98551vw 0 !important; } /* 120 */
+/* //특정 간격 */
+
+/* Keyvisual 아래쪽 기준 간격 */
+.section-padding-top_me{ padding-top: 160px !important; margin-top: 0 !important; }
+.mobile .section-padding-top_me{ padding-top: 28.98551vw !important; margin-top: 0 !important; } /* 120 */
+/* //Keyvisual 아래쪽 기준 간격 */
+
+
+
+.en-only, .ko-only {
+    display: none;
+}
+
+:lang(en) .en-only {
+    display: block;
+}
+
+:lang(ko) .ko-only {
+    display: block;
+}
+
+

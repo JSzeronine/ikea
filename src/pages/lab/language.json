@@ -1,0 +1,1045 @@
+{
+    "ko": {
+        "contents": {
+            "future2": {
+                "title": "함께 만드는 지속 가능한 미래",
+                "lab": "IKEA Lab",
+                "description": "IKEA Lab에서 지속 가능성에 대한 <br class='pc-br'> 솔루션을 경험해보세요.",
+                "video_bg_pc": "../img/teaser/teaser_future_bg.jpg",
+                "video_bg_mb": "../img/teaser/m_teaser_future_bg.jpg",
+                "effort": {
+                    "title": "더 많은 사람들의 <br>더 나은 매일을 위해 노력해온 IKEA",
+                    "description": [
+                        "우리는 가장 잘할 수 있는 방식으로 내일을 향해 새로운 여정을 떠나려고 합니다. ",
+                        "지구의 미래를 변화시킬 건강한 삶, 그리고 홈퍼니싱과 인테리어 디자인이 하나로 어우러진 새로운 일상을 향해. ",
+                        "단 한 평의 공간부터 이 세상의 미래까지. IKEA가 그리는 미래를 지금 <a href='javascript:;' class='effort-wrap__btn'>IKEA Lab</a> 에서 만나보세요."
+                    ]
+                },
+                "contact": {
+                    "map": {
+                        "img_pc": "../img/teaser2/teaser-pc-map.jpg",
+                        "img_m": "../img/teaser2/teaser-m-map.jpg",
+                        "links": [
+                            {
+                                "img_icon": "../img/lab/icon-google-map.png",
+                                "title": "구글지도",
+                                "link": "#구글지도 링크"
+                            },
+                            {
+                                "img_icon": "../img/lab/icon-naver-map.png",
+                                "title": "네이버 지도",
+                                "link" : "http://naver.me/5Zu63uKt"
+                            },
+                            {
+                                "img_icon": "../img/lab/icon-kakao-map.png",
+                                "title": "카카오 지도",
+                                "link" : "http://kko.to/e4Q9mziDo"
+                            }
+                        ]
+                    },
+                    "info": {
+                        "title": "오시는 길",
+                        "address": {
+                            "title": "주소",
+                            "data": "서울 성동구 아차산로17길 48<br>IKEA Lab"
+                        },
+                        "operation": {
+                            "title": "운영시간",
+                            "lab": {
+                                "title": "IKEA Lab",
+                                "time": "11:00 - 21:00"
+                            },
+                            "food": {
+                                "title": "IKEA Food Lab",
+                                "time1": "(주중) 07:30 - 17:30",
+                                "time2": "(주말) 11:00 - 21:00"
+                            }
+                        },
+                        "important" : "* IKEA Food Lab : 11월 5일에만 11:00 오픈 예정"
+                    }
+                },
+
+                "event": {
+                    "section_title": "IKEA Lab에서 지속 가능한<br class='pc-br'> 즐거움을 만나보세요!",
+                    "txt_point": "EVENT",
+                    "title": "IKEA Lab에서 열리는 다양한 이벤트",
+                    "list": [
+                        {
+                            "shortcut" : {
+                                "img" : "../img/lab/lab-arrow-btn.jpg",
+                                "link": "../event/"
+                            },
+
+                            "img" : {
+                                "pc" : "../img/lab/lab-pc-event.jpg",
+                                "m" : "../img/lab/lab-m-event.jpg"
+                            }
+                        }
+                    ]
+                },
+
+                "space" : {
+                    "txt_point": "SPACE",
+                    "title": "다양한 공간에서 만나는<br>지속 가능한 경험",
+                    "spaces": [
+                        {
+                            "depth": "1F",
+                            "list": [
+                                {
+                                    "title": "Pop-up",
+                                    "description": "IKEA의 지속 가능한 철학을 직접 경험할 수 있는 공간입니다.",
+                                    "img_map": "../img/lab/img-list0-map.jpg",
+                                    "img_space": "../img/lab/img-list0.jpg"
+                                },
+                                {
+                                    "title": "IKEA Food Lab",
+                                    "description": "IKEA의 지속 가능한 메뉴를 만나볼 수 있는 공간입니다.",
+                                    "img_map": "../img/lab/img-list1-map.jpg",
+                                    "img_space": "../img/lab/img-list1.jpg"
+                                },
+                                {
+                                    "title": "Shop",
+                                    "description": "IKEA의 제품을 만나볼 수 있는 공간입니다.",
+                                    "img_map": "../img/lab/img-list2-map.jpg",
+                                    "img_space": "../img/lab/img-list2.jpg"
+                                }
+                            ]
+                        },
+
+                        {
+                            "depth" : "2F",
+                            "list": [
+                                {
+                                    "title" : "Showroom",
+                                    "description" : "IKEA의 다양한 홈퍼니싱 스타일을 보여주는 쇼룸입니다.",
+                                    "img_map" : "../img/lab/img-list3-map.jpg",
+                                    "img_space" : "../img/lab/img-list3.jpg"
+                                },
+                                {
+                                    "title" : "Interior Design Office",
+                                    "description" : "IKEA Lab에서 새롭게 시도되는 토탈 인테리어 디자인 솔루션 서비스입니다.",
+                                    "img_map" : "../img/lab/img-list4-map.jpg",
+                                    "img_space" : "../img/lab/img-list4.jpg"
+                                }
+                            ]
+                        }
+                    ]
+                },
+
+
+                "activity1": {
+                    "section_title": "IKEA Lab에서의 지속 가능한 <br class='pc-br'>경험을 공유해 주세요!",
+                    "txt_point": "ACTIVITY 01",
+                    "title": "IKEA Lab에서 만나는 <br>지속 가능한 콘서트",
+                    "list": [
+                        {
+                            "description": [
+                                "함께 만드는 지속 가능한 미래, 어렵게 느껴지시나요? <br class='pc-br'> 다양한 분야의 전문가들이 들려주는 지속 가능한 토크 콘서트를 만나보세요."
+                            ],
+                            "date": [
+                                {
+                                    "title": "신청 기간",
+                                    "day": "2020.11.05 - 11.25"
+                                },
+                                {
+                                    "title": "신청 방법",
+                                    "day": "IKEA Family 무료 가입 후 원하는 일정에 신청하기 버튼 클릭하세요."
+                                }
+                            ],
+
+                            "join": {
+                                "title": "IKEA Family 가입하기",
+                                "link" : "https://www.ikea.com/kr/ko/profile/signup/family/"
+                            },
+
+                            "important": [
+                                "*  본 이벤트는 IKEA Family 멤버에게만 제공되며, IKEA 홈페이지에서 무료가입 가능합니다.",
+                                "*  본 이벤트는 신청 기간안에 조기 마감될 수 있습니다."
+                            ]
+                        }
+                    ],
+
+                    "concert" : {
+                        "list" : [
+                            {
+                                "week" : "WEEK 01.",
+                                "title" : "사람+지구의 건강을 위한 우리집의 발견",
+                                "date" : "2020.11.07 (토) 14:00 – 16:00",
+                                "cource" : [
+                                    {
+                                        "photo" : "../img/teaser2/concert-list-img-01.png",
+                                        "name" : "타일러 with 홍수열, 유병재",
+                                        "description" : "사람+지구의 건강을 위한<br> 우리집의 발견",
+                                        "topic" : "TALK",
+                                        "time" : "30분"
+                                    },
+                                    {
+                                        "photo" : "../img/teaser2/concert-list-img-02.png",
+                                        "name" : "강대웅 셰프",
+                                        "description" : "순식물성 재료로<br> 만드는 비건 디저트",
+                                        "topic" : "FOOD",
+                                        "time" : "30분",
+                                        "break" : {
+                                            "title" : "Break",
+                                            "time" : "15분"
+                                        }
+                                    },
+                                    {
+                                        "photo" : "../img/teaser2/concert-list-img-03.png",
+                                        "name" : "송성희 (십년후연구소)",
+                                        "description" : "사람은 물론 지구에도<br> 착한 DIY 공기청정기",
+                                        "topic" : "WORKSHOP",
+                                        "time" : "30분"
+                                    }
+                                ],
+
+                                "button" : {
+                                    "type": 1,
+                                    "title" : "신청마감"
+                                },
+
+                                "possible" : ""
+                            },
+                            {
+                                "week" : "WEEK 02.",
+                                "title" : "사람+지구의 건강을 위한 우리집의 변화",
+                                "date" : "2020.11.14 (토) 14:00 – 16:00",
+                                "cource" : [
+                                    {
+                                        "photo" : "../img/teaser2/concert-list-img-12.png",
+                                        "name" : "타일러 with 조천호, 유병재",
+                                        "description" : "사람+지구의 건강을 위한<br> 우리집의 변화",
+                                        "topic" : "TALK",
+                                        "time" : "30분"
+                                    },
+                                    {
+                                        "photo" : "../img/teaser2/concert-list-img-04.png",
+                                        "name" : "이윤서 셰프",
+                                        "description" : "버려지던 뿌리채소,<br> 건강하게 섭취하는 법",
+                                        "topic" : "FOOD",
+                                        "time" : "30분",
+                                        "break" : {
+                                            "title" : "Break",
+                                            "time" : "15분"
+                                        }
+                                    },
+                                    {
+                                        "photo" : "../img/teaser2/concert-list-img-05.png",
+                                        "name" : "최진 (트망트망)",
+                                        "description" : "정화 작용 부담을 줄인<br> 고체샴푸 만들기",
+                                        "topic" : "WORKSHOP",
+                                        "time" : "30분"
+                                    }
+                                ],
+
+                                "button" : {
+                                    "type": 1,
+                                    "title" : "신청하기",
+                                    "link" : "https://www.ikea.com/kr/ko/stores/events/book/14035?utm_source=micro_site&utm_medium=concert_WK2&utm_campaign=IKEALab"
+                                },
+
+                                "possible" : ""
+                            },
+                            {
+                                "week" : "WEEK 03.",
+                                "title" : "사람+지구의 건강에 착한<br> 습관 레벨업",
+                                "date" : "2020.11.21 (토) 14:00 – 16:00",
+                                "cource" : [
+                                    {
+                                        "photo" : "../img/teaser2/concert-list-img-06.png",
+                                        "name" : "타일러 with 조천호",
+                                        "description" : "사람+지구의 건강에<br> 착한 습관 레벨업",
+                                        "topic" : "TALK",
+                                        "time" : "30분"
+                                    },
+                                    {
+                                        "photo" : "../img/teaser2/concert-list-img-07.png",
+                                        "name" : "이지연 셰프",
+                                        "description" : "영양소 파괴를 막는<br> 비건 스무디",
+                                        "topic" : "FOOD",
+                                        "time" : "30분",
+                                        "break" : {
+                                            "title" : "Break",
+                                            "time" : "15분"
+                                        }
+                                    },
+                                    {
+                                        "photo" : "../img/teaser2/concert-list-img-08.png",
+                                        "name" : "신수현 (당신의 식탁)",
+                                        "description" : "동물 희생 없는 비건 플레이트<br> &커트러리 만들기",
+                                        "topic" : "WORKSHOP",
+                                        "time" : "30분"
+                                    }
+                                ],
+
+                                "button" : {
+                                    "type": 1,
+                                    "title" : "신청하기",
+                                    "link" : "javascript:;"
+                                },
+
+                                "possible" : ""
+                            },
+                            {
+                                "week" : "WEEK 04.",
+                                "title" : "사람+지구의 건강을 위한 새로운 도전",
+                                "date" : "2020.11.28 (토) 14:00 – 16:00",
+                                "cource" : [
+                                    {
+                                        "photo" : "../img/teaser2/concert-list-img-09.png",
+                                        "name" : "타일러 with 홍수열",
+                                        "description" : "사람+지구의 건강을 위한<br> 새로운 도전",
+                                        "topic" : "TALK",
+                                        "time" : "30분"
+                                    },
+
+                                    {
+                                        "photo" : "../img/teaser2/concert-list-img-10.png",
+                                        "name" : "정관 스님",
+                                        "description" : "쉽게 따라하는 정관스님의<br> 사찰음식 레시피",
+                                        "topic" : "FOOD",
+                                        "time" : "30분",
+                                        "break" : {
+                                            "title" : "Break",
+                                            "time" : "15분"
+                                        }
+                                    },
+                                    {
+                                        "photo" : "../img/teaser2/concert-list-img-11.png",
+                                        "name" : "박희란 (도시농부 바키)",
+                                        "description" : "우리집에서 유기농 채소<br> 재배 시작하기",
+                                        "topic" : "WORKSHOP",
+                                        "time" : "30분"
+                                    }
+                                ],
+
+                                "button" : {
+                                    "type": 1,
+                                    "title" : "신청하기",
+                                    "link" : "javascript:;"
+                                },
+
+                                "possible" : ""
+                            }
+                        ]
+                    }
+                },
+
+                "activity2" : {
+                    "txt_point" : "ACTIVITY 02",
+                    "title" : "IKEA 지구를 아끼는 챌린지",
+                    "list" : [
+                        {
+                            "img" : {
+                                "pc" : "../img/lab/lab-pc-activity-02.jpg",
+                                "m" : "../img/lab/lab-m-activity-02.jpg"
+                            },
+
+                            "description" : [
+                                "TIKTOK에서 #지구를아끼는챌린지에 참여해 보세요. 업로드하신 분들 중 <br class='pc-br'>추첨을 통해 푸짐한 선물을 드려요!"
+                            ],
+
+                            "gift" : [
+                                {
+                                    "img" : "../img/lab/img-gift-0.jpg",
+                                    "value" : "1등 (1명)",
+                                    "brand" : "NORDKISA",
+                                    "title" : "노르디키사 옷장"
+                                },
+                                {
+                                    "img" : "../img/lab/img-gift-1.jpg",
+                                    "value" : "2등 (3명)",
+                                    "brand" : "GRÖNADAL",
+                                    "title" : "그뢰나달 흔들의자"
+                                },
+                                {
+                                    "img" : "../img/lab/img-gift-2.jpg",
+                                    "value" : "3등 (5명)",
+                                    "brand" : "NORDKISA",
+                                    "title" : "노르드키사 침대협탁"
+                                }
+                            ],
+
+                            "date" : [
+                                {
+                                    "title" : "참여 기간",
+                                    "day" : "2020.11.05 – 11.19"
+                                },
+                                {
+                                    "title" : "당첨 발표",
+                                    "day" : "2020.12.11 개별연락 (제세공과금 별도)"
+                                }
+                            ],
+
+                            "important" : [
+                                "* IKEA 지구를 아끼는 챌린지는 성수동 까페 바이산, 어니언, 헤이보울과 함께 합니다.<br class='pc-br'> 해당 장소에서 이벤트에 참여하시면 지속 가능한 선물을 드려요!"
+                            ],
+
+                            "tiktok" : {
+                                "title" : "틱톡 바로가기",
+                                "link" : "https://activity.tiktok.com/magic/page/ejs/5f7c2f68eb196d02cbf013c8?appType=aweme"
+                            }
+                        }
+                    ]
+                },
+
+                "activity3" : {
+                    "txt_point" : "ACTIVITY 03",
+                    "title" : "IKEA Lab <br>해시태그 이벤트",
+                    "list" : [
+                        {
+                            "img" : {
+                                "pc" : "../img/lab/lab-pc-activity-03.jpg",
+                                "m" : "../img/lab/lab-m-activity-03.jpg"
+                            },
+
+                            "description" : [
+                                "IKEA Lab 과 관련된 사진을 #IKEALab 해시태그와 함께 SNS에 올려주세요.<br class='pc-br'> 업로드해 주신 분들 중 추첨을 통해 푸짐한 선물을 드려요!"
+                            ],
+
+                            "gift" : [
+                                {
+                                    "img" : "../img/lab/img-gift-0.jpg",
+                                    "value" : "1등 (1명)",
+                                    "brand" : "NORDKISA",
+                                    "title" : "노르디키사 옷장"
+                                },
+                                {
+                                    "img" : "../img/lab/img-gift-1.jpg",
+                                    "value" : "2등 (3명)",
+                                    "brand" : "GRÖNADAL",
+                                    "title" : "그뢰나달 흔들의자"
+                                },
+                                {
+                                    "img" : "../img/lab/img-gift-2.jpg",
+                                    "value" : "3등 (5명)",
+                                    "brand" : "NORDKISA",
+                                    "title" : "노르드키사 침대협탁"
+                                }
+                            ],
+
+                            "date" : [
+                                {
+                                    "title" : "참여 기간",
+                                    "day" : "2020.12.01 – 12.31"
+                                },
+                                {
+                                    "title" : "당첨 발표",
+                                    "day" : "2021.01.01 개별연락(제세공과금 별도)"
+                                }
+                            ]
+                        }
+                    ]
+                },
+
+                "activity4" : {
+                    "txt_point" : "ACTIVITY 04",
+                    "title" : "Better Living App 챌린지",
+                    "list" : [
+                        {
+                            "img" : {
+                                "pc" : "../img/lab/lab-pc-activity-04.jpg",
+                                "m" : "../img/lab/lab-m-activity-04.jpg"
+                            },
+
+                            "sub_title" : [
+                                "IKEA Lab에서의 지속 가능한 활동을 실천해보세요."
+                            ],
+
+                            "description" : [
+                                "일상 속 작은 습관이 모여 지구에 의미 있는 변화를 가져올 수 있어요. 한 사람이 모든 것을 할 순 없지만,<br class='pc-br'> 함께 하면 무엇이든 할 수 있죠. 지금 IKEA Better Living App을 다운받고, IKEA Lab 에서 부터 환경보호를 위한 행동을 실천해보세요. <br><br>",
+                                "Better Living App와 함께 건강하고 지속 가능한 미래를 만들어요!"
+                            ]
+                        }
+                    ]
+                },
+
+                "benefit": {
+                    "txt_point": "IKEA Family 혜택",
+                    "title": "지금 무료로 가입하고<br> IKEA Lab에서 특별한<br> 혜택을 만나보세요!",
+                    "list": [
+                        {
+                            "number": "01",
+                            "title": "IKEA Family 특별가",
+                            "description": "IKEA Family 멤버에게는 특별가가 제공됩니다.<br> IKEA Lab에서 특별가 제품 및 메뉴를 확인해보세요."
+                        },
+                        {
+                            "number": "02",
+                            "title": "전문가 컨설팅 서비스",
+                            "description": "전문가와 함께하는 홈퍼니싱 컨설팅 서비스가<br> 첫 1시간 무료 제공됩니다."
+                        },
+                        {
+                            "number": "03",
+                            "title": "IKEA Family 워크숍",
+                            "description": "IKEA Family 멤버를 위한 워크숍과 이벤트로 초대합니다."
+                        }
+                    ],
+                    "apply": {
+                        "title": "IKEA Family 워크숍 신청하기",
+                        "link": "#워크숍신청하기링크"
+                    },
+                    "important": [
+                        "* IKEA Family 워크숍은 11월 중순부터 신청 가능합니다."
+                    ]
+                },
+                "consult": {
+                    "txt_point": "PLANNING",
+                    "title": "인테리어 <br>디자인 서비스 <br>Interior design service",
+                    "list": [
+                        {
+                            "description": [
+                                "방 하나에서부터 집 전체의 리모델링, 새로 시작하는사업 공간의 디자인까지, 집 전체가 아니어도 괜찮아요.<br class='pc-br'> 가구 추천뿐만 아니라 혼자 하기 어려운 벽지와 바닥재 선택까지, 당신이 그리던 공간을 혼자 고민하지말고<br class='pc-br'> IKEA와 함께 시작해봐요.<br><br>",
+                                "IKEA 디자이너가 직접 도와드리는 IKEA의 새로운 인테리어 디자인 서비스.<br> 11월 5일부터 IKEA Lab 성수에서 만나보세요!"
+                            ],
+
+                            "img": {
+                                "pc": "../img/teaser2/teaser-pc-concerting.jpg",
+                                "m": "../img/teaser2/teaser-m-concerting.jpg"
+                            },
+
+                            "reservation": {
+                                "title": "예약하기",
+                                "link" : "https://www.ikea.com/kr/ko/customer-service/services/-pubc7d8b440?utm_source=micro_site&utm_medium=ids&utm_campaign=sustainability"
+                            }
+                        }
+                    ]
+                }
+            },
+
+            "play": {
+                "title": "내가 아끼는 집,<br> 나를 아끼는 집",
+                "video_preview_pc": "../img/teaser/pc_play_pre.mp4",
+                "video_preview_mb": "../img/teaser/m_play_pre.mp4",
+                "video_all": "../img/teaser/en-pc_play_60sec.mp4"
+            }
+        }
+    },
+
+
+
+
+
+
+
+
+    "en": {
+        "contents": {
+            "future2": {
+                "title": "Sustainable tomorrow with",
+                "lab": "IKEA Lab",
+                "description": "Visit IKEA Lab now and find out more about sustainability and solutions.",
+                "video_bg_pc": "../img/teaser/teaser_future_bg.jpg",
+                "video_bg_mb": "../img/teaser/m_teaser_future_bg.jpg",
+                "effort": {
+                    "title": "Better everyday for the many people",
+                    "description": [
+                        "We are about to start a new journey for a better tomorrow by doing what we do best. ",
+                        "Using resources carefully, creating more from less, and optimising operations, are all actions that are embedded in the IKEA DNA. We’re not there yet, but we are well on our way. ",
+                        "<a href='javascript:;' class='effort-wrap__btn'>IKEA Lab</a> is open for anyone who’s curious about IKEA. "
+                    ]
+                },
+
+                "contact" : {
+                    "map" : {
+                        "img_pc" : "../img/teaser2/teaser-pc-en-map.jpg",
+                        "img_m" : "../img/teaser2/teaser-m-en-map.jpg",
+                        "links" : [
+                            {
+                                "img_icon" : "../img/lab/icon-google-map.png",
+                                "title" : "Google Map",
+                                "link" : "#구글지도 링크"
+                            },
+                            {
+                                "img_icon" : "../img/lab/icon-naver-map.png",
+                                "title" : "Naver Map",
+                                "link" : "http://naver.me/5Zu63uKt"
+                            },
+                            {
+                                "img_icon" : "../img/lab/icon-kakao-map.png",
+                                "title" : "Kakao Map",
+                                "link" : "http://kko.to/e4Q9mziDo"
+                            }
+                        ]
+                    },
+
+                    "info" : {
+                        "title" : "Getting here",
+                        "address" : {
+                            "title" : "Address",
+                            "data" : "IKEA Lab, 48, Achasan-ro 17-gil, Seongdong-gu, Seoul"
+                        },
+
+                        "operation" : {
+                            "title" :"Business Hours",
+                            "lab" : {
+                                "title" : "IKEA Lab",
+                                "time" : "11:00 - 21:00"
+                            },
+                            "food" : {
+                                "title" : "IKEA Food Lab",
+                                "time1" : "(Weekdays)<br> 07:30 - 17:30",
+                                "time2" : "(Weekend)<br> 11:00 - 21:00"
+                            }
+                        },
+
+                        "important" : "* IKEA Food Lab: Open from 11AM on Nov 5th"
+                    }
+                },
+
+                "event": {
+                    "section_title": "What’s On",
+                    "txt_point": "EVENT",
+                    "title": "IKEA Lab offers events <br class='pc-br'>for visitors of all ages",
+                    "list": [
+                        {
+                            "shortcut" : {
+                                "img" : "../img/lab/lab-arrow-btn.jpg",
+                                "link": "../event/"
+                            },
+
+                            "img" : {
+                                "pc" : "../img/lab/lab-pc-event.jpg",
+                                "m" : "../img/lab/lab-m-event.jpg"
+                            }
+                        }
+                    ]
+                },
+
+                "space" : {
+                    "txt_point": "SPACE",
+                    "title": "Sustainable experiences all<br class='pc-br'> around IKEA Lab \n",
+                    "spaces": [
+                        {
+                            "depth": "1F",
+                            "list": [
+                                {
+                                    "title": "Pop-up",
+                                    "description": "Join us on our journey for sustainable story.",
+                                    "img_map": "../img/lab/img-list0-map.jpg",
+                                    "img_space": "../img/lab/img-list0.jpg"
+                                },
+                                {
+                                    "title": "IKEA Food Lab",
+                                    "description": "Hungry? Sit down for a light meal or grab a cup of coffee at IKEA Lab.",
+                                    "img_map": "../img/lab/img-list1-map.jpg",
+                                    "img_space": "../img/lab/img-list1.jpg"
+                                },
+                                {
+                                    "title": "Shop",
+                                    "description": "Browse and buy IKEA products from shop.",
+                                    "img_map": "../img/lab/img-list2-map.jpg",
+                                    "img_space": "../img/lab/img-list2.jpg"
+                                }
+                            ]
+                        },
+
+                        {
+                            "depth" : "2F",
+                            "list": [
+                                {
+                                    "title" : "Showroom",
+                                    "description" : "Looking for some nice home furnishing ideas? Explore our showroom for inspirations.",
+                                    "img_map" : "../img/lab/img-list3-map.jpg",
+                                    "img_space" : "../img/lab/img-list3.jpg"
+                                },
+                                {
+                                    "title" : "Interior Design Office",
+                                    "description" : "IKEA offers complete Interior design service for the customer who<br class='pc-br'> have a need with refurnish and remodel a complete home or small business.",
+                                    "img_map" : "../img/lab/img-list4-map.jpg",
+                                    "img_space" : "../img/lab/img-list4.jpg"
+                                }
+                            ]
+                        }
+                    ]
+                },
+
+
+                "activity1": {
+                    "section_title": "Share your IKEA <br class='pc-br'>Lab story now!",
+                    "txt_point": "ACTIVITY 01",
+                    "title" : "Sustainable talk<br> concerts at IKEA Lab",
+                    "list" : [
+                        {
+                            "description" : [
+                                "Do you feel sustainability is difficult? Join sustainable talk concert at IKEA Lab and learn more about sustainability from various experts."
+                            ],
+
+                            "date" : [
+                                {
+                                    "title" : "Registration Period",
+                                    "day" : "2020.11.05 - 11.25"
+                                },
+                                {
+                                    "title" : "How to<br>Register",
+                                    "day" : "Join IKEA Family for free and click “apply” button for the concert schedule that you want"
+                                }
+                            ],
+
+                            "join" : {
+                                "title" : "Join IKEA Family",
+                                "link" : "https://www.ikea.com/kr/en/profile/signup/family/"
+                            },
+
+                            "important" : [
+                                "*  The event is only available for IKEA Family, and you can sign up sign up for free from IKEA.kr",
+                                "*  The event is only available in Korean language and registration may close early if capacity is reached."
+                            ]
+                        }
+                    ],
+
+                    "concert" : {
+                        "list" : [
+                            {
+                                "week" : "WEEK 01.",
+                                "title" : "Our home for sustainable people + planet",
+                                "date" : "2020.11.07 (SAT) 14:00 – 16:00",
+                                "cource" : [
+                                    {
+                                        "photo" : "../img/teaser2/concert-list-img-01.png",
+                                        "name" : "Tyler Rasch with Suyeol Hong, Yoo Byung-jae",
+                                        "description" : "Our home for<br>sustainable people + planet",
+                                        "topic" : "TALK",
+                                        "time" : "30minutes"
+                                    },
+                                    {
+                                        "photo" : "../img/teaser2/concert-list-img-02.png",
+                                        "name" : "Kang Dae Wung",
+                                        "description" : "Easy vegan<br>dessert recipes",
+                                        "topic" : "FOOD",
+                                        "time" : "30minutes",
+                                        "break" : {
+                                            "title" : "Break",
+                                            "time" : "15minutes"
+                                        }
+                                    },
+                                    {
+                                        "photo" : "../img/teaser2/concert-list-img-03.png",
+                                        "name" : "Sunghee Song (십년후연구소)",
+                                        "description" : "DIY air cleaner<br>for you and the planet",
+                                        "topic" : "WORKSHOP",
+                                        "time" : "30minutes"
+                                    }
+                                ],
+
+                                "button" : {
+                                    "type": 1,
+                                    "title" : "Registration Closed"
+                                },
+
+                                "possible" : ""
+                            },
+                            {
+                                "week" : "WEEK 02.",
+                                "title" : "Our home for sustainable people + planet",
+                                "date" : "2020.11.14 (SAT) 14:00 – 16:00",
+                                "cource" : [
+                                    {
+                                        "photo" : "../img/teaser2/concert-list-img-01.png",
+                                        "name" : "Tyler Rasch with Cheonho Cho, Yoo Byung-jae",
+                                        "description" : "Our home for sustainable<br>people + planet",
+                                        "topic" : "TALK",
+                                        "time" : "30minutes"
+                                    },
+                                    {
+                                        "photo" : "../img/teaser2/concert-list-img-04.png",
+                                        "name" : "Lee Yun Seo",
+                                        "description" : "How to eat<br>root vegetables",
+                                        "topic" : "FOOD",
+                                        "time" : "30minutes",
+                                        "break" : {
+                                            "title" : "Break",
+                                            "time" : "15minutes"
+                                        }
+                                    },
+                                    {
+                                        "photo" : "../img/teaser2/concert-list-img-05.png",
+                                        "name" : "Jin Choi (트망트망)",
+                                        "description" : "All-natural<br>shampoo bar",
+                                        "topic" : "WORKSHOP",
+                                        "time" : "30minutes"
+                                    }
+                                ],
+
+                                "button" : {
+                                    "type": 1,
+                                    "title" : "Apply",
+                                    "link" : "https://www.ikea.com/kr/en/stores/events/book/14035?utm_source=micro_site&utm_medium=concert_WK2&utm_campaign=IKEALab"
+                                },
+
+                                "possible" : ""
+                            },
+                            {
+                                "week" : "WEEK 03.",
+                                "title" : "Our home for sustainable people + planet",
+                                "date" : "2020.11.21 (SAT) 14:00 – 16:00",
+                                "cource" : [
+                                    {
+                                        "photo" : "../img/teaser2/concert-list-img-06.png",
+                                        "name" : "Tyler Rasch with Cheonho Cho",
+                                        "description" : "Our home for sustainable<br>people + planet",
+                                        "topic" : "TALK",
+                                        "time" : "30minutes"
+                                    },
+                                    {
+                                        "photo" : "../img/teaser2/concert-list-img-07.png",
+                                        "name" : "Jiyeon Lee",
+                                        "description" : "Vegan smoothie to keep nutrition<br>and your immune system",
+                                        "topic" : "FOOD",
+                                        "time" : "30minutes",
+                                        "break" : {
+                                            "title" : "Break",
+                                            "time" : "15minutes"
+                                        }
+                                    },
+                                    {
+                                        "photo" : "../img/teaser2/concert-list-img-08.png",
+                                        "name" : "Suhyun Shin (당신의 식탁)",
+                                        "description" : "Vegan plate<br>& cutlery",
+                                        "topic" : "WORKSHOP",
+                                        "time" : "30minutes"
+                                    }
+                                ],
+
+                                "button" : {
+                                    "type": 1,
+                                    "title" : "Apply",
+                                    "link" : "javascript:;"
+                                },
+
+                                "possible" : ""
+                            },
+                            {
+                                "week" : "WEEK 04.",
+                                "title" : "Our home for sustainable people + planet",
+                                "date" : "2020.11.28 (SAT) 14:00 – 16:00",
+                                "cource" : [
+                                    {
+                                        "photo" : "../img/teaser2/concert-list-img-09.png",
+                                        "name" : "Tyler Rasch with Suyeol Hong",
+                                        "description" : "Our home for sustainable<br>people + planet",
+                                        "topic" : "TALK",
+                                        "time" : "30minutes"
+                                    },
+                                    {
+                                        "photo" : "../img/teaser2/concert-list-img-10.png",
+                                        "name" : "Jeong Kwan",
+                                        "description" : "Korean temple food:<br>recipes by Jeong Kwan",
+                                        "topic" : "FOOD",
+                                        "time" : "30minutes",
+                                        "break" : {
+                                            "title" : "Break",
+                                            "time" : "15minutes"
+                                        }
+                                    },
+                                    {
+                                        "photo" : "../img/teaser2/concert-list-img-11.png",
+                                        "name" : "Heeran Park (메종드플란테)",
+                                        "description" : "Grow your own organic garden<br>at home",
+                                        "topic" : "WORKSHOP",
+                                        "time" : "30minutes"
+                                    }
+                                ],
+
+                                "button" : {
+                                    "type": 1,
+                                    "title" : "Apply",
+                                    "link" : "javascript:;"
+                                },
+
+                                "possible" : ""
+                            }
+                        ]
+                    }
+                },
+
+                "activity2" : {
+                    "txt_point" : "ACTIVITY 02",
+                    "title" : "Special TikTok challenge",
+                    "list" : [
+                        {
+                            "img" : {
+                                "pc" : "../img/lab/lab-pc-activity-02.jpg",
+                                "m" : "../img/lab/lab-m-activity-02.jpg"
+                            },
+
+                            "description" : [
+                                "Join #지구를아끼는챌린지(#SaveTheEarthChallenge) from TikTok now. 9 lucky winners will get special gifts from IKEA."
+                            ],
+
+                            "gift" : [
+                                {
+                                    "img" : "../img/lab/img-gift-0.jpg",
+                                    "value" : "1st prize (1 person)",
+                                    "brand" : "NORDKISA",
+                                    "title" : "노르디키사 옷장"
+                                },
+                                {
+                                    "img" : "../img/lab/img-gift-1.jpg",
+                                    "value" : "2nd prize (3 people)\n",
+                                    "brand" : "GRÖNADAL",
+                                    "title" : "그뢰나달 흔들의자"
+                                },
+                                {
+                                    "img" : "../img/lab/img-gift-2.jpg",
+                                    "value" : "3rd prize (5 people)\n",
+                                    "brand" : "NORDKISA",
+                                    "title" : "노르드키사 침대협탁"
+                                }
+                            ],
+
+                            "date" : [
+                                {
+                                    "title" : "Challenge Period",
+                                    "day" : "2020.11.05 – 11.19"
+                                },
+                                {
+                                    "title" : "Winner <br>Annoucement",
+                                    "day" : "2020.12.11 <br class='pc-br'>The winners will be contacted directly"
+                                }
+                            ],
+
+                            "important" : [
+                                "* Special TikTok challenge is in collaboration with café BAESAN, café Onion, café hey.bowl. <br class='pc-br'>You can get direct gifts if you join the challenge from the listed cafes."
+                            ],
+
+                            "tiktok" : {
+                                "title" : "View more from Tiktok",
+                                "link" : "https://activity.tiktok.com/magic/page/ejs/5f7c2f68eb196d02cbf013c8?appType=aweme"
+                            }
+                        }
+                    ]
+                },
+
+                "activity3" : {
+                    "txt_point" : "ACTIVITY 03",
+                    "title" : "Hashtag Event",
+                    "list" : [
+                        {
+                            "img" : {
+                                "pc" : "../img/lab/lab-pc-activity-03.jpg",
+                                "m" : "../img/lab/lab-m-activity-03.jpg"
+                            },
+
+                            "description" : [
+                                "Upload pictures of IKEA Lab on your Instagram with hashtag #IKEALab. Selected winners will get special prize from IKEA Lab."
+                            ],
+
+                            "gift" : [
+                                {
+                                    "img" : "../img/lab/img-gift-0.jpg",
+                                    "value" : "1st prize (1 person)",
+                                    "brand" : "NORDKISA",
+                                    "title" : "노르디키사 옷장"
+                                },
+                                {
+                                    "img" : "../img/lab/img-gift-1.jpg",
+                                    "value" : "2nd prize (3 people)\n",
+                                    "brand" : "GRÖNADAL",
+                                    "title" : "그뢰나달 흔들의자"
+                                },
+                                {
+                                    "img" : "../img/lab/img-gift-2.jpg",
+                                    "value" : "3rd prize (5 people)\n",
+                                    "brand" : "NORDKISA",
+                                    "title" : "노르드키사 침대협탁"
+                                }
+                            ],
+
+                            "date" : [
+                                {
+                                    "title" : "Challenge Period",
+                                    "day" : "2020.12.01 – 12.31"
+                                },
+                                {
+                                    "title" : "Winner <br>Annoucement",
+                                    "day" : "2021.01.01 <br class='pc-br'>The winners will be contacted directly"
+                                }
+                            ]
+                        }
+                    ]
+                },
+
+                "activity4" : {
+                    "txt_point" : "ACTIVITY 04",
+                    "title" : "Better Living <br class='pc-br'>App Challenge",
+                    "list" : [
+                        {
+                            "img" : {
+                                "pc" : "../img/lab/lab-pc-activity-04.jpg",
+                                "m" : "../img/lab/lab-m-activity-04.jpg"
+                            },
+
+                            "sub_title" : [
+                                ""
+                            ],
+
+                            "description" : [
+                                "No-one can make true change on their own, but together we can. That’s why we have products and solutions that are better for people and planet. A more sustainable life at home should be affordable for everyone, everywhere. Start your journey with Better Living App."
+                            ]
+                        }
+                    ]
+                },
+
+                "benefit": {
+                    "txt_point": "IKEA Family benefit",
+                    "title": "Join IKEA Family <br class='pc-br'>now and get <br class='pc-br'>special benefits!",
+                    "list": [
+                        {
+                            "number": "01",
+                            "title": "Guaranteed discounts",
+                            "description": "Get access to special member prices on a range of different products / menu. Check the IKEA Food Lab and shop to see all current offers!"
+                        },
+                        {
+                            "number": "02",
+                            "title": "Home furnishing consulting service",
+                            "description": "IKEA Family members get 1 hour of free home furnishing consulting service and interior design service at IKEA Lab"
+                        },
+                        {
+                            "number": "03",
+                            "title": "IKEA Family workshop",
+                            "description": "Workshops are designed to give all members tips and inspiration needed to bring ideas to life."
+                        }
+                    ],
+                    "apply": {
+                        "title": "Book Now",
+                        "link": "#워크숍신청하기링크"
+                    },
+
+                    "important": [
+                        "* The IKEA Family workshop can be applied from mid-Nov."
+                    ]
+                },
+
+                "consult" : {
+                    "txt_point" : "PLANNING",
+                    "title" : "Interior design service",
+                    "list" : [
+                        {
+                            "description" : [
+                                "This is a complete Interior design service for the customer who have a need with refurnish and remodel a compleate home or small buisness. Customers for this service requre full consoltation, detaild plans and documentation to suport their change. Start with IKEA now.<br><br>",
+                                "IKEA helps with everything from a simple refresh to a complete home makeover, with interior design advice based on unique home furnishing knowledge. Meet interior design service from Nov 5th."
+                            ],
+
+                            "img" : {
+                                "pc" : "../img/teaser2/teaser-pc-concerting.jpg",
+                                "m" : "../img/teaser2/teaser-m-concerting.jpg"
+                            },
+
+                            "reservation" : {
+                                "title" : "Book now (Korean only)",
+                                "link" : "https://www.ikea.com/kr/ko/customer-service/services/-pubc7d8b440?utm_source=micro_site&utm_medium=ids&utm_campaign=sustainability"
+                            }
+                        }
+                    ]
+                }
+            },
+
+            "play": {
+                "title": "Good for me,<br>Good for my home",
+                "video_preview_pc": "../img/teaser/pc_play_pre.mp4",
+                "video_preview_mb": "../img/teaser/m_play_pre.mp4",
+                "video_all": "../img/teaser/en-pc_play_60sec.mp4"
+            }
+        }
+    }
+}

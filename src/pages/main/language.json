@@ -1,0 +1,452 @@
+{
+    "ko" : {
+        "contents" : {
+            "material": {
+                "plastic": {
+                    "step_a": [
+                        "일회용 플라스틱 컵이<br>분해되는데 얼마의<br>시간이 걸리는지 아시나요?"
+                    ],
+                    "step_b": [
+                        "일회용 플라스틱 컵<br>분해시간",
+                        "년"
+                    ],
+                    "step_c": [
+                        "대부분의 플라스틱이<br>분해되지 않은 채<br>여전히 땅속에서 환경을<br>파괴하고 있어요"
+                    ],
+                    "step_d": [
+                        "IKEA는",
+                        "옥수수 전분이나<br>사탕수수로 만든 분해가<br>가능한 재생 플라스틱을<br>사용해요"
+                    ],
+
+                    "product": {
+                        "name": "TALRIKA 탈리카",
+                        "info": "머그컵, 라이트레드, 25 cl",
+                        "price": {
+                            "unit": "￦",
+                            "value": "9,900",
+                            "amount": "/ 4개"
+                        },
+                        "detail": {
+                            "title": "변화를 이끄는 탈리카 머그컵",
+                            "description": "IKEA가 환경을 생각하여 재생 가능한<br>전분 소재로 만든 제품입니다."
+                        }
+                    }
+                },
+
+                "wool": {
+                    "step_a": [
+                        "양들이<br>어떻게 길러지는지<br>아시나요?"
+                    ],
+                    "step_b": [
+                        "많은 양들이<br>좁은 곳에서 스트레스를<br>받으며 길러지고 있어요"
+                    ],
+                    "step_c": [
+                    ],
+                    "step_d": [
+                        "IKEA는",
+                        "울 인증 가이드에 맞춰<br>책임감 있게 관리하고<br>돌본 양에서 채취한<br>울을 사용해요"
+                    ],
+
+                    "product": {
+                        "name": "TRANGET 트랑에트",
+                        "info": "평직러그, 핸드메이드<br>블루셰이드, 170x240 cm",
+                        "price": {
+                            "unit": "￦",
+                            "value": "299,000",
+                            "amount": ""
+                        },
+                        "detail": {
+                            "title": "100% 양모로 제작된<br>트랑에트 러그",
+                            "description": "건강한 환경에서 자란 양들의 털을 건강한 방법으로<br>가공하여 숙련된 장인이 직조하여 만들었습니다."
+                        }
+                    }
+                },
+
+                "bamboo": {
+                    "step_a": [
+                        "나무 중 대나무가<br>가장 빠르게 자란다는<br>사실 아셨나요?"
+                    ],
+                    "step_b": [
+                        "일반 나무는 1년에<br>평균 30cm <br>성장하지만,<br>대나무는 하루<br>최대 1m씩 자라요"
+                    ],
+                    "step_c": [
+                    ],
+                    "step_d": [
+                        "IKEA는",
+                        "가장 빠르게 자라면서<br>습기에도 강한 대나무로<br>제품을 만들어요"
+                    ],
+
+                    "product": {
+                        "name": "RÅGRUND 로그룬드",
+                        "info": "수건걸이의자, 대나무",
+                        "price": {
+                            "unit": "￦",
+                            "value": "49,900",
+                            "amount": ""
+                        },
+                        "detail": {
+                            "title": "지속 가능한 아름다움<br>로그룬드 의자",
+                            "description": "내구성 높고 습기에도 강한<br>천연 소재인 대나무로 제작되었습니다."
+                        }
+                    }
+                },
+
+
+                "wood": {
+                    "step_a": [
+                        "지금 이 순간에도<br>나무가 사라지고<br>있는 걸 아시나요?"
+                    ],
+                    "step_b": [
+                        "세계 곳곳에서<br>무분별한 벌목으로<br>숲이 훼손되고 있어요"
+                    ],
+                    "step_c": [
+                    ],
+                    "step_d": [
+                        "IKEA는",
+                        "인증된 지역에서<br>체계적으로 관리한 나무만을 <br>사용하여 제품을 만들어요"
+                    ],
+
+                    "product": {
+                        "name": "HAVSTA 하브스타",
+                        "info": "유리도어수납장, <br>다크브라운, 81x35x123 cm",
+                        "price": {
+                            "unit": "￦",
+                            "value": "260,000",
+                            "amount": ""
+                        },
+                        "detail": {
+                            "title": "자연 그대로의 느낌을 살린 <br>하브스타 수납장",
+                            "description": "지속 가능한 방법으로 벌목한<br>소나무 원목의 느낌을 그대로 담아냈습니다."
+                        }
+                    }
+                },
+
+                "cotton": {
+                    "step_a": [
+                        "목화가 어떻게<br>재배되는지<br>아시나요?"
+                    ],
+                    "step_b": [
+                        "재배 단계에서 <br>많은 화학 비료 사용으로<br>땅을 오염시켜요"
+                    ],
+                    "step_c": [
+                    ],
+                    "step_d": [
+                        "IKEA는",
+                        "최소한의 화학 비료와<br>적은 양의 물로 재배한<br>목화 솜으로 제품을 만들어요"
+                    ],
+
+                    "product": {
+                        "name": "LEIKNY 레이크뉘",
+                        "info": "쿠션커버, 블랙/멀티컬러<br>50x50 cm",
+                        "price": {
+                            "unit": "￦",
+                            "value": "5,900",
+                            "amount": ""
+                        },
+                        "detail": {
+                            "title": "지속 가능한 면을 위한 약속<br>레이크뉘 쿠션",
+                            "description": "IKEA의 면 제품을 선택하는 것은<br>더 나은 지구를 위한 선택이기도 합니다. "
+                        }
+                    }
+                },
+
+                "food": {
+                    "step_a": [
+                        "일주일에<br>고기를 얼마나<br>자주 드시나요?"
+                    ],
+                    "step_b": [
+                        "고기는 생산 과정에서<br>온실가스를 배출하여<br>기후 변화를 유발해요"
+                    ],
+                    "step_c": [
+                    ],
+                    "step_d": [
+                        "IKEA는",
+                        "사람과 지구를 위해<br>채소로 지속 가능한 먹거리를<br>만들어 탄소 발자국을 <br>낮추고 있어요"
+                    ],
+
+                    "product": {
+                        "name": "ALLEMANSRÄTTEN<br>알레만스레텐",
+                        "info": "냉동베지볼, 채소 100%",
+                        "price": {
+                            "unit": "￦",
+                            "value": "9,900",
+                            "amount": "/ kg"
+                        },
+                        "detail": {
+                            "title": "채소로 만든 맛있는<br>알레만스레텐 베지볼",
+                            "description": "탄소 발자국 수치도 낮추며 채식주의자도<br>마음 놓고 먹을 수 있는 식품입니다."
+                        }
+                    }
+                }
+            },
+
+            "manifesto": {
+                "description": "지속 가능한 내일을 위해<br>세상을 아끼는 생활,<br>어렵고 불편하게<br>느껴지시나요?",
+                "detail": [
+                    "그렇다면 우리 집을<br>아끼는 것부터 시작해보세요<br>집을 아끼는 게 바로 세상을<br>아끼는 일이거든요",
+                    "집에 건강한 소재부터<br>에너지 절약 아이템까지<br>하나하나 집을 아끼다 보면<br>집은 나를 위해<br>더 많은 것을 아껴주죠",
+                    "지속 가능한 내일을<br>건강한 매일 속에서<br>만들 수 있도록<br>IKEA와 함께 시작해요"
+                ]
+
+
+            },
+
+            "sustainability": {
+                "description": "사람과 지구를 위해 <br>노력하는 IKEA의 더 많은 <br>이야기를 만나보세요!"
+            },
+
+            "tvcf": {
+                "description": "내가 아끼는 집,<br>나를 아끼는 집"
+            },
+
+            "lab": {
+                "title" : "함께 만드는 지속 가능한 미래",
+                "lab" : "IKEA Lab",
+                "description" : "IKEA Lab에서 지속 가능성에 대한 <br class='pc-br'> 솔루션을 경험해보세요."
+            },
+
+            "betterliving_app": {
+                "title": "건강한 지구, <br>집에서 함께 시작해요!",
+                "description": "일상에서 환경을 위해 실천한 일들을 <br>기록하고 공유해 보세요! <br>작은 행동이라도 많은 사람들과 함께 <br>행동 한다면 큰 변화를 만들 수 있어요.",
+                "detail": [
+                    "조명끄기",
+                    "물병 채우기",
+                    "샤워시간 줄이기",
+                    "하루동안 채식하기",
+                    "재활용하기"
+                ]
+            },
+
+            "personaltest": {
+                "title_img":"./img/main/pc_personalTest_title.png",
+                "description": "나는 빌런일까? 히어로일까?"
+            }
+
+        }
+    },
+
+    "en" : {
+        "contents" : {
+            "material": {
+                "plastic": {
+                    "step_a": [
+                        "Do you know<br>how long it takes for<br>single use plastic cups<br>to decompose?"
+                    ],
+                    "step_b": [
+                        "The<br>answer is",
+                        "years"
+                    ],
+                    "step_c": [
+                        "Most of the plastic <br>stays undecomposed,<br>harming the<br>environment."
+                    ],
+                    "step_d": [
+                        "IKEA",
+                        "uses biodegradable,<br>renewable plastics<br>made from corn<br>or sugarcanes."
+                    ],
+
+                    "product": {
+                        "name": "TALRIKA",
+                        "info": "Mug, light red, 25 cl",
+                        "price": {
+                            "unit": "￦",
+                            "value": "9,900",
+                            "amount": "/ 4 pieces"
+                        },
+                        "detail": {
+                            "title": "TALRIKA mug, a sustainable<br>option for the future",
+                            "description": "Made of renewable plastic, a more sustainable <br class='pc-br'>option than plastic from sources like fossil oil."
+                        }
+                    }
+                },
+
+                "wool": {
+                    "step_a": [
+                        "Do you know<br>how sheep are<br>raised?"
+                    ],
+                    "step_b": [
+                        "Many sheep live<br>stressful lives without<br>enough living space."
+                    ],
+                    "step_c": [
+                    ],
+                    "step_d": [
+                        "Wool",
+                        "used in IKEA<br>products only comes<br>from sheep that are<br>managed responsibly<br>with respect."
+                    ],
+
+                    "product": {
+                        "name": "TRANGET",
+                        "info": "Rug, flatwoven, handmade<br>assorted blue shades,<br>170x240 cm",
+                        "price": {
+                            "unit": "￦",
+                            "value": "299,000",
+                            "amount": ""
+                        },
+                        "detail": {
+                            "title": "TRANGET rug, 100% wool,<br>100% craftmanship",
+                            "description": "TRANGET is one of many rugs in our range that are made <br class='pc-br'>from 100% wool and hand-woven by skilled artisans."
+                        }
+                    }
+                },
+
+                "bamboo": {
+                    "step_a": [
+                        "Did you know<br>bamboo is the<br>fastest-growing<br>plant on the planet?"
+                    ],
+                    "step_b": [
+                        "Bamboo can<br>grow up to<br>1 meter per day<br>whereas most<br>trees grow<br>an average of<br>30cm per year."
+                    ],
+                    "step_c": [
+                    ],
+                    "step_d": [
+                        "IKEA's",
+                        "products are<br>made from fastest<br>growing and moisture<br>tolerant bamboo."
+                    ],
+
+                    "product": {
+                        "name": "RÅGRUND",
+                        "info": "Towel rack chair, bamboo",
+                        "price": {
+                            "unit": "￦",
+                            "value": "49,900",
+                            "amount": ""
+                        },
+                        "detail": {
+                            "title": "RÅGRUND chair, <br>sustainable beauty",
+                            "description": "RÅGRUND is made from a natural bamboo that <br class='pc-br'>is durable and moisture tolerant."
+                        }
+                    }
+                },
+
+                "wood": {
+                    "step_a": [
+                        "Did you know trees<br>are being cut and<br>burned down even at<br>this very moment?"
+                    ],
+                    "step_b": [
+                        "Forests are suffering<br>from irresponsible<br>deforestation across<br>the planet."
+                    ],
+                    "step_c": [
+                    ],
+                    "step_d": [
+                        "As one",
+                        "of the largest<br>users of wood in the<br>retail sector, we<br>always look for ways<br>to use it wisely and to<br>source it according to<br>high set standards."
+                    ],
+
+                    "product": {
+                        "name": "HAVSTA",
+                        "info": "Glass-door cabinet,<br>dark brown, 81x35x123 cm",
+                        "price": {
+                            "unit": "￦",
+                            "value": "260,000",
+                            "amount": ""
+                        },
+                        "detail": {
+                            "title": "HAVSTA cabinet,<br>with scents of nature",
+                            "description": "HAVSTA is made from sustainable solid pine<br>and only contain sustainably sourced wood."
+                        }
+                    }
+                },
+
+                "cotton": {
+                    "step_a": [
+                        "Do you know<br>about conventionally<br>grown cotton?"
+                    ],
+                    "step_b": [
+                        "Growing cotton in the<br>conventional way is<br>often harmful to the<br>environment and the<br>people involved."
+                    ],
+                    "step_c": [
+                    ],
+                    "step_d": [
+                        "IKEA is",
+                        "committed to<br>use cotton grown in a<br>responsible way,<br>for the benefit of our<br>customers and the<br>planet."
+                    ],
+
+                    "product": {
+                        "name": "LEIKNY",
+                        "info": "Cushion cover,<br>black/multi color, 50x50 cm",
+                        "price": {
+                            "unit": "￦",
+                            "value": "5,900",
+                            "amount": ""
+                        },
+                        "detail": {
+                            "title": "LEIKNY cushion,<br>our promise for sustainable cottons",
+                            "description": "Cotton grown with care – your choice matters."
+                        }
+                    }
+                },
+
+                "food": {
+                    "step_a": [
+                        "How often do you<br>eat meat in a<br>single week?"
+                    ],
+                    "step_b": [
+                        "Meat production<br>produces carbon<br>footprint and causes<br>climate change."
+                    ],
+                    "step_c": [
+                    ],
+                    "step_d": [
+                        "By cutting",
+                        "meat and dairy<br>products from<br>your diet you could<br>reduce the carbon<br>footprint.<br>IKEA is here to help<br>you with plant-based<br>goodness."
+                    ],
+
+                    "product": {
+                        "name": "ALLEMANSRÄTTEN",
+                        "info": "Vegetable balls, frozen,<br>100% vegetables",
+                        "price": {
+                            "unit": "￦",
+                            "value": "9,900",
+                            "amount": "/ kg"
+                        },
+                        "detail": {
+                            "title": "ALLEMANSRÄTTEN<br>veggie ball,<br>planted-based goodness",
+                            "description": "Get the veggie ball rolling on reducing<br>your carbon footprint."
+                        }
+                    }
+                }
+            },
+
+            "manifesto": {
+                "description": "The everyday life<br>for a sustainable<br>tomorrow, do you feel<br>it’s difficult and<br>inconvenient?",
+                "detail": [
+                    "Start by taking care<br>of your home.<br>It is a good step<br>to care for the planet.",
+                    "If you start loving<br>your home with<br>healthier materials,<br>solutions and energy<br>saving initiatives, your<br>home will love you back.",
+                    "For a sustainable<br>tomorrow, start with<br>a healthier every day!"
+                ]
+
+
+            },
+
+            "sustainability": {
+                "description": "How sustainable is<br>IKEA? Get inspired<br>from IKEA’s stories<br>now!"
+            },
+
+            "tvcf": {
+                "description": "Good for me,<br>Good for my home"
+            },
+
+            "lab": {
+                "title" : "Sustainable tomorrow with",
+                "lab" : "IKEA Lab",
+                "description" : "Visit IKEA Lab now and find out more about<br>sustainability and solutions."
+            },
+
+            "betterliving_app": {
+                "title": "Better World<br>Starts at Home",
+                "description": "Record what you have done on the IKEA Better Living app, share it with your friends, and encourage them to participate. Even small actions can make a big difference with many people.",
+                "detail": [
+                    "Turn off the lights",
+                    "Filling water bottle",
+                    "Reduce shower time",
+                    "Vegan throughout the day",
+                    "Recycle"
+                ]
+            },
+
+            "personaltest": {
+                "title_img":"./img/main/pc_en_personalTest_title.png",
+                "description": "Are you a villain, or a hero?"
+            }
+
+        }
+    }
+}

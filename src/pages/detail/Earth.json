@@ -1,0 +1,324 @@
+{
+    "ko" : {
+        "contents" : {
+            "kv": {
+                "title" : "내가 아끼는 지구,<br>나를 아끼는 지구"
+            },
+
+            "info0" : {
+                "type" : "default",
+                "txt_point":"IKEA 파르마레",
+                "title": "지속 가능한 먹거리<br>IKEA 파르마레",
+                "description" : [
+                    "파르마레(Farmare)는 스웨덴어로 농부라는 뜻으로, 탄소 배출을 줄이면서도 더 건강하고 맛있는 먹거리를 제공하기 위해 IKEA 매장 내에 만들어진 도심형 농장입니다. ",
+                    "농부의 정성으로 IKEA가 직접 채소를 기르고 수확하여 더 건강하고 맛있는 음식을 제공합니다."
+                ]
+            },
+
+            "info_why_0" : {
+                "type" : "why",
+                "title" : "왜 도심형 농장을<br>시작할까요?",
+                "list" : [
+                    {
+                        "img" : "../img/detail/earth/earth-why-list-01.png",
+                        "title" : "친환경 무농약",
+                        "description" : "도심형 농장은 환경에 해로운 영향을 끼치는 농약등을 사용하지 않아 친환경적으로 작물을 지속 가능한 방법으로 재배할 수 있습니다."
+                    },
+                    {
+                        "img" : "../img/detail/earth/earth-why-list-02.png",
+                        "title" : "신선한 고품질 먹거리",
+                        "description" : "도심형 농장은 계절에 따른 외부 영향을 받지 않아 지속적이고 안정적으로 작물을 생산할 수 있습니다.<br><br>그리고 공기 중 오염물질 (미세먼지, 산성비 등)로 부터 완벽히 차단되어 보다 높은 품질의 작물을 생산할 수 있습니다."
+                    },
+                    {
+                        "img" : "../img/detail/earth/earth-why-list-03.png",
+                        "title" : "최대 90% 물 절약",
+                        "description" : "물은 작물을 기르는데 필수적입니다. 도심형 농장은 물을 순환식으로 사용하여 약 90% 물을 절약합니다."
+                    }
+                ]
+            },
+
+            "product_food_0" : {
+                "type" : "product-foot",
+                "title": "IKEA 매장에서 만나는<br>신선한 유기농 채소",
+                "description" : [
+                    "IKEA 레스토랑에서 IKEA 파르마레에서 신선하고 정성껏 재배한 친환경 채소를 담은 메뉴를 맛볼 수 있습니다. ",
+                    "IKEA 파르마레는 IKEA 광명점 2F 레스토랑에서만 운영되고 있으며, 점차 확대할 예정입니다."
+                ],
+                "list" : [
+                    {
+                        "link" : "javascript:;",
+                        "img" : "../img/detail/earth/earth-pc-product-01.png",
+                        "sub_title" : "Salmon croissant sandwich",
+                        "title" : "연어 크로와상 샌드위치",
+                        "keyword" : "",
+                        "price" : "4,900",
+                        "number" : "",
+                        "description" : "* 절인 연어, 샐러드, 연어 소스와 아보카도가 들어간 크로와상 샌드위치"
+                    },
+                    {
+                        "link" : "javascript:;",
+                        "img" : "../img/detail/earth/earth-pc-product-02.png",
+                        "sub_title" : "Garden salad",
+                        "title" : "가든 샐러드",
+                        "keyword" : "",
+                        "price" : "6,900",
+                        "number" : "",
+                        "description" : "* 비트 샐러드, 여러 가지 신선한 야채와 이탈리안 드레싱을 곁들인 샐러드"
+                    },
+                    {
+                        "link" : "javascript:;",
+                        "img" : "../img/detail/earth/earth-pc-product-03.png",
+                        "sub_title" : "Salmon salad",
+                        "title" : "연어 샐러드",
+                        "keyword" : "",
+                        "price" : "8,900",
+                        "number" : "",
+                        "description" : "* 조리된 연어, 여러 가지 친환경 야채와\n오리엔탈 드레싱을 곁들인 샐러드"
+                    },
+                    {
+                        "link" : "javascript:;",
+                        "img" : "../img/detail/earth/earth-pc-product-04.png",
+                        "sub_title" : "Chicken salad",
+                        "title" : "닭가슴살 샐러드",
+                        "keyword" : "",
+                        "price" : "8,900",
+                        "number" : "",
+                        "description" : "* 훈제 닭 가슴살, 여러 가지 야채와 양파칩과 크림 드레싱을 곁들인 샐러드"
+                    }
+                ]
+            },
+
+            "info1" : {
+                "type" : "default",
+                "txt_point":"IKEA 전기차 배송",
+                "title": "사람과 지구를 위한<br>100% 전기차 배송",
+                "sub_title" : "",
+                "description" : [
+                    "IKEA 제품을 집에서 바로 받을 수 있는 배송 서비스에도 지구를 아끼는 방법이 없을까요? IKEA 제품도, 지구도 안전한 100% 전기차 배송을 시작합니다. ",
+                    "전기차 배송은 IKEA 동부산점에서 운영되고 있으며, 점차 확대해 나갈 예정입니다."
+                ],
+                "img": [
+                    {
+                        "img_pc": "../img/detail/earth/earth-pc-info-01.jpg",
+                        "img_mb": "../img/detail/earth/earth-m-info-01.jpg"
+                    }
+                ]
+            },
+
+            "year1" : {
+                "list" : [
+                    {
+                        "title" : "전기차로의 전환을 위한<br>IKEA의 노력",
+                        "year" : "2017년",
+                        "description" : "IKEA는 다국적 비영리단체 기후그룹(The Climate <br class='pc-br'>Group)인 ‘글로벌 EV100 이니셔티브’에 가입했습니다. <br class='pc-br'>'글로벌 EV100 이니셔티브‘가 최근에 발표한 보고서에 <br class='pc-br'>따르면 EV100은 2030년까지 이니셔티브 가입 회사의 <br class='pc-br'>내연 기관 차량 200만 대를 100% 전기차로 전환한다는 <br class='pc-br'>계획을 세우고 있습니다.",
+                        "img": "../img/detail/earth/earth-year-01.png"
+                    }
+                ]
+            },
+
+            "year2" : {
+                "type" : "default",
+                "sub_title" : "2020년",
+                "description" : [
+                    "IKEA의 모든 매장에 전기차 충전소를 설치할 예정입니다. 이후 새로 오픈하는 매장까지 지속적으로 확대할 예정입니다."
+                ]
+            },
+
+            "year3" : {
+                "type" : "green",
+                "title": "2025년",
+                "description" : [
+                    "전국 배송 서비스에 100% 전기차를 도입하고자 합니다."
+                ],
+                "percent" : {
+                    "value" : 100,
+                    "txt_description" : "전기차"
+                }
+            },
+
+            "year4" : {
+                "type" : "default",
+                "sub_title" : "2030년",
+                "description" : [
+                    "IKEA를 방문하는 고객과 직원들의 여정에서 발생하는 환경 폐기물을 50% 줄이는 것을 목표로 하고 있습니다."
+                ]
+            },
+
+            "info2" : {
+                "type" : "default",
+                "txt_point":"IKEA 바이백",
+                "title": "IKEA 가구에 두 번째<br>기회를 주는 바이백 서비스",
+                "sub_title" : "",
+                "description" : [
+                    "바이백 서비스는 고객이 사용하시던 제품을 IKEA가 다시 매입한 뒤 판매하는 서비스입니다. 쓰던 제품을 보다 지속 가능하고 모두에게 이로운 방향으로 활용할 수 있는 방법입니다. 제품에게 새 주인을 찾아주고 돈도 아끼고 환경도 보호할 수 있습니다."
+                ],
+                "buyback" : {
+                    "title" : "바이백 서비스",
+
+                    "txt_link" : "자세히 알아보기",
+                    "link" : "https://www.ikea.com/kr/ko/customer-service/services/buy-back-resell/"
+                }
+            }
+        }
+    },
+
+    "en" : {
+        "contents" : {
+            "kv": {
+                "title" : "Good for me<br>Good for planet"
+            },
+
+            "info0" : {
+                "type" : "default",
+                "txt_point":"IKEA Farmare",
+                "title": "IKEA Farmare:<br>Sustainable Food",
+                "description" : [
+                    "Farmare, which means 'Farmer' in Swedish, is an urban farming built in the store to reduce carbon emissions while providing healthier and more delicious food. ",
+                    "With the sincerity of the farmer, <br class='pc-br'>we grow and harvest vegetables ourselves to provide healthier and tastier food."
+                ]
+            },
+
+            "info_why_0" : {
+                "type" : "why",
+                "title" : "Why<br> Urban farming?",
+                "list" : [
+                    {
+                        "img" : "../img/detail/earth/earth-why-list-01.png",
+                        "title" : "Pesticide free,<br>environment friendly",
+                        "description" : "Urban Farming does not require pesticides nor herbicides which eventually reduces affects upon environment."
+                    },
+                    {
+                        "img" : "../img/detail/earth/earth-why-list-02.png",
+                        "title" : "Fresh, high quality food",
+                        "description" : "Urban farming grows vegetables in an isolated ecosystem, which removes external factors for quality defection.<br><br>Also, isolated ecosystem removes affect from pollutants such as microfine dust or acid rain, meaning that it can produce high quality food."
+                    },
+                    {
+                        "img" : "../img/detail/earth/earth-why-list-03.png",
+                        "title" : "Save water up to 90%",
+                        "description" : "Water is crucial for farming. Urban farming circulates water which results approximately 90% of water savings compared to traditional agriculture industry."
+                    }
+                ]
+            },
+
+            "product_food_0" : {
+                "type" : "product-foot",
+                "title": "Meet<br>IKEA Farmare!",
+                "description" : [
+                    "Meet IKEA Farmare at IKEA Restaurant! IKEA Restaurant offers a menu of eco-friendly vegetables carefully grown at IKEA Farmare. ",
+                    "Currently, IKEA Farmare is only operated in IKEA Gwangmyeong Store 2F Restaurant and will be expanded gradually."
+                ],
+                "list" : [
+                    {
+                        "link" : "javascript:;",
+                        "img" : "../img/detail/earth/earth-pc-product-01.png",
+                        "title" : "Salmon croissant sandwich",
+                        "keyword" : "",
+                        "price" : "4,900",
+                        "number" : "",
+                        "description" : "*A croissant sandwich with pickled salmon, salad, salmon sauce, and avocado."
+                    },
+                    {
+                        "link" : "javascript:;",
+                        "img" : "../img/detail/earth/earth-pc-product-02.png",
+                        "title" : "Garden salad",
+                        "keyword" : "",
+                        "price" : "6,900",
+                        "number" : "",
+                        "description" : "* Beet salad with a variety of eco-friendly vegetables and Italian dressing."
+                    },
+                    {
+                        "link" : "javascript:;",
+                        "img" : "../img/detail/earth/earth-pc-product-03.png",
+                        "title" : "Salmon salad",
+                        "keyword" : "",
+                        "price" : "8,900",
+                        "number" : "",
+                        "description" : "*Salad with cooked salmon, various eco-friendly vegetables and oriental dressing."
+                    },
+                    {
+                        "link" : "javascript:;",
+                        "img" : "../img/detail/earth/earth-pc-product-04.png",
+                        "title" : "Chicken salad",
+                        "keyword" : "",
+                        "price" : "8,900",
+                        "number" : "",
+                        "description" : "*Salad with smoked chicken breast, various eco-friendly vegetables, onion chips and cream dressing."
+                    }
+                ]
+            },
+
+            "info1" : {
+                "type" : "default",
+                "txt_point":"IKEA Electric Home Delivery",
+                "title": "100% Electric <br>Home Delivery for <br> People and the Planet",
+                "sub_title" : "",
+                "description" : [
+                    "What are some ways to deliver IKEA products safely while caring for the Earth?<br class='pc-br'> The answer is in IKEA’s 100% Electric Home Delivery Service. ",
+                    "IKEA’s first Eco-friendly delivery service is currently undergoing pilot operations in IKEA DongBusan Store and will soon start operating in other capital regions."
+                ],
+                "img": [
+                    {
+                        "img_pc": "../img/detail/earth/en-earth-pc-info-01.jpg",
+                        "img_mb": "../img/detail/earth/en-earth-m-info-01.jpg"
+                    }
+                ]
+            },
+
+            "year1" : {
+                "list" : [
+                    {
+                        "title" : "IKEA’s <br>Commitment to the <br>Electric Revolution",
+                        "year" : "In 2017",
+                        "description" : "IKEA joined an international non-profit organization<br class='pc-br'> formed by The Climate Group called ‘Global EV100 Initiative’.<br class='pc-br'> It was recently reported that EV100 commits to transform<br class='pc-br'> all 2 million vehicles of partnered businesses into 100% EV.",
+
+                        "img": "../img/detail/earth/earth-year-01.png"
+                    }
+                ]
+            },
+
+            "year2" : {
+                "type" : "default",
+                "sub_title" : "By 2020",
+                "description" : [
+                    "We plan to provide access to EV charging stations in all our touchpoints and will continue expanding to future stores that may come along."
+                ]
+            },
+
+            "year3" : {
+                "type" : "green",
+                "title": "By 2025",
+                "description" : [
+                    "We plan to use 100% electric vehicles to transport customer deliveries and services."
+                ],
+                "percent" : {
+                    "value" : 100,
+                    "txt_description" : "Electric Vehicles"
+                }
+            },
+
+            "year4" : {
+                "type" : "default",
+                "sub_title" : "By 2030",
+                "description" : [
+                    "We aim to reduce IKEA’s customer and co-worker travel emissions by 50%."
+                ]
+            },
+
+            "info2" : {
+                "type" : "default",
+                "txt_point":"IKEA Buy back",
+                "title": "Give a second life to<br> your IKEA product",
+                "sub_title" : "",
+                "description" : [
+                    "Try the IKEA Buy back & resell service. It’s even more sustainable, and everybody wins.<br class='pc-br'> By selling used furniture back to IKEA, someone else gets to enjoy your second-hand IKEA furniture.<br class='pc-br'> You do something that’s good for your wallet and the planet."
+                ],
+                "buyback" : {
+                    "title" : "Buy back service",
+
+                    "txt_link" : "Learn more",
+                    "link" : "https://www.ikea.com/kr/en/customer-service/services/buy-back-resell/"
+                }
+            }
+        }
+    }
+}

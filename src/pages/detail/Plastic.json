@@ -1,0 +1,317 @@
+{
+    "ko" : {
+        "contents" : {
+            "kv": {
+                "title" : "플라스틱"
+            },
+
+            "info0" : {
+                "type" : "default",
+                "title": "재활용, 재생 가능한<br>플라스틱을 향한 변화",
+                "description" : [
+                    "플라스틱이 우리 일상에서 사용되는 이유는 다양합니다. 하지만 플라스틱을 무책임하게 생산 및 폐기하는 경우, 환경에 심각한 피해를 줄 수 있습니다. ",
+                    "IKEA는 사람과 지구에 긍정적인 영향을 미치기 위한 노력으로, 2030년까지 제품에 사용하는 모든 플라스틱을 재활용 또는 재생 가능한 소재로 전환하는 목표를 세웠습니다. ",
+                    "IKEA는 제품군에 사용되었던 일회용 플라스틱을 교체하고, 지속 가능한 플라스틱을 사용하는 제품 수를 점점 늘려나가고 있습니다."
+                ],
+                "video" : [
+                    {
+                        "video_pc" : "../img/detail/plastic/plastic-pc-available-video.mp4",
+                        "video_mb": "../img/detail/plastic/plastic-m-available-video.mp4"
+                    }
+                ]
+            },
+
+            "info_year_0" : {
+                "type" : "year",
+                "txt_year" : "2020",
+                "txt_year_after" : "년까지",
+                "title": "일회용 플라스틱 없는<br>세상 만들기",
+                "description" : [
+                    "IKEA는 사람과 지구를 위한 노력의 일환으로 글로벌 홈퍼니싱 제품군에 일회용 플라스틱을 사용하지 않기로 하였습니다. ",
+                    "IKEA 레스토랑과 비스트로, 카페에서 제공하는 일회용 플라스틱 용품 또한 지속 가능한 일회용품으로 교체하려고 합니다."
+                ],
+
+                "video" : [
+                    {
+                        "video_pc" : "../img/sample-video2.mp4",
+                        "video_mb": "../img/sample-video2.mp4"
+                    }
+                ]
+            },
+
+            "info1" : {
+                "type" : "default",
+                "title": "기분까지 좋아지는<br>재활용 PLA (폴리 유산)<br>플라스틱",
+                "description" : [
+                    "IKEA는 고객들이 지속 가능한 플라스틱 제품을 마음 편히 사용할 수 있도록 화석 원료 대신 옥수수, 사탕무, 사탕수수와 같은 원료에서 추출한 PLA (폴리 유산) 플라스틱을 사용하고 있습니다. "
+                ],
+                "video" : [
+                    {
+                        "video_pc" : "../img/detail/plastic/plastic-pc-like-video-01.mp4",
+                        "video_mb": "../img/detail/plastic/plastic-m-like-video-01.mp4"
+                    },
+                    {
+                        "video_pc" : "../img/detail/plastic/plastic-pc-like-video-02.mp4",
+                        "video_mb": "../img/detail/plastic/plastic-m-like-video-02.mp4"
+                    }
+                ]
+            },
+
+            "info2" : {
+                "type" : "default",
+                "title": "어린이에게도<br>안전한 PLA (폴리 유산)<br>플라스틱",
+                "description" : [
+                    "PLA (폴리 유산) 플라스틱 제품은 다른 플라스틱 제품과 마찬가지로 내구성이 뛰어나고 안전하면서도 환경에 미치는 영향은 훨씬 적습니다. ",
+                    "엄격한 안전 기준을 따르는 어린이 제품은 물론 음식물을 담는 제품을 비롯한 여러 제품에 사용할 수 있습니다."
+                ]
+            },
+
+            "product_0" : {
+                "type" : "default",
+                "description": "",
+                "list" : [
+                    {
+                        "link" : "https://www.ikea.com/kr/ko/p/heroisk-bowl-green-yellow-20414141/",
+                        "img" : "../img/detail/plastic/plastic-safe-list-01.jpg",
+                        "title" : "HEROISK 헤로이스크",
+                        "keyword" : "그릇, 그린, 옐로, 14 cm",
+                        "price" : "5,900",
+                        "number" : "/ 2개",
+                        "description" : "HEROISK 헤로이스크는 화석 연료를 <br>사용하여 만든 일반 플라스틱이 아닌, <br>옥수수를 주원료로 사용한 100% PLA <br>(폴리 유산) 플라스틱으로 만든 <br>제품입니다."
+                    },
+                    {
+                        "link" : "https://www.ikea.com/kr/ko/p/talrika-mug-light-red-30421117/",
+                        "img" : "../img/detail/plastic/plastic-safe-list-02.jpg",
+                        "title" : "TALRIKA 탈리카",
+                        "keyword" : "머그컵, 라이트레드, 25 cl",
+                        "price" : "9,900",
+                        "number" : "/ 4개",
+                        "description" : "TALRIKA 탈리카 시리즈는 옥수수를 <br>주원료로 사용한 100% PLA (폴리 유산) <br>플라스틱으로 만든 IKEA의 첫 제품입니다. 전자레인지와 식기세척기에 넣고 사용해도 안전하며, 재활용도 가능합니다."
+                    },
+                    {
+                        "link" : "https://www.ikea.com/kr/ko/p/istad-resealable-bag-red-90339285/",
+                        "img" : "../img/detail/plastic/plastic-safe-list-03.jpg",
+                        "title" : "ISTAD 이스타드",
+                        "keyword" : "지퍼백, 레드",
+                        "price" : "2,900",
+                        "number" : "/ 60개",
+                        "description" : "ISTAD 이스타드 지퍼백은 <br>사탕수수에서 추출한 재생 가능한 <br>소재로 만듭니다.  내구성이 뛰어나고 <br>여러 번 재사용할 수 있어 플라스틱 <br>폐기물도 줄일 수 있습니다."
+                    }
+                ]
+            },
+
+            "reply" : {
+                "title" : "“플라스틱은 내구성이 뛰어나고,<br>일상에서 다양하게 활용할 수<br>있는 좋은 소재입니다.<br><br>그러니 매일 사용하는 플라스틱을<br>재활용 또는 재생 가능한 소재로<br>만들 필요가 있죠.”",
+                "description" : "Alexander Grouleff , IKEA of Sweden<br>재활용 및 재생 가능<br>플라스틱 제품 프로젝트 리더",
+                "material" : {
+                    "description" : "IKEA에서 사용하는 PLA (폴리 유산)<br>플라스틱은 옥수수, 사탕무, 사탕수수와<br>같은 재생 가능한 원료로 만듭니다. "
+                }
+            },
+
+            "recycle" : {
+                "title" : "재활용 플라스틱의<br>다양한 활용법",
+                "description" : [
+                    "IKEA는 모든 면에서 자원 순환을 실천하려고 노력하고 있습니다. 재활용 소재를 새롭게 활용할 방법을 찾고 쓰레기를 자원으로 다루면서, 보다 지속 가능한 미래를 그려나가고 있습니다. ",
+                    "특히, 세계에서 가장 많이 재활용되는 플라스틱인 PET 병을 활용하여 다양한 용도로 바꾸어 사용하고 있습니다."
+                ],
+
+                "list" : [
+                    {
+                        "link" : "https://www.ikea.com/kr/ko/p/mejls-door-mat-circle-pattern-grey-black-70392434/",
+                        "img_product" : "../img/detail/plastic/plastic-recycle-list-01.jpg",
+                        "title" : "MEJLS 메일스",
+                        "keyword" : "도어매트, 동그라미 패턴 그레이/ 블랙 40x60 cm",
+                        "price" : "3,900",
+                        "txt_pet" : "6",
+                        "description" : "MEJLS 메일스 도어 매트 1개는 PET 병 6개가 사용되었습니다. 재활용 플라스틱 소재 도어 매트로 현관의 발자국은 물론 환경에 남기는 탄소발자국도 줄여보세요."
+                    },
+                    {
+                        "link" : "https://www.ikea.com/kr/ko/p/kungsbacka-door-anthracite-00337851/",
+                        "img_product" : "../img/detail/plastic/plastic-recycle-list-02.jpg",
+                        "title" : "KUNGSBACKA 쿵스바카",
+                        "keyword" : "도어, 앤트러싸이트, 60x80 cm",
+                        "price" : "50,000",
+                        "txt_pet" : "25",
+                        "description" : "500mL PET 병 25개를 재활용하면 KUNGSBACKA 쿵스바카 주방 앞판 1개를 만들 수 있습니다. 지구의 자원을 절약하기 위해, 지속 가능한 제품을 사용해보세요."
+                    }
+                ]
+            },
+
+            "recycletotal" : {
+                "title" : "IKEA에서<br>사용하는 플라스틱",
+                "list" : [
+                    {
+                        "txt_year" : "2020",
+                        "txt_year_after" : "년까지",
+                        "img_icon" : "../img/detail/plastic/plastic-use-img-01.png",
+                        "description" : "2020년까지 매장 내 일회용 플라스틱 사용을 중단할 예정입니다."
+                    },
+                    {
+                        "txt_year" : "2030",
+                        "txt_year_after" : "년까지",
+                        "img_icon" : "../img/detail/plastic/plastic-use-img-02.png",
+                        "description" : "2030년까지 모든 플라스틱 제품을 <br>재활용 및 재생 가능한 플라스틱으로 <br>대체할 예정입니다."
+                    }
+                ]
+            }
+        }
+    },
+
+    "en" : {
+        "contents" : {
+            "kv": {
+                "title" : "Plastic"
+            },
+
+            "info0" : {
+                "type" : "default",
+                "title": "Recycling: the journey towards <br class='pc-br'>more renewable plastic",
+                "description" : [
+                    "Plastic is everywhere for many reasons. It’s a strong, durable, lightweight, and versatile – yet low cost – material. But when plastic is not disposed of responsibly, the environmental implications become concerning. ",
+                    "IKEA is committed to making a positive impact on people and the planet. Our ambition is that by 2030, all plastic used in our products will be based on renewable or recycled material. <br class='pc-br'>",
+                    "We’ve already started our journey towards this goal with a plan to replace single-use plastic in our range and by using different kinds of sustainable plastic in an increasing number of products. "
+                ],
+                "video" : [
+                    {
+                        "video_pc" : "../img/detail/plastic/plastic-pc-available-video.mp4",
+                        "video_mb": "../img/detail/plastic/plastic-m-available-video.mp4"
+                    }
+                ]
+            },
+
+            "info_year_0" : {
+                "type" : "year",
+                "txt_year" : "2020",
+                "txt_year_after" : "By",
+                "title": "Phasing out<br>single-use plastic",
+                "description" : [
+                    "As a part of our commitment to people and the planet, we have decided to phase out all single-use plastic products from the global home furnishing range. ",
+                    "Single-use plastic articles offered in our restaurants, bistros, and cafes will be replaced by more sustainable disposables."
+                ],
+
+                "video" : [
+                    {
+                        "video_pc" : "../img/sample-video2.mp4",
+                        "video_mb": "../img/sample-video2.mp4"
+                    }
+                ]
+            },
+
+            "info1" : {
+                "type" : "default",
+                "title": "A recyclable plastic <br>to feel good <br>about",
+                "description" : [
+                    "We wants to make more sustainable plastic products our customers can enjoy and love.<br class='pc-br'> Made from renewable sources like corn, sugar beet and sugar cane instead of virgin fossil based,<br class='pc-br'> PLA is an example of a plastic which makes this possible. "
+                ],
+                "video" : [
+                    {
+                        "video_pc" : "../img/detail/plastic/en_plastic-pc-like-video-01.mp4",
+                        "video_mb": "../img/detail/plastic/en_plastic-m-like-video-01.mp4"
+                    },
+                    {
+                        "video_pc" : "../img/detail/plastic/en-plastic-pc-like-video-02.mp4",
+                        "video_mb": "../img/detail/plastic/en_plastic-m-like-video-02.mp4"
+                    }
+                ]
+            },
+
+            "info2" : {
+                "type" : "default",
+                "title": "A plastic<br>that’s perfect for<br>children’s products",
+                "description" : [
+                    "PLA plastic products are both durable and safe, just like all IKEA plastic products, but PLA leaves a smaller environmental footprint. ",
+                    "PLA can be used for lots of different things, including products for children and food contact – product categories with tough safety demands. "
+                ]
+            },
+
+            "product_0" : {
+                "type" : "default",
+                "description": "",
+                "list" : [
+                    {
+                        "link" : "https://www.ikea.com/kr/en/p/heroisk-bowl-green-yellow-20414141/",
+                        "img" : "../img/detail/plastic/plastic-safe-list-01.jpg",
+                        "title" : "HEROISK",
+                        "keyword" : "Bowl, green/yellow, 14 cm",
+                        "price" : "5,900",
+                        "number" : "/ 2 pieces",
+                        "description" : "HEROISK is a tableware series made of renewable PLA plastic by using a more sustainable option like corn than sources like fossil oil. "
+                    },
+                    {
+                        "link" : "https://www.ikea.com/kr/en/p/talrika-mug-light-red-30421117/",
+                        "img" : "../img/detail/plastic/plastic-safe-list-02.jpg",
+                        "title" : "TALRIKA",
+                        "keyword" : "Mug, light red, 25 cl",
+                        "price" : "9,900",
+                        "number" : "/ 4 pieces",
+                        "description" : "TALRIKA is IKEA’s first product made of the 100% renewable PLA plastic that uses corn as its main source. It is microwave- and dishwasher-safe and recyclable. "
+                    },
+                    {
+                        "link" : "https://www.ikea.com/kr/en/p/istad-resealable-bag-red-90339285/",
+                        "img" : "../img/detail/plastic/plastic-safe-list-03.jpg",
+                        "title" : "ISTAD",
+                        "keyword" : "Resealable bag, red",
+                        "price" : "2,900",
+                        "number" : "/ 60 pieces",
+                        "description" : "ISTAD bags are made of recyclable materials that come from sugarcanes. Its durability and reusability help reduce plastic waste. "
+                    }
+                ]
+            },
+
+            "reply" : {
+                "title" : "“Plastic is a durable, good value material that can be used in many different applications.<br><br>We need to make sure the plastic we use comes from either renewable or recycled sources”",
+                "description" : "Alexander Grouleff , IKEA of Sweden<br>Project Leader Recycled<br>and Renewable Plastic Products",
+                "material" : {
+                    "description" : "PLA (polylactic acid) plastic <br>IKEA uses is made from renewable sources like corn, sugar beet and sugar cane "
+                }
+            },
+
+            "recycle" : {
+                "title" : "Various ways recycled <br>plastic can be used",
+                "description" : [
+                    "IKEA wants to become circular in all aspects. Finding new ways to work with recycled materials is key, and using waste as a resource takes us one step closer to a more sustainable future. ",
+                    "Particularly, IKEA uses PET, the most recycled plastic in the world, to add products for many different purposes. "
+                ],
+
+                "list" : [
+                    {
+                        "link" : "https://www.ikea.com/kr/ko/p/mejls-door-mat-circle-pattern-grey-black-70392434/",
+                        "img_product" : "../img/detail/plastic/plastic-recycle-list-01.jpg",
+                        "title" : "MEJLS",
+                        "keyword" : "Door mat, circle pattern, grey/black, 40x60 cm",
+                        "price" : "3,900",
+                        "txt_pet" : "6",
+                        "description" : "To make MAJLS doormat, We use polyester from about 6 PET bottles. Using waste as a resource reduces footsteps on the entrance as well as carbon footsteps in the environment. "
+                    },
+                    {
+                        "link" : "https://www.ikea.com/kr/ko/p/kungsbacka-door-anthracite-00337851/",
+                        "img_product" : "../img/detail/plastic/plastic-recycle-list-02.jpg",
+                        "title" : "KUNGSBACKA",
+                        "keyword" : "Door, anthracite, 60x80 cm",
+                        "price" : "50,000",
+                        "txt_pet" : "25",
+                        "description" : "KUNGSBACKA is a modern kitchen door made from about 25 recycled PET bottles. This reduces waste and gives the plastic a new use. "
+                    }
+                ]
+            },
+
+            "recycletotal" : {
+                "title" : "Plastic <br>IKEA uses",
+                "list" : [
+                    {
+                        "txt_year" : "2020",
+                        "txt_year_after" : "By",
+                        "img_icon" : "../img/detail/plastic/plastic-use-img-01.png",
+                        "description" : "IKEA is going to stop using single-use plastic articles in our stores by 2020."
+                    },
+                    {
+                        "txt_year" : "2030",
+                        "txt_year_after" : "By",
+                        "img_icon" : "../img/detail/plastic/plastic-use-img-02.png",
+                        "description" : "IKEA is going to replace all single-use plastic articles with recyclable and renewable ones by 2030."
+                    }
+                ]
+            }
+        }
+    }
+}

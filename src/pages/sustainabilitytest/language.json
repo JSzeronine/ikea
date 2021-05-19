@@ -1,0 +1,768 @@
+{
+    "ko" : {
+        "contents" : {
+            "kv" : {
+                "title": "2020 지구특공대 판독기",
+                "title_img": [
+                    {
+                        "img_pc": "../img/sustainabilitytest/pc-keyvisual-title.png",
+                        "img_mb": "../img/sustainabilitytest/m-keyvisual-title.png"
+                    }
+                ],
+                "title_sub": "나는 빌런일까? 히어로일까?",
+                "text" : "지구가… 지금 위험합니다.<br>지구를 살릴 수 있는 마지막 세대인 당신.<br>당신의 일상 속에서 습관적으로 하는 행동에 답이 숨어있습니다.<br>지금 바로 측정해보세요.",
+                "button": [
+                    {
+                        "img": "../img/sustainabilitytest/img-btn-start.jpg",
+                        "text": "판독시작"
+                    }
+                ]
+            },
+
+            "question_1": {
+                "question": "아침에 일어나니<br>목이 마른 당신, 주로 어떻게<br>갈증을 해결하나요?",
+                "answer": [
+                    {
+                        "text": "미리 사둔 생수를 마신다",
+                        "score": 0
+                    },
+                    {
+                        "text": "정수기에서 물을 받아 마신다",
+                        "score": 3
+                    },
+                    {
+                        "text": "끓여 둔 보리차를 마신다",
+                        "score": 6
+                    },
+                    {
+                        "text": "침을 삼킨다",
+                        "score": 5
+                    }
+                ]
+            },
+
+            "question_2": {
+                "question": "슬슬 배가 고파집니다.<br>당신이 좋아하는 아침식사는<br>어떤 건가요?",
+                "answer": [
+                    {
+                        "text": "토마토와 계란 등 간편식",
+                        "score": 6
+                    },
+                    {
+                        "text": "아보카도 샐러드",
+                        "score": 1
+                    },
+                    {
+                        "text": "배달한 샌드위치",
+                        "score": 2
+                    },
+                    {
+                        "text": "밀키트로 만든 한정식",
+                        "score": 3
+                    }
+                ]
+            },
+
+            "question_3": {
+                "question": "식사 후 커피가 당깁니다.<br>집에서는 평상시 어떤 커피를<br>주로 드시나요?",
+                "answer": [
+                    {
+                        "text": "간편한 스틱 커피",
+                        "score": 0
+                    },
+                    {
+                        "text": "광목 필터로 내린 드립커피",
+                        "score": 7
+                    },
+                    {
+                        "text": "머신으로 내린 캡슐커피",
+                        "score": 2
+                    },
+                    {
+                        "text": "배달앱으로 주문한 커피",
+                        "score": 0
+                    }
+                ]
+            },
+
+            "question_4": {
+                "question": "양치를 할 차례입니다.<br>당신이 애용하는 칫솔은<br>무엇인가요?",
+                "answer": [
+                    {
+                        "text": "대나무 칫솔",
+                        "score": 6
+                    },
+                    {
+                        "text": "전동 칫솔",
+                        "score": 3
+                    },
+                    {
+                        "text": "플라스틱 칫솔",
+                        "score": 0
+                    },
+                    {
+                        "text": "가글액",
+                        "score": 1
+                    }
+                ]
+            },
+
+            "question_5": {
+                "question": "머리를 감으려는 당신,<br>평상시 어떤 샴푸를<br>쓰고 있나요?",
+                "answer": [
+                    {
+                        "text": "천연 과일 비누",
+                        "score": 3
+                    },
+                    {
+                        "text": "일반 샴푸",
+                        "score": 0
+                    },
+                    {
+                        "text": "샴푸 바",
+                        "score": 3
+                    },
+                    {
+                        "text": "하루 정도는 안 감는다",
+                        "score": 6
+                    }
+                ]
+            },
+
+            "question_6": {
+                "question": "걸어서 20분 거리의<br>친구 집들이를 갈 계획입니다.<br>어떻게 이동하실 건가요?",
+                "answer": [
+                    {
+                        "text": "도보",
+                        "score": 6
+                    },
+                    {
+                        "text": "전동 킥보드",
+                        "score": 3
+                    },
+                    {
+                        "text": "자동차",
+                        "score": 0
+                    },
+                    {
+                        "text": "대중교통 (택시, 지하철, 버스)",
+                        "score": 1
+                    }
+                ]
+            },
+
+            "question_7": {
+                "question": "공중 화장실에 잠시 들러<br>손을 씻었습니다. 평상시 당신이<br>손을 말리는 방법은?",
+                "answer": [
+                    {
+                        "text": "페이퍼타월로 닦는다",
+                        "score": 0
+                    },
+                    {
+                        "text": "건조기에 말린다",
+                        "score": 3
+                    },
+                    {
+                        "text": "손수건으로 닦는다",
+                        "score": 4
+                    },
+                    {
+                        "text": "자연 건조 시킨다",
+                        "score": 6
+                    }
+                ]
+            },
+
+            "question_8": {
+                "question": "다음 중 집들이 선물로<br>당신이 고른 것은<br>무엇인가요?",
+                "answer": [
+                    {
+                        "text": "세제",
+                        "score": 0
+                    },
+                    {
+                        "text": "휴지",
+                        "score": 0
+                    },
+                    {
+                        "text": "공기정화식물",
+                        "score": 7
+                    },
+                    {
+                        "text": "향초",
+                        "score": 1
+                    }
+                ]
+            },
+
+            "question_9": {
+                "question": "계산대 직원이<br>\"영수증 드릴까요?\"라고<br>물었을 때, 당신의 대처는?",
+                "answer": [
+                    {
+                        "text": "버려주세요",
+                        "score": 1
+                    },
+                    {
+                        "text": "네, 주세요",
+                        "score": 1
+                    },
+                    {
+                        "text": "모바일 영수증으로 볼게요",
+                        "score": 7
+                    },
+                    {
+                        "text": "안 주셔도 돼요",
+                        "score": 6
+                    }
+                ]
+            },
+
+            "question_10": {
+                "question": "집들이 음식이 많이 남았네요.<br>보통 당신은<br>어떻게 하시나요?",
+                "answer": [
+                    {
+                        "text": "음식물 쓰레기로 버린다",
+                        "score": 0
+                    },
+                    {
+                        "text": "마저 먹는다",
+                        "score": 6
+                    },
+                    {
+                        "text": "랩으로 싸둔다",
+                        "score": 2
+                    },
+                    {
+                        "text": "밀폐용기에 넣는다",
+                        "score": 4
+                    }
+                ]
+            },
+
+            "question_11": {
+                "question": "집에 들어오니<br>방바닥에 머리카락이 많아요.<br>당신이 청소하는 방법은?",
+                "answer": [
+                    {
+                        "text": "테이프크리너 (돌돌이)",
+                        "score": 1
+                    },
+                    {
+                        "text": "물티슈",
+                        "score": 1
+                    },
+                    {
+                        "text": "청소기",
+                        "score": 3
+                    },
+                    {
+                        "text": "빗자루",
+                        "score": 6
+                    }
+                ]
+            },
+
+            "question_12": {
+                "question": "분리수거를 하러 나왔습니다.<br>다음 중 유리함에 버릴 수 있는<br>제품은 무엇일까요?",
+                "answer": [
+                    {
+                        "text": "깨진 유리",
+                        "score": 1
+                    },
+                    {
+                        "text": "과일잼 병",
+                        "score": 1
+                    },
+                    {
+                        "text": "전구",
+                        "score": 6
+                    },
+                    {
+                        "text": "거울",
+                        "score": 1
+                    }
+                ]
+            },
+
+            "question_13": {
+                "question": "기름기가 많은<br>설거지를 해야 합니다.<br>당신이 주로 쓰는 방법은?",
+                "answer": [
+                    {
+                        "text": "세제로 깨끗이 설거지를 한다",
+                        "score": 0
+                    },
+                    {
+                        "text": "뜨거운 물로 기름기를 제거한다",
+                        "score": 2
+                    },
+                    {
+                        "text": "키친타월로 닦고 설거지를 한다",
+                        "score": 3
+                    },
+                    {
+                        "text": "베이킹소다로 닦는다",
+                        "score": 7
+                    }
+                ]
+            },
+
+            "question_14": {
+                "question": "설거지를 하다가<br>이가 나간 컵을 발견했습니다.",
+                "answer": [
+                    {
+                        "text": "그냥 쓴다",
+                        "score": 2
+                    },
+                    {
+                        "text": "그냥 버린다",
+                        "score": 1
+                    },
+                    {
+                        "text": "연필꽂이로 쓴다",
+                        "score": 6
+                    },
+                    {
+                        "text": "화분으로 쓴다",
+                        "score": 5
+                    }
+                ]
+            },
+
+            "question_15": {
+                "question": "음식물 쓰레기를<br>버리고 올 생각입니다.<br>다음 중 음식물 쓰레기에<br>해당되는 것은 무엇인가요?",
+                "answer": [
+                    {
+                        "text": "복숭아 씨앗",
+                        "score": 1
+                    },
+                    {
+                        "text": "새우 껍질",
+                        "score": 1
+                    },
+                    {
+                        "text": "수박 껍질",
+                        "score": 6
+                    },
+                    {
+                        "text": "파 뿌리",
+                        "score": 2
+                    }
+                ]
+            },
+
+            "question_16": {
+                "question": "잘 시간이네요.<br>집이 조금 춥지 않나요?",
+                "answer": [
+                    {
+                        "text": "보일러를 켠다",
+                        "score": 1
+                    },
+                    {
+                        "text": "거위털 이불을 꺼낸다",
+                        "score": 2
+                    },
+                    {
+                        "text": "벌집 구조의 블라인드를 친다",
+                        "score": 6
+                    },
+                    {
+                        "text": "전기장판을 꺼낸다",
+                        "score": 1
+                    }
+                ]
+            },
+
+            "button": {
+                "btn_next": "다음",
+                "btn_complete": "완료"
+            },
+            "load": "분석 중..",
+            "percent": "측정 완료"
+        }
+    },
+
+
+
+
+
+
+    "en" : {
+        "contents" : {
+            "kv" : {
+                "title": "Sustainability Test",
+                "title_img": [
+                    {
+                        "img_pc": "../img/sustainabilitytest/en-pc-keyvisual-title.png",
+                        "img_mb": "../img/sustainabilitytest/en-m-keyvisual-title.png"
+                    }
+                ],
+                "title_sub": "Are You a Superhero or a Villain?",
+                "text" : "Do you want to discover your special powers?<br> The answer lies in your daily habits. <br>Find out now if you have the special power <br>to heal or destroy the planet.",
+                "button": [
+                    {
+                        "img": "../img/sustainabilitytest/en-img-btn-start.jpg",
+                        "text": "START"
+                    }
+                ]
+            },
+
+            "question_1": {
+                "question": "You feel thirsty after <br>waking up in the morning.<br>What would you to do?",
+                "answer": [
+                    {
+                        "text": "Drink water from plastic bottle you bought before",
+                        "score": 0
+                    },
+                    {
+                        "text": "Drink water from water purifier",
+                        "score": 3
+                    },
+                    {
+                        "text": "Drink the barley tea you’d boiled the night before",
+                        "score": 6
+                    },
+                    {
+                        "text": "Drink nothing and just bare it",
+                        "score": 5
+                    }
+                ]
+            },
+
+            "question_2": {
+                "question": "You’re getting hungry. <br>What’s your favorite <br>breakfast?",
+                "answer": [
+                    {
+                        "text": "Make it simple. Tomatoes and eggs!",
+                        "score": 6
+                    },
+                    {
+                        "text": "An avocado salad",
+                        "score": 1
+                    },
+                    {
+                        "text": "Sandwich delivered from deli",
+                        "score": 2
+                    },
+                    {
+                        "text": "Delivered home meal replacement kit",
+                        "score": 3
+                    }
+                ]
+            },
+
+            "question_3": {
+                "question": "You want to finish off your <br class='pc-only'>breakfast with a cup of coffee. <br>What kind of coffee would you <br>have at home?",
+                "answer": [
+                    {
+                        "text": "Instant coffee",
+                        "score": 0
+                    },
+                    {
+                        "text": "Coffee brewed with a cloth filter",
+                        "score": 7
+                    },
+                    {
+                        "text": "Coffee from a capsule machine",
+                        "score": 2
+                    },
+                    {
+                        "text": "Coffee delivered from cafe",
+                        "score": 0
+                    }
+                ]
+            },
+
+            "question_4": {
+                "question": "It’s time to brush your teeth. <br>What does your toothbrush <br>look like?",
+                "answer": [
+                    {
+                        "text": "An organic bamboo toothbrush",
+                        "score": 6
+                    },
+                    {
+                        "text": "An electric toothbrush",
+                        "score": 3
+                    },
+                    {
+                        "text": "A plain plastic toothbrush",
+                        "score": 0
+                    },
+                    {
+                        "text": "Mouthwash",
+                        "score": 1
+                    }
+                ]
+            },
+
+            "question_5": {
+                "question": "You’re about to wash <br>your hair. What type of <br>shampoo do you use?",
+                "answer": [
+                    {
+                        "text": "Natural fruit soap",
+                        "score": 3
+                    },
+                    {
+                        "text": "Regular shampoo",
+                        "score": 0
+                    },
+                    {
+                        "text": "A shampoo bar",
+                        "score": 3
+                    },
+                    {
+                        "text": "Skip for a day",
+                        "score": 6
+                    }
+                ]
+            },
+
+            "question_6": {
+                "question": "You’re going to your <br class='pc-br'>friend’s housewarming party <br class='pc-br'>20 minutes walk from your house. <br class='pc-br'>How would you get there?",
+                "answer": [
+                    {
+                        "text": "Walk with strong legs",
+                        "score": 6
+                    },
+                    {
+                        "text": "An electric scooter",
+                        "score": 3
+                    },
+                    {
+                        "text": "Drive your own car",
+                        "score": 0
+                    },
+                    {
+                        "text": "Public transportation (subway, bus, taxi)",
+                        "score": 1
+                    }
+                ]
+            },
+
+            "question_7": {
+                "question": "You just washed your hands <br>in a public bathroom. How <br class='pc-br'>would you dry your hands?",
+                "answer": [
+                    {
+                        "text": "Use paper towels",
+                        "score": 0
+                    },
+                    {
+                        "text": "Use a hand dryer",
+                        "score": 3
+                    },
+                    {
+                        "text": "Wipe them off with my handkerchief",
+                        "score": 4
+                    },
+                    {
+                        "text": "Let them air dry",
+                        "score": 6
+                    }
+                ]
+            },
+
+            "question_8": {
+                "question": "What would you give <br>your friend for the <br>housewarming party?",
+                "answer": [
+                    {
+                        "text": "Laundry detergent",
+                        "score": 0
+                    },
+                    {
+                        "text": "Toilet paper",
+                        "score": 0
+                    },
+                    {
+                        "text": "An air purifying plant",
+                        "score": 7
+                    },
+                    {
+                        "text": "Scented candle",
+                        "score": 1
+                    }
+                ]
+            },
+
+            "question_9": {
+                "question": "What do you say when <br>the cashier asks, <br>“Do you want the receipt?” ",
+                "answer": [
+                    {
+                        "text": "“You can throw it away.”",
+                        "score": 1
+                    },
+                    {
+                        "text": "“Yes, please.”",
+                        "score": 1
+                    },
+                    {
+                        "text": "“No worries, I got my mobile receipt.”",
+                        "score": 7
+                    },
+                    {
+                        "text": "“No thanks.”",
+                        "score": 6
+                    }
+                ]
+            },
+
+            "question_10": {
+                "question": "Too much leftovers from your <br class='pc-br'>friend’s housewarming party. <br>What would you do with them?",
+                "answer": [
+                    {
+                        "text": "Throw the left-over food as garbage",
+                        "score": 0
+                    },
+                    {
+                        "text": "Finish them off",
+                        "score": 6
+                    },
+                    {
+                        "text": "Keep them sustained in a wrap",
+                        "score": 2
+                    },
+                    {
+                        "text": "Place them in an air tight container",
+                        "score": 4
+                    }
+                ]
+            },
+
+            "question_11": {
+                "question": "You got home and realized <br>that the floor dirty. <br>How would you clean it?",
+                "answer": [
+                    {
+                        "text": "Tape cleaner",
+                        "score": 1
+                    },
+                    {
+                        "text": "Water moisturized tissue",
+                        "score": 1
+                    },
+                    {
+                        "text": "A vacuum cleaner",
+                        "score": 3
+                    },
+                    {
+                        "text": "A broom",
+                        "score": 6
+                    }
+                ]
+            },
+
+            "question_12": {
+                "question": "Which one of the following <br>could go in a recycling bin <br>for glass?",
+                "answer": [
+                    {
+                        "text": "Shattered glass",
+                        "score": 1
+                    },
+                    {
+                        "text": "Fruit jam jar",
+                        "score": 1
+                    },
+                    {
+                        "text": "Lightbulb",
+                        "score": 6
+                    },
+                    {
+                        "text": "Mirror",
+                        "score": 1
+                    }
+                ]
+            },
+
+            "question_13": {
+                "question": "How do you clean <br>greasy dishes?",
+                "answer": [
+                    {
+                        "text": "Use dish soap",
+                        "score": 0
+                    },
+                    {
+                        "text": "Rinse off all the oil with hot water",
+                        "score": 2
+                    },
+                    {
+                        "text": "Wipe off with kitchen towel first before washing them",
+                        "score": 3
+                    },
+                    {
+                        "text": "Use baking soda",
+                        "score": 7
+                    }
+                ]
+            },
+
+            "question_14": {
+                "question": "Oh, no! Your favorite <br>coffee mug is chipped! <br>What would you do with it?",
+                "answer": [
+                    {
+                        "text": "Use as is",
+                        "score": 2
+                    },
+                    {
+                        "text": "Throw it away",
+                        "score": 1
+                    },
+                    {
+                        "text": "Use as a pencil holder",
+                        "score": 6
+                    },
+                    {
+                        "text": "Use as a flower pot.",
+                        "score": 5
+                    }
+                ]
+            },
+
+            "question_15": {
+                "question": "You’re throwing away <br>food waste. Which of the <br class='pc-br'>following should go in it?",
+                "answer": [
+                    {
+                        "text": "A peach seed",
+                        "score": 1
+                    },
+                    {
+                        "text": "Shrimp shells",
+                        "score": 1
+                    },
+                    {
+                        "text": "Watermelon rind",
+                        "score": 6
+                    },
+                    {
+                        "text": "Green onion roots",
+                        "score": 2
+                    }
+                ]
+            },
+
+            "question_16": {
+                "question": "It’s time for bed now, <br>but your bedroom <br>feels a bit chilly.",
+                "answer": [
+                    {
+                        "text": "Turn on the heating",
+                        "score": 1
+                    },
+                    {
+                        "text": "Take out the goose feather filled cozy blanket",
+                        "score": 2
+                    },
+                    {
+                        "text": "Pull down the bee hive structure like blind ",
+                        "score": 6
+                    },
+                    {
+                        "text": "Take out the electric heating pad",
+                        "score": 1
+                    }
+                ]
+            },
+
+            "button": {
+                "btn_next": "NEXT",
+                "btn_complete": "COMPLETED"
+            },
+            "load": "Results for “Are You a <br>Superhero or a Villain?”",
+            "percent": "Completed"
+        }
+    }
+}

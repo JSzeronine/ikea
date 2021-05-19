@@ -1,0 +1,191 @@
+
+
+{
+    "ko" : {
+        "contents" : {
+            "name": "result-level-5",
+            "visual": [
+                {
+                    "img_pc": "../img/sustainabilitytest/pc-result5-keyvisual-bg.png",
+                    "img_mb": "../img/sustainabilitytest/m-result5-keyvisual-bg.jpg"
+                }
+            ],
+
+            "summary": {
+                "type_desc": "지구를 파괴하는 빌런",
+                "type_title": "무자비한 미니멀리스트",
+                "type_ref": "* 지구특공대 최고 레벨은 Level 8 입니다.",
+                "level": [
+                    {
+                        "level_img": "../img/sustainabilitytest/img-level-type5.png",
+                        "alt": "지구특공대 level 5"
+                    }
+                ],
+                "title": "빌런 중에선 그나마 순한 맛인 당신.",
+                "text": [
+                    "당신은 미니멀리즘을 잘못 배워(?) 뭐든 손에 잡히면 버리려 드는 습성이 있습니다. ",
+                    "이삿날도 아닌데 100L 종량제 봉투를 쓰시는군요? 얼핏 자원 절약으로 착각할 수 있지만 명백히 자원 낭비입니다. 당신과 같은 빌런의 수가 많아지면 지구가 쓰레기별이 될 수 있습니다. "
+                ]
+            },
+
+            "detail": [
+                {
+                    "title": "빌런이 된 계기",
+                    "text": "쉽게 영향받는 스타일. 미니멀리즘 책을 읽고 깊이 감명받음"
+                },
+                {
+                    "title": "자주 하는 말",
+                    "text": "\"응, 버려도 돼. 나 미니멀리스트잖아.\""
+                },
+                {
+                    "title": "빌런 탈출을 위한 일상 속 작은 노력",
+                    "text": "취미를 중고거래로 바꾸기. 버릴 때는 분리수거 철두철미한 갓 선비 되기"
+                }
+            ],
+
+            "product": {
+                "title": "지구 특공대가 되기 위한 특수 무기",
+                "product_name": "HÅLLBAR 홀바르",
+                "product_name_sub": "통+뚜껑, 라이트그레이, 10 l",
+                "product_price": [
+                    {
+                        "symbol": "￦",
+                        "num": "7,900"
+                    }
+                ],
+                "product_desc": "폐기물이 새로운 자원이 될 수 있는 방법! HÅLLBAR 홀바르 분리수거함은 다양한 사이즈로 서로 다른 소재를 간편하게 분류하는 데 도움을 줍니다. 폐기물에 새 생명을 부여하는 첫걸음이죠!",
+                "product_link": [
+                    {
+                        "url": "https://www.ikea.com/kr/ko/p/-80417523/",
+                        "title": "자세히 보기"
+                    }
+                ]
+            },
+
+            "buttons": [
+                {
+                    "btn_restart": "다시하기",
+                    "btn_share": "결과 공유하기"
+                }
+            ],
+
+            "banner": {
+                "title": "지구를 아끼기 위한<br>더 많은 이야기 보러가기",
+                "url": "https://sustainability.ikea.kr/"
+            },
+
+            "modal": {
+                "title": "결과를 공유해보세요.",
+                "list" : [
+                    "페이스북",
+                    "트위터",
+                    "카카오톡",
+                    "네이버블로그",
+                    "카카오스토리",
+                    "URL 복사"
+                ],
+                "btn_close": "닫기",
+                "msg": [
+                    {
+                        "copy_success": "URL 복사가 완료 되었습니다.",
+                        "copy_fail": "URL 복사에 실패했습니다. 다시 시도하세요."
+                    }
+                ]
+            }
+        }
+    },
+
+
+
+
+
+    "en" : {
+        "contents" : {
+            "name": "result-level-5",
+            "visual": [
+                {
+                    "img_pc": "../img/sustainabilitytest/en-pc-result5-keyvisual-bg.png",
+                    "img_mb": "../img/sustainabilitytest/en-m-result5-keyvisual-bg.jpg"
+                }
+            ],
+
+            "summary": {
+                "type_desc": "You are a Villain.",
+                "type_title": "Ruthless Minimalist",
+                "type_ref": "* Earth special forces’ highest level is Level 8.",
+                "level": [
+                    {
+                        "level_img": "../img/sustainabilitytest/en-img-level-type5.png",
+                        "alt": "Planetary Special Forces LEVEL 5"
+                    }
+                ],
+                "title": "You are one of the nicer villains.",
+                "text": [
+                    "But you want to throw away almost everything in your possession and claim yourself as minimalism. ",
+                    "Wait, do you really need that huge plastic bag to take out the trash today? You may think you’re saving resources, but you’re actually wasting them. If villains like you increase in numbers, it’s only a matter of time before the earth turns into a wasteland. "
+                ]
+            },
+
+            "detail": [
+                {
+                    "title": "What Turned You into a Villain",
+                    "text": "Being easily impressionable, you were deeply impressed by a book on minimalism."
+                },
+                {
+                    "title": "One Small Step You Can Take to Become a Superhero",
+                    "text": "Start to sell unwanted stuff online. When throwing away stuff, follow the recycling rules."
+                }
+            ],
+
+            "product": {
+                "title": "The Weapon of Your Choice in the Planetary Special Forces",
+                "product_name": "HÅLLBAR",
+                "product_name_sub": "Bin with lid, light grey10 l",
+                "product_price": [
+                    {
+                        "symbol": "￦",
+                        "num": "7,900"
+                    }
+                ],
+                "product_desc": "Helps you sort different materials into different bins at home – a simple action and the first step towards giving waste a new life.",
+                "product_link": [
+                    {
+                        "url": "https://www.ikea.com/kr/en/p/-80417523/",
+                        "title": "View more"
+                    }
+                ]
+            },
+
+            "buttons": [
+                {
+                    "btn_restart": "Retry",
+                    "btn_share": "Share"
+                }
+            ],
+
+            "banner": {
+                "title": "View more people + planet story",
+                "url": "https://sustainability.ikea.kr/"
+            },
+
+            "modal": {
+                "title": "Share your results.",
+                "list" : [
+                    "Facebook",
+                    "Twitter",
+                    "KaKao Talk",
+                    "Naver Blog",
+                    "KaKao Story",
+                    "URL Copy"
+                ],
+                "btn_close": "Close",
+                "msg": [
+                    {
+                        "copy_success": "URL copying is complete.",
+                        "copy_fail": "URL copying failed. Please try again."
+                    }
+                ]
+            }
+        }
+    }
+}

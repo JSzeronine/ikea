@@ -1,0 +1,191 @@
+
+
+{
+    "ko" : {
+        "contents" : {
+            "name": "result-level-4",
+            "visual": [
+                {
+                    "img_pc": "../img/sustainabilitytest/pc-result4-keyvisual-bg.png",
+                    "img_mb": "../img/sustainabilitytest/m-result4-keyvisual-bg.jpg"
+                }
+            ],
+
+            "summary": {
+                "type_desc": "지구를 파괴하는 빌런",
+                "type_title": "완 to the 벽 인간 세척기",
+                "type_ref": "* 지구특공대 최고 레벨은 Level 8 입니다.",
+                "level": [
+                    {
+                        "level_img": "../img/sustainabilitytest/img-level-type4.png",
+                        "alt": "지구특공대 level 4"
+                    }
+                ],
+                "title": "천연기념물 천적인 당신.",
+                "text": [
+                    "'설설익선'이라 여기는 당신은 설거지는 오래 할수록 좋다 믿는 깔끔보입니다. ",
+                    "주방 청소, 욕실 청소에 있어서도 마찬가지! 하지만 당신의 집을 빛나게 만들어준 세제들이 청정 1급수에서만 사는 도롱뇽을 사라지게 하고 있다는 사실, 알고 계시나요? 세제를 짤 때마다 우파루파의 무해하고 귀여운 얼굴을 떠올려보세요. 한 번의 실천이 우파루파 가족을 살립니다. "
+                ]
+            },
+
+            "detail": [
+                {
+                    "title": "빌런이 된 계기",
+                    "text": "식당에서 고춧가루 눌러붙은 숟가락을 사용한 이후로 남의 설거지를 못 믿게 됨"
+                },
+                {
+                    "title": "자주 하는 말",
+                    "text": "\"세제를 많이 써서 설거지를 하면 기분이 조크든요\""
+                },
+                {
+                    "title": "빌런 탈출을 위한 일상 속 작은 노력",
+                    "text": "쌀뜨물과 같은 대체 세제 사용하기"
+                }
+            ],
+
+            "product": {
+                "title": "지구 특공대가 되기 위한 특수 무기",
+                "product_name": "TÅRTSMET 토르트스메트",
+                "product_name_sub": "설거지솔+디스펜서, 그린",
+                "product_price": [
+                    {
+                        "symbol": "￦",
+                        "num": "1,900"
+                    }
+                ],
+                "product_desc": "세제를 적당히 사용하는 똑똑한 방법! 브러시의 상단을 살짝 눌러주면 주방용 세제가 일정량으로 분사되어 세제 낭비를 줄일 수 있어요!",
+                "product_link": [
+                    {
+                        "url": "https://www.ikea.com/kr/ko/p/-50334044/",
+                        "title": "자세히 보기"
+                    }
+                ]
+            },
+
+            "buttons": [
+                {
+                    "btn_restart": "다시하기",
+                    "btn_share": "결과 공유하기"
+                }
+            ],
+
+            "banner": {
+                "title": "지구를 아끼기 위한<br>더 많은 이야기 보러가기",
+                "url": "https://sustainability.ikea.kr/"
+            },
+
+            "modal": {
+                "title": "결과를 공유해보세요.",
+                "list" : [
+                    "페이스북",
+                    "트위터",
+                    "카카오톡",
+                    "네이버블로그",
+                    "카카오스토리",
+                    "URL 복사"
+                ],
+                "btn_close": "닫기",
+                "msg": [
+                    {
+                        "copy_success": "URL 복사가 완료 되었습니다.",
+                        "copy_fail": "URL 복사에 실패했습니다. 다시 시도하세요."
+                    }
+                ]
+            }
+        }
+    },
+
+
+
+
+
+    "en" : {
+        "contents" : {
+            "name": "result-level-4",
+            "visual": [
+                {
+                    "img_pc": "../img/sustainabilitytest/en-pc-result4-keyvisual-bg.png",
+                    "img_mb": "../img/sustainabilitytest/en-m-result4-keyvisual-bg.jpg"
+                }
+            ],
+
+            "summary": {
+                "type_desc": "You are a Villain.",
+                "type_title": "Obsessive Compulsive Cleaner",
+                "type_ref": "* Earth special forces’ highest level is Level 8.",
+                "level": [
+                    {
+                        "level_img": "../img/sustainabilitytest/en-img-level-type4.png",
+                        "alt": "Planetary Special Forces LEVEL 4"
+                    }
+                ],
+                "title": "You’re a neat freak who believes that taking as long as you can to do the dishes is the best thing. ",
+                "text": [
+                    "But did you know that the cleaning products you use to keep your home spotless are killing the adorable freshwater turtles? ",
+                    "Remind yourself of those cute baby turtles when you use a huge amount of dish soap to clean a single plate. Remember that your one small action can save a family of the cutest tiny turtles. "
+                ]
+            },
+
+            "detail": [
+                {
+                    "title": "What Turned You into a Villain",
+                    "text": "You developed a fear of dirty dishes after using a spoon with a red pepper flake on it."
+                },
+                {
+                    "title": "A Small Step You Can Take to Become a Superhero",
+                    "text": "Try using baking soda and vinegar to clean the dishes."
+                }
+            ],
+
+            "product": {
+                "title": "The Weapon of Your Choice in the Planetary Special Forces",
+                "product_name": "TÅRTSMET",
+                "product_name_sub": "Dish-washing brush with dispenser, green",
+                "product_price": [
+                    {
+                        "symbol": "￦",
+                        "num": "1,900"
+                    }
+                ],
+                "product_desc": "A smart way to use detergent properly! Just press the top of the brush lightly to spray a certain amount of dish detergent, reducing wasted detergent!",
+                "product_link": [
+                    {
+                        "url": "https://www.ikea.com/kr/en/p/-50334044/",
+                        "title": "View more"
+                    }
+                ]
+            },
+
+            "buttons": [
+                {
+                    "btn_restart": "Retry",
+                    "btn_share": "Share"
+                }
+            ],
+
+            "banner": {
+                "title": "View more people + planet story",
+                "url": "https://sustainability.ikea.kr/"
+            },
+
+            "modal": {
+                "title": "Share your results.",
+                "list" : [
+                    "Facebook",
+                    "Twitter",
+                    "KaKao Talk",
+                    "Naver Blog",
+                    "KaKao Story",
+                    "URL Copy"
+                ],
+                "btn_close": "Close",
+                "msg": [
+                    {
+                        "copy_success": "URL copying is complete.",
+                        "copy_fail": "URL copying failed. Please try again."
+                    }
+                ]
+            }
+        }
+    }
+}

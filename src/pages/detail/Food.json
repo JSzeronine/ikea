@@ -1,0 +1,383 @@
+{
+    "ko" : {
+        "contents" : {
+            "kv": {
+                "title" : "IKEA<br>Food"
+            },
+
+            "info0" : {
+                "type" : "default",
+                "title": "신뢰할 수 있는<br>맛있는 음식",
+                "description" : [
+                    "IKEA는 지속 가능하면서도 맛있고 균형 잡힌 영양의 식품을 낮은 가격에 제공하고자 합니다. ",
+                    "그래서 엄격한 환경 기준을 통과하고 사회적 책임을 다하는 엄선된 재료만을 사용하고 있습니다. ",
+                    "IKEA 레스토랑과 IKEA 비스트로, IKEA스웨덴 푸드 마켓에서는 환경 기준을 충족하고 사회적 책임을 다하는 식품만을 판매하고 있어요. 식품은 우리뿐 아니라 지구에도 좋은 것이어야 합니다. "
+                ]
+            },
+
+            "info_green_0" : {
+                "type" : "green",
+                "title": "채소로 만든<br>맛있는 베지볼을 즐겨요",
+                "description" : [
+                    "“고기로 만든 미트볼에서 고기를 빼자!” 이 생각에서 탄생한 것이 베지볼입니다. 채소를 큼직하게 썰어 넣어서 베지볼 이란 걸 한 눈에 알 수 있습니다. ",
+                    "다양한 채소의 색으로 아름다운 베지볼은 채식주의자들까지도 마음 놓고 먹을 수 있도록 유제품을 전혀 사용하지 않았습니다. "
+                ],
+                "percent" : {
+                    "value" : 100,
+                    "txt_description" : "채소",
+                    "txt_bottom_description" : ""
+                }
+            },
+
+            "info1" : {
+                "type" : "default",
+                "title": "기후 변화에<br>대처하는 식품",
+                "description" : [
+                    "육류 제품은 기후 변화에 영향을 주는 요소인데 이를 해결하는 한 방법이 음식을 바꾸는 것입니다. ",
+                    "탄소 발자국 수치를 보면, 클래식 미트볼에 비해 베지볼은 30배나 더 적게 나와서 기후에 좋은 제품이에요. 베지볼은 지방과 열량도 더 낮아 꼭 채식주의자가 아니어도 좋아할 음식입니다. "
+                ]
+            },
+
+            "info2" : {
+                "type" : "default",
+                "title": "베지볼로 줄이는<br>탄소 발자국",
+                "description" : [
+                    "고기와 유제품을 줄이는 것만으로도 탄소 발자국을 최대 73% 감소시킬 수 있습니다. 베지볼의 탄소 발자국은 기존 미트볼보다 20배나 적습니다. "
+                ]
+            },
+
+            "product_0" : {
+                "type" : "default",
+                "description": "",
+                "list" : [
+                    {
+                        "link" : "https://www.ikea.com/kr/ko/p/allemansraetten-vegetable-balls-frozen-100-vegetables-40346434/",
+                        "img" : "../img/detail/food/food-drop-list-01.jpg",
+                        "title" : "ALLEMANSRÄTTEN <br>알레만스레텐",
+                        "keyword" : "냉동베지볼, 채소 100%",
+                        "price" : "9,900",
+                        "number" : "/ kg",
+                        "description" : "IKEA는 건강한 음식을 다양하게 제공하기 위해 끊임없이 노력하고 있습니다. IKEA ALLEMANSRÄTTEN 알레만스레텐 냉동베지볼은 병아리콩, 완두 콩, 당근, 피망, 옥수수, 케일 등 다양한 채소를 넣어 만들었으며, 제조 과정의 탄소 발자국 수치도 낮습니다."
+                    }
+                ]
+            },
+
+            "info3" : {
+                "type" : "default",
+                "title": "더 올바르고,<br>더 맛있는 연어",
+                "description" : [
+                    "IKEA에서 사용하는 모든 연어는 <a class='detail-info__txt-btn' href='javascript:;'>ASC (수산양식관리협의회)</a>의 책임감 있는 수산물 관리 방식 인증을 받은 양식장에서 공급받고 있습니다. ",
+                    "연어는 맛과 영양이 모두 훌륭한 식품으로 일주일에 2~3번 먹으면 내 몸에 필요한 오메가3 지방산과 항산화제, 단백질, 요오드, 비타민 D와 A, B12를 섭취할 수 있습니다. "
+                ],
+                "popup": [
+                    {
+                        "img" : "../img/detail/img-icon-asc.png",
+                        "title" : "ASC(수산양식관리협회) 인증이란?",
+                        "description" : "지속 가능한 방식으로 생산한 수산물에 대한 <br>인증 및 라벨링 프로그램입니다."
+                    }
+                ]
+
+            },
+
+            "product_1" : {
+                "type" : "default",
+                "description": "",
+                "list" : [
+                    {
+                        "link" : "https://www.ikea.com/kr/ko/p/sjoerapport-salmon-fillet-asc-certified-frozen-60360037/",
+                        "img" : "../img/detail/food/food-salmon-list-01.jpg",
+                        "title" : "SJÖRAPPORT 셰라포르트",
+                        "keyword" : "연어필레, ASC 인증, 냉동",
+                        "price" : "15,900",
+                        "number" : "/ 0.5kg",
+                        "description" : "IKEA의 SJÖRAPPORT 셰라포르트 연어필레는 포획 즉시 냉동시켜 맛과 영양까지 그대로 담고 있습니다. 첨가제나 방부제를 넣지 않고 천연 재료만을 사용하여 만들어 생선 특유의 감칠맛과 쫄깃한 살코기를 즐길 수 있습니다."
+                    }
+                ]
+            },
+
+            "info4" : {
+                "type" : "default",
+                "title": "더 나은 미래를<br>약속하는 커피",
+                "description" : [
+                    "IKEA에서 판매하는 커피는 사람과 환경을 생각하는 마음으로 재배한 <a class='detail-info__txt-btn' href='javascript:;'>UTZ 인증</a>을 받은 고품질 유기농 커피입니다. ",
+                    "UTZ 인증은 개선된 노동 환경에서 지속 가능한 농법으로 재배하여 언제든지 생산자 추적이 가능한 농산물에만 부여됩니다. IKEA의 사람과 환경을 생각하며 생산한 커피, 기분 좋게 믿고 즐겨보세요."
+                ],
+                "popup": [
+                    {
+                        "img" : "../img/detail/img-icon-utz.png",
+                        "title" : "UTZ 인증이란?",
+                        "description" : "지속 가능한 방식으로 재배한 커피, 코코아,<br>차에 대한 인증 프로그램입니다."
+                    }
+                ]
+            },
+
+            "product_2" : {
+                "type" : "default",
+                "description": "",
+                "list" : [
+                    {
+                        "link" : "https://www.ikea.com/kr/ko/p/patar-signature-coffee-beans-organic-utz-certified-100-arabica-beans-utz-certified-70324242/",
+                        "img" : "../img/detail/food/food-coffee-list-01.jpg",
+                        "title" : "PÅTÅR 포토르",
+                        "keyword" : "시그니처 커피 원두, 유기농, UTZ 인증/<br>아라비카 원두 100 %",
+                        "price" : "6,900",
+                        "number" : "/ 0.25kg",
+                        "description" : "PÅTÅR 포토르 시그니처 커피 원두는 <br>책임감 있는 출처에서 공급된 100% <br>고품질 아라비카 원두를 사용합니다. <br>과일의 산미와 코코아 향이 혀끝에 남는 <br>정통 스칸디나비아 커피입니다."
+                    },
+                    {
+                        "link" : "https://www.ikea.com/kr/ko/p/patar-espresso-coffee-beans-organic-utz-certified-100-arabica-beans-utz-certified-90324241/",
+                        "img" : "../img/detail/food/food-coffee-list-02.jpg",
+                        "title" : "PÅTÅR 포토르",
+                        "keyword" : "에스프레소 커피원두, 유기농, UTZ 인증/<br>아라비카원두 100 %",
+                        "price" : "6,900",
+                        "number" : "/ 0.25kg",
+                        "description" : "PÅTÅR 포토르 에스프레소 커피 원두는 <br>UTZ 인증을 받은 유기농 제품으로, <br>달콤한 과일 향이 풍부한 진한 다크 <br>로스팅 커피입니다."
+                    },
+                    {
+                        "link" : "https://www.ikea.com/kr/ko/p/patar-espresso-coffee-organic-utz-certified-100-arabica-beans-utz-certified-60324577/",
+                        "img" : "../img/detail/food/food-coffee-list-03.jpg",
+                        "title" : "PÅTÅR 포토르",
+                        "keyword" : "에스프레소 커피, 유기농, UTZ 인증/<br>아라비카원두 100 %",
+                        "price" : "5,900",
+                        "number" : "/ 0.25kg",
+                        "description" : "PÅTÅR 포토르 에스프레소 커피는 UTZ <br>인증을 받은 유기농 제품으로,<br> 달콤한 과일 향이 풍부한 진한 다크 로스팅 <br>커피입니다. 제조 과정도 맛도 일품인 <br>포토르 커피를 즐겨보세요."
+                    }
+                ]
+            },
+
+            "info5" : {
+                "type" : "default",
+                "title": "세상을<br>변화시키는 초콜릿",
+                "description" : [
+                    "인증받은 코코아는 농부들의 삶과 환경에 눈에 띄는 변화를 가져오고 있습니다. 코코아 농부들은 UTZ 프로그램에 참여하며 유해한 화학물질의 사용을 줄이고 물 사용과 토양 관리를 개선하여 보다 지속 가능한 농법을 구현하도록 교육을 받게 됩니다. ",
+                    "UTZ 로고가 있는 초콜릿을 구입하면 사람과 지구에 긍정적인 변화를 가져오는 일을 후원할 수 있습니다. "
+                ]
+            },
+
+            "product_3" : {
+                "type" : "default",
+                "description": "",
+                "list" : [
+                    {
+                        "link" : "https://www.ikea.com/kr/ko/p/beloening-milk-chocolate-tablet-lingonberries-utz-certified-60424647/",
+                        "img" : "../img/detail/food/food-choco-list-01.jpg",
+                        "title" : "BELÖNING 벨뢰닝",
+                        "keyword" : "밀크초콜릿, 링곤베리 UTZ 인증,100 g",
+                        "price" : "1,900",
+                        "number" : "/ 0.1kg",
+                        "description" : "BELÖNING 벨뢰닝은 UTZ 인증을 받은 코코아로 만든 최고급 밀크 초콜릿으로 스웨덴식으로 링곤베리를 넣어 만들었습니다. 카카오 최소 함량은 <br>30%입니다."
+                    },
+                    {
+                        "link" : "https://www.ikea.com/kr/ko/p/beloening-milk-chocolate-tablet-blueberries-utz-certified-80424646/",
+                        "img" : "../img/detail/food/food-choco-list-02.jpg",
+                        "title" : "BELÖNING 벨뢰닝",
+                        "keyword" : "밀크초콜릿, 블루베리 UTZ 인증100 g",
+                        "price" : "1,900",
+                        "number" : "/ 0.1kg",
+                        "description" : "BELÖNING 벨뢰닝은 UTZ 인증을 받은 코코아로 만든 최고급 밀크 초콜릿으로 스웨덴식으로 블루베리를 넣어 만들었습니다. 카카오 최소 함량은 <br>30%입니다."
+                    },
+                    {
+                        "link" : "https://www.ikea.com/kr/ko/p/beloening-white-chocolate-tablet-raspberries-utz-certified-20431758/",
+                        "img" : "../img/detail/food/food-choco-list-03.jpg",
+                        "title" : "BELÖNING 벨뢰닝",
+                        "keyword" : "화이트초콜릿, 라즈베리 UTZ 인증100 g",
+                        "price" : "2,900",
+                        "number" : "/ 0.1kg",
+                        "description" : "BELÖNING 벨뢰닝은 UTZ 인증을 받은 코코아로 만든 최고급 화이트 초콜릿으로 라즈베리를 넣어 만들었습니다. "
+                    }
+                ]
+            }
+        }
+    },
+
+    "en" : {
+        "contents" : {
+            "kv": {
+                "title" : "IKEA<br>Food"
+            },
+
+            "info0" : {
+                "type" : "default",
+                "title": "Sustainable Taste,<br>Sustainable Trust",
+                "description" : [
+                    "At IKEA we will never compromise on food quality and always aim to offer options that are tasty, affordable, nutritionally balanced and more sustainable. ",
+                    "That’s why we’ve challenged ourselves to use ingredients that come from sustainable, responsible, and certified sources. ",
+                    "All the food we serve in IKEA Restaurants, Bistros, and Swedish Food Market meets environmental standards and does its social service. Because food should not only be good for you, it should also be good for the planet."
+                ]
+            },
+
+            "info_green_0" : {
+                "type" : "green",
+                "title": "Enjoy tasty,<br>plant-based <br>veggie balls",
+                "description" : [
+                    "The production of veggie ball started with an idea to create a delicious alternative to the traditional meatball. ",
+                    "Veggie ball is dairy free, made from colourful, chunky plant-based ingredients suitable for vegan and vegetarian diets."
+                ],
+                "percent" : {
+                    "value" : 100,
+                    "txt_description" : "Vegetable",
+                    "txt_bottom_description" : ""
+                }
+            },
+
+            "info1" : {
+                "type" : "default",
+                "title": "The future is<br>plant based",
+                "description" : [
+                    "Meat production has lots of environmental implications, meaning that changing what you eat changes the climate. ",
+                    "Producing a veggie ball makes a carbon footprint that's 20 times smaller compared to when producing a traditional meatball. With less fat and calories, a veggie ball would be loved by both vegans and meat lovers. "
+                ]
+            },
+
+            "info2" : {
+                "type" : "default",
+                "title": "Get the veggie ball<br> rolling on reducing <br>your carbon footprint",
+                "description" : [
+                    "By cutting meat and dairy products from your diet you could reduce the carbon footprint from your food by up to 73%. Veggie balls have a carbon footprint 20 times lower than traditional meatballs."
+                ]
+            },
+
+            "product_0" : {
+                "type" : "default",
+                "description": "",
+                "list" : [
+                    {
+                        "link" : "https://www.ikea.com/kr/en/p/allemansraetten-vegetable-balls-frozen-100-vegetables-40346434/",
+                        "img" : "../img/detail/food/food-drop-list-01.jpg",
+                        "title" : "ALLEMANSRÄTTEN",
+                        "keyword" : "Vegetable balls, 100% vegetables",
+                        "price" : "9,900",
+                        "number" : "/ kg",
+                        "description" : "IKEA always strives to provide you healthy food options in lots of different ways. ALLEMANSRÄTTEN shows clearly visible chunks of chickpeas, green peas, carrots, bell peppers, corn and kale in a beautiful array of colors. Producing a veggie ball makes a lot smaller carbon footprint."
+                    }
+                ]
+            },
+
+            "info3" : {
+                "type" : "default",
+                "title": "More sustainable,<br>more tasty salmon",
+                "description" : [
+                    "All IKEA salmon comes from <a class='detail-info__txt-btn' href='javascript:;'>Aquaculture Stewardship Council (ASC) certified</a> farms, meaning that it meets strict social and environmental standards. ",
+                    "Salmon makes for a delicious and nutritious meal. With just two or three servings a week you’ll meet your body’s need for omega-3 fatty acids while getting a good dose of antioxidants, protein, iodine and vitamins D, A and B12."
+                ],
+                "popup": [
+                    {
+                        "img" : "../img/detail/img-icon-asc.png",
+                        "title" : "What does it mean to be ASC Certified?",
+                        "description" : "ASC Certified is a globally recognized certification and labelling program for sustainably produced seafood."
+                    }
+                ]
+
+            },
+
+            "product_1" : {
+                "type" : "default",
+                "description": "",
+                "list" : [
+                    {
+                        "link" : "https://www.ikea.com/kr/en/p/sjoerapport-salmon-fillet-asc-certified-frozen-60360037/",
+                        "img" : "../img/detail/food/food-salmon-list-01.jpg",
+                        "title" : "SJÖRAPPORT",
+                        "keyword" : "Salmon fillet, ASC certified/frozen",
+                        "price" : "15,900",
+                        "number" : "/ 0.5kg",
+                        "description" : "IKEA’s SJÖRAPPORT salmon fillet preserves the taste, nutritional value and quality by freezing shortly after catch. Pure, non-prepared salmon meat with nothing added allowing all inherent flavours of the oily, firm salmon meat to bloom."
+                    }
+                ]
+            },
+
+            "info4" : {
+                "type" : "default",
+                "title": "Good for you,<br> the farmers<br> and the planet",
+                "description" : [
+                    "IKEA's coffee is made with care for people and the environment. It is <a class='detail-info__txt-btn' href='javascript:;'>UTZ certified</a>, ensuring higher yields, better incomes and better conditions for farmers. ",
+                    "It’s also organic according to EU standards, protecting the environment and natural resources such as water, soil and air.<br> Enjoy a good cup of coffee that cares for people and the environment."
+                ],
+                "popup": [
+                    {
+                        "img" : "../img/detail/img-icon-utz.png",
+                        "title" : "What does it mean to be UTZ Certified?",
+                        "description" : "UTZ Certified is a worldwide certification program for sustainably managed coffee, cocoa and tea."
+                    }
+                ]
+            },
+
+            "product_2" : {
+                "type" : "default",
+                "description": "",
+                "list" : [
+                    {
+                        "link" : "https://www.ikea.com/kr/en/p/patar-signature-coffee-beans-organic-utz-certified-100-arabica-beans-utz-certified-70324242/",
+                        "img" : "../img/detail/food/food-coffee-list-01.jpg",
+                        "title" : "PÅTÅR",
+                        "keyword" : "Signature coffee, beans, organic/ UTZ certified/100% Arabica beans",
+                        "price" : "6,900",
+                        "number" : "/ 0.25kg",
+                        "description" : "PÅTÅR signature coffee is responsibly sourced and made from high quality 100% Arabica beans. It is a medium-dark coffee with a good body, a fruity acidity and notes of cocoa in the aftertaste for a typically Scandinavian coffee experience."
+                    },
+                    {
+                        "link" : "https://www.ikea.com/kr/en/p/patar-espresso-coffee-beans-organic-utz-certified-100-arabica-beans-utz-certified-90324241/",
+                        "img" : "../img/detail/food/food-coffee-list-02.jpg",
+                        "title" : "PÅTÅR",
+                        "keyword" : "Espresso coffee, beans, organic/UTZ certified/100% Arabica beans",
+                        "price" : "6,900",
+                        "number" : "/ 0.25kg",
+                        "description" : "PÅTÅR espresso coffee beans are organic and UTZ certified. It is a rich and intense dark coffee with notes of sweet fruits."
+                    },
+                    {
+                        "link" : "https://www.ikea.com/kr/en/p/patar-espresso-coffee-organic-utz-certified-100-arabica-beans-utz-certified-60324577/",
+                        "img" : "../img/detail/food/food-coffee-list-03.jpg",
+                        "title" : "PÅTÅR",
+                        "keyword" : "Espresso coffee, organic/UTZ certified/100% Arabica beans",
+                        "price" : "5,900",
+                        "number" : "/ 0.25kg",
+                        "description" : "PÅTÅR espresso coffee beans are organic and UTZ certified. It is a rich and intense dark coffee with notes of sweet fruits. Enjoy the coffee that has a great taste and ensures farming practices that are better for people and the planet."
+                    }
+                ]
+            },
+
+            "info5" : {
+                "type" : "default",
+                "title": "Your chocolate<br>choice matters",
+                "description" : [
+                    "Certified cocoa is making tangible differences in the lives of farmers and the environment. When cocoa farmers join the UTZ program, they are trained to implement farming methods that decrease the use of harmful chemicals and manage water-use and soil in better, more sustainable ways.<br class='pc-br'> ",
+                    "This is why your choice matters. By looking for the UTZ logo when you buy chocolate, you are supporting positive changes for people and the planet."
+                ]
+            },
+
+            "product_3" : {
+                "type" : "default",
+                "description": "",
+                "list" : [
+                    {
+                        "link" : "https://www.ikea.com/kr/en/p/beloening-milk-chocolate-tablet-lingonberries-utz-certified-60424647/",
+                        "img" : "../img/detail/food/food-choco-list-01.jpg",
+                        "title" : "BELÖNING",
+                        "keyword" : "Milk chocolate bar,lingonberries UTZ certified, 100g",
+                        "price" : "1,900",
+                        "number" : "/ 0.1kg",
+                        "description" : "BELÖNING is a high-quality milk chocolate made of UTZ certified cocoa blended with lingonberry pieces as a celebration of our Swedish heritage.<br class='pc-br'> The chocolate contains a minimum of 30% cocoa."
+                    },
+                    {
+                        "link" : "https://www.ikea.com/kr/en/p/beloening-milk-chocolate-tablet-blueberries-utz-certified-80424646/",
+                        "img" : "../img/detail/food/food-choco-list-02.jpg",
+                        "title" : "BELÖNING",
+                        "keyword" : "Milk chocolate tablet, blueberries UTZ certified, 100g",
+                        "price" : "1,900",
+                        "number" : "/ 0.1kg",
+                        "description" : "BELÖNING is a high-quality milk chocolate made of UTZ certified cocoa blended with blueberry pieces as a celebration of our Swedish heritage.<br class='pc-br'> The chocolate contains a minimum of 30% cocoa."
+                    },
+                    {
+                        "link" : "https://www.ikea.com/kr/en/p/beloening-white-chocolate-tablet-raspberries-utz-certified-20431758/",
+                        "img" : "../img/detail/food/food-choco-list-03.jpg",
+                        "title" : "BELÖNING",
+                        "keyword" : "White chocolate tablet, raspberries UTZ certified, 100g",
+                        "price" : "2,900",
+                        "number" : "/ 0.1kg",
+                        "description" : "BELÖNING is a high-quality white chocolate made of UTZ certified cocoa blended with raspberry pieces."
+                    }
+                ]
+            }
+        }
+    }
+}
